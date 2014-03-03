@@ -1,0 +1,350 @@
+
+1
+00:00:00,000 --> 00:00:05,023
+There's a lot to learn from behaviorism.
+Certainly the notion that we should be
+
+2
+00:00:05,023 --> 00:00:09,098
+scientific and systematic and not just
+rely on people's reporting of their
+
+3
+00:00:09,098 --> 00:00:14,079
+feelings is a worthwhile endeavor. And
+some of the concepts that behaviorism
+
+4
+00:00:14,079 --> 00:00:19,341
+focuses on, for example the importance of
+feedback. The idea that feedback loops can
+
+5
+00:00:19,341 --> 00:00:24,864
+systematically modify people's behavior is
+an important finding and one that's quite
+
+6
+00:00:24,864 --> 00:00:29,531
+relevant to gamification. And the
+different kinds of rewards that we talked
+
+7
+00:00:29,531 --> 00:00:34,767
+about can help us see how to construct
+different kinds of systems to motivate
+
+8
+00:00:34,767 --> 00:00:40,006
+behavior. But, there are serious
+limitations and blind spots to the
+
+9
+00:00:40,006 --> 00:00:45,090
+behaviorist approach. And we need to
+understand them in order to have a full
+
+10
+00:00:45,090 --> 00:00:51,017
+picture of gamification. For starters,
+there are some important things that
+
+11
+00:00:51,017 --> 00:00:56,064
+behaviorism leaves out. Let's go back to
+the speed camera lottery example. Why do
+
+12
+00:00:56,064 --> 00:01:02,260
+people slow down when there is this sign
+that shows them how fast they're going and
+
+13
+00:01:02,260 --> 00:01:07,065
+the possibility of winning some money if
+they're not speeding. Well, the first
+
+14
+00:01:07,065 --> 00:01:12,085
+thing to think about is that people slow
+down, even without the lottery. When
+
+15
+00:01:12,085 --> 00:01:18,026
+there's just a sign showing people how
+fast they're going, there seems to be an
+
+16
+00:01:18,026 --> 00:01:23,063
+effect that people slow down even then. So
+how do we explain that? Well some of it
+
+17
+00:01:23,063 --> 00:01:28,072
+has to do with feedback, clearly. People
+are seeing their speed. It's making them
+
+18
+00:01:28,072 --> 00:01:34,000
+aware of how fast they're going, which is
+then creating a reaction and causing the
+
+19
+00:01:34,000 --> 00:01:39,035
+person to slow down. But is it just that
+the person's becoming aware that they were
+
+20
+00:01:39,035 --> 00:01:44,044
+speeding or is, what's going on something
+like this. The driver says hm, is this
+
+21
+00:01:44,044 --> 00:01:49,096
+just a sign or is there perhaps a camera
+in it somewhere hidden here that's going
+
+22
+00:01:49,096 --> 00:01:55,058
+to take a picture of me and I'm going to
+get sent a ticket automatically because I
+
+23
+00:01:55,058 --> 00:02:00,301
+was speeding? Or perhaps is there a cop?
+Right behind the sign who is going to give
+
+24
+00:02:00,301 --> 00:02:04,284
+me a ticket if I go too fast? In which
+case I am slowing down not because of
+
+25
+00:02:04,284 --> 00:02:09,014
+feedback so much, I am slowing down
+because I want to avoid the punishment.
+
+26
+00:02:09,014 --> 00:02:13,376
+Punishments are just the flip side of
+rewards. They work the same way so at some
+
+27
+00:02:13,376 --> 00:02:18,038
+level, this is the kind of standard
+behavioristic account, but it's very much
+
+28
+00:02:18,038 --> 00:02:22,704
+cause and effect. We want to avoid direct
+the punishment, so we take some action.
+
+29
+00:02:22,704 --> 00:02:26,646
+It's not about people changing their
+behavior and learning, it's just people
+
+30
+00:02:26,646 --> 00:02:31,641
+slowing down because they think they are
+going get caught. So what about now, the
+
+31
+00:02:31,641 --> 00:02:36,124
+speed camera lottery example? What does
+the lottery change? Well, from a
+
+32
+00:02:36,124 --> 00:02:41,231
+behaviorist's standpoint, at first it's
+hard to think about it. But if you look at
+
+33
+00:02:41,231 --> 00:02:46,546
+this through that kind of behavioral lens.
+What you say is well, behaviorism is about
+
+34
+00:02:46,546 --> 00:02:51,040
+testing what people do. And what's
+different here is a chance of winning
+
+35
+00:02:51,040 --> 00:02:55,157
+money and turns out that people love
+lotteries. There's some reason why there
+
+36
+00:02:55,157 --> 00:02:59,349
+are lotteries all over the place and
+people will spend their money on them even
+
+37
+00:02:59,349 --> 00:03:04,094
+when the odds are terrible. When you know
+empirically, statistically, you're very
+
+38
+00:03:04,094 --> 00:03:08,983
+likely to lose. Not a good bet to make,
+people still play the lottery all the time
+
+39
+00:03:08,983 --> 00:03:14,033
+so a behaviorist might say, alright.
+People love lotteries. That's a lesson.
+
+40
+00:03:14,033 --> 00:03:20,059
+That's a fact that we know. So this works.
+Because it's a lottery and that's all we
+
+41
+00:03:20,059 --> 00:03:24,840
+need to know. So let's do lotteries in
+lots of other places and this was in fact
+
+42
+00:03:24,840 --> 00:03:29,563
+the description of the speed camera
+lottery from Richard Thaler, one of the
+
+43
+00:03:29,563 --> 00:03:35,065
+leading figures in behavioral economics,
+in an op-ed piece that he wrote about this
+
+44
+00:03:35,065 --> 00:03:40,066
+phenomenon. And basically, his conclusion
+was policy makers should use lotteries.
+
+45
+00:03:40,066 --> 00:03:45,740
+And maybe that's a helpful conclusion but
+the point I want to make is, it leaves a
+
+46
+00:03:45,740 --> 00:03:50,507
+lot out. Why do people like lotteries? Is
+it just that we're irrational? What's
+
+47
+00:03:50,507 --> 00:03:56,470
+actually going on there? What is it about
+the lottery here that is motivating to
+
+48
+00:03:56,470 --> 00:04:01,482
+people? And to answer that question you
+have to go beyond behaviorism, because now
+
+49
+00:04:01,482 --> 00:04:06,799
+we're not just talking about what do
+people do, now we're going to, what do
+
+50
+00:04:06,799 --> 00:04:11,913
+people think and feel? And what is
+actually in there motivating someone to
+
+51
+00:04:11,913 --> 00:04:17,975
+act in a certain way? So, that's part of
+the story that's important in general, and
+
+52
+00:04:17,975 --> 00:04:25,054
+in particular, important for gamification.
+So, first big issue with behaviorism is it
+
+53
+00:04:25,054 --> 00:04:30,296
+leaves out alot. But there's some other
+reasons to be concerned, about a purely
+
+54
+00:04:30,296 --> 00:04:35,155
+behaviorist approach. And as it turns out
+B.F. Skinner's work on operating
+
+55
+00:04:35,155 --> 00:04:40,442
+conditioning fell out of favor in
+psychology. There's still been a great
+
+56
+00:04:40,442 --> 00:04:46,214
+deal of work done in that area and much of
+the literature on feedback. And today the
+
+57
+00:04:46,214 --> 00:04:51,565
+work in the quantified self area can be
+seen as being part of that same tradition.
+
+58
+00:04:51,565 --> 00:04:59,951
+But the notion of modifying peoples
+behavior thru these constructed systems of
+
+59
+00:04:59,951 --> 00:05:07,063
+reward or punishment based on learning
+from feedback scared people. And they got
+
+60
+00:05:07,063 --> 00:05:13,072
+associated with things like socialism and
+fascism that were trying to manipulate and
+
+61
+00:05:13,072 --> 00:05:19,025
+change people's behavior in ways that
+people didn't want. Now, that's probably
+
+62
+00:05:19,025 --> 00:05:24,070
+not entirely fair but in thinking about
+the implications of behaviorism for
+
+63
+00:05:24,070 --> 00:05:30,051
+gamification it's worth keeping in mind
+because if you take a purely behaviorist
+
+64
+00:05:30,051 --> 00:05:36,025
+approach you tend to focus on the person
+involved again, as a black box. And that
+
+65
+00:05:36,025 --> 00:05:41,056
+tends to move away from the notion that
+this is a human being and this is a
+
+66
+00:05:41,056 --> 00:05:46,037
+player. Remember game thinking is about
+empowering the person as a player. They
+
+67
+00:05:46,037 --> 00:05:51,019
+are the center of the action. So this
+focus on rewards and behaviorism. Well,
+
+68
+00:05:51,019 --> 00:05:56,067
+again, it can be useful and productive in
+the ways that we've talked about, tends to
+
+69
+00:05:56,067 --> 00:06:02,010
+also have some problems. And in fact there
+are a number of serious problems with a
+
+70
+00:06:02,010 --> 00:06:05,043
+behaviorist approach which we'll turn to
+next.

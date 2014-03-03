@@ -1,0 +1,730 @@
+
+1
+00:00:00,000 --> 00:00:05,032
+As we saw when examining Tic-Tac-Toe, or
+you prefer Noughts and Crosses, there are
+
+2
+00:00:05,032 --> 00:00:09,084
+many different game elements. And if you
+look at all of the games that you can
+
+3
+00:00:09,084 --> 00:00:13,081
+think of, you'd find a vast array of
+different things you may consider as
+
+4
+00:00:13,081 --> 00:00:19,035
+elements, as templates or design patterns
+that can be applied in other games or in
+
+5
+00:00:19,035 --> 00:00:24,085
+gamification. But when we examine
+prominent examples of gamification.
+
+6
+00:00:24,085 --> 00:00:29,048
+Including the ones that we've covered in
+this class for the most part. Certain
+
+7
+00:00:29,048 --> 00:00:35,038
+elements recur again and again. And most
+of them are derived directly from, social
+
+8
+00:00:35,038 --> 00:00:41,689
+games online or from other kinds of online
+video games. So I've developed a framework
+
+9
+00:00:41,689 --> 00:00:46,091
+for, gamification elements. These are the
+common elements that are found in
+
+10
+00:00:46,091 --> 00:00:51,085
+gamification, and some structure around
+the different kinds of those elements.
+
+11
+00:00:51,085 --> 00:00:56,036
+These are not every possible element. Nor
+are these the best elements. Nor are these
+
+12
+00:00:56,036 --> 00:01:02,164
+elements that should be in every example
+of gamification. Again the best example is
+
+13
+00:01:02,164 --> 00:01:06,052
+not the one that uses the most elements
+it's the one that uses the elements the
+
+14
+00:01:06,052 --> 00:01:11,076
+most effectively. But this framework
+should give you some sense of how the
+
+15
+00:01:11,076 --> 00:01:17,428
+different kinds of elements or pieces from
+games can be applied in different ways and
+
+16
+00:01:17,428 --> 00:01:22,897
+it's a pyramid structure that has three
+levels. The three levels being the
+
+17
+00:01:22,897 --> 00:01:28,683
+dynamics on top. The mechanics in the
+middle and the components on the bottom.
+
+18
+00:01:28,683 --> 00:01:33,539
+And I'll describe each of those in some
+detail. The one point to make though
+
+19
+00:01:33,539 --> 00:01:38,687
+before I go on is that this is not the
+totality. Again this is just the elements.
+
+20
+00:01:38,687 --> 00:01:45,443
+And around the elements is the overall
+experience of the game. It's the aspect of
+
+21
+00:01:45,443 --> 00:01:51,506
+the game that's not captured fully by the
+elements. It's the whole that's greater
+
+22
+00:01:51,506 --> 00:01:57,586
+than the sum of the parts. And, a critical
+part of that experience is the aesthetics
+
+23
+00:01:57,586 --> 00:02:05,509
+of the game. The visual experience of the
+game. The, sound. The other aspects that
+
+24
+00:02:05,509 --> 00:02:12,577
+tie the game together and make it feel
+somehow real to the players. All of that
+
+25
+00:02:12,577 --> 00:02:18,532
+is above and beyond the elements, all of
+that is certainly extremely important in
+
+26
+00:02:18,532 --> 00:02:24,137
+games and often important in g amifica
+tion, but that's the part you have to
+
+27
+00:02:24,137 --> 00:02:28,610
+design creatively based on the
+circumstances. What we're going to focus
+
+28
+00:02:28,610 --> 00:02:33,465
+on here is the generic patterns, the
+aspects that can be taken from games and
+
+29
+00:02:33,465 --> 00:02:38,790
+applied to generate specific kinds of
+results. And one point to add before I go
+
+30
+00:02:38,790 --> 00:02:43,600
+into more detail. You may recall Marc
+LeBlanc the game designer who developed
+
+31
+00:02:43,600 --> 00:02:48,395
+the notion of Eight kinds of Fun that I
+mentioned in an earlier segment. He also
+
+32
+00:02:48,395 --> 00:02:54,021
+created an influential framework for
+understanding all games called the MDA
+
+33
+00:02:54,021 --> 00:02:59,076
+Framework. And MDA stands for Mechanics
+Dynamics Aesthetics. So it sounds very
+
+34
+00:02:59,076 --> 00:03:04,003
+much like the framework for gamification
+elements I just gave you. There are some
+
+35
+00:03:04,003 --> 00:03:08,025
+simularities although LeBlanc uses those
+terms in somewhat different ways. Much of
+
+36
+00:03:08,025 --> 00:03:11,981
+what he calls aesthetics is what we talk
+about under the rubric of fun. But
+
+37
+00:03:11,981 --> 00:03:17,335
+LeBlanc's framework has been as they said
+very influential in helping designers and
+
+38
+00:03:17,335 --> 00:03:21,772
+theorists conceptualise different aspects
+of games and how to create them, so if
+
+39
+00:03:21,772 --> 00:03:26,016
+your interested in finding out more.
+Here's a link to a paper that he
+
+40
+00:03:26,016 --> 00:03:31,840
+co-authored that goes into detail on the
+MDA framework. So now back to the pyramid
+
+41
+00:03:31,840 --> 00:03:38,273
+of game elements. At the top of the
+pyramid are the game dynamics. These are
+
+42
+00:03:38,273 --> 00:03:45,714
+the most high level conceptual elements.
+In a game or a gamified system. I like to
+
+43
+00:03:45,714 --> 00:03:51,847
+think of them as the grammar. The hidden
+structure that, makes the experience
+
+44
+00:03:51,847 --> 00:03:56,380
+somehow cohere and have regular patterns.
+They're not. The same thing as the rules.
+
+45
+00:03:56,380 --> 00:04:02,294
+The rules are specific to any game. The
+rules in Tic-Tac-Toe are you put your x
+
+46
+00:04:02,294 --> 00:04:07,213
+and they put their o and there is a
+certain place that you can put them, and
+
+47
+00:04:07,213 --> 00:04:13,254
+so on and so forth. The dynamics are the
+implicit structure which the rules, maybe
+
+48
+00:04:13,254 --> 00:04:19,025
+a surface manifestation of... But they
+also include more conceptual kinds of
+
+49
+00:04:19,025 --> 00:04:24,208
+elements that provide the framing for the
+game. So, for example, constraints, every
+
+50
+00:04:24,208 --> 00:04:29,088
+game has some constraints. Because game
+create meaningful choices and interesting
+
+51
+00:04:29,088 --> 00:04:35,033
+problems by limiting people's freedom, so
+the notion of what constraints can put on
+
+52
+00:04:35,033 --> 00:04:40,054
+users is a n impo rtant dynamic that any
+game designer needs to think about.
+
+53
+00:04:40,054 --> 00:04:46,014
+Emotions. Games can produce almost any
+emotion you can think of, from joy to
+
+54
+00:04:46,014 --> 00:04:50,090
+sadness to everything in between. The
+emotional palette of gamification is
+
+55
+00:04:50,090 --> 00:04:56,004
+typically somewhat more limited, because
+we are dealing with real world, non game
+
+56
+00:04:56,004 --> 00:05:00,086
+context, whether those are at work or a
+marketing context or something like
+
+57
+00:05:00,086 --> 00:05:06,071
+exercise, where getting someone really
+upset or abject sadness are not things
+
+58
+00:05:06,071 --> 00:05:11,072
+that are not going to be valued in that
+kind of situation. But there's still are a
+
+59
+00:05:11,072 --> 00:05:16,661
+variety of emotional levers that can be
+pulled that can make the experience more
+
+60
+00:05:16,661 --> 00:05:22,034
+rich and certainly the joy. The, the sense
+of accomplishment, the emotional
+
+61
+00:05:22,034 --> 00:05:27,082
+reinforcement that pushes people to play
+more is important in most examples of
+
+62
+00:05:27,082 --> 00:05:34,003
+gamification. Narrative, the structure
+that pulls together the pieces of the game
+
+63
+00:05:34,003 --> 00:05:39,029
+or the gamified system into some coherent
+feeling whole. The narrative can be
+
+64
+00:05:39,029 --> 00:05:46,065
+explicit, the story line in a game. Or it
+can be implicit and gamification doesn't
+
+65
+00:05:46,065 --> 00:05:52,074
+necessarily have the richness of the
+aesthetic experiential aspect of games, to
+
+66
+00:05:52,074 --> 00:05:58,017
+put the work in creating a narrative. It
+has to rely upon things like consistent
+
+67
+00:05:58,017 --> 00:06:06,815
+graphical experiences, creating a sense of
+flow, and alluding to certain kinds of
+
+68
+00:06:06,815 --> 00:06:13,642
+practices or certain kinds of story ideas
+that may be in players heads. Using those,
+
+69
+00:06:13,642 --> 00:06:17,781
+again, to tie together the individual
+pieces. If there's no sense of narrative,
+
+70
+00:06:17,781 --> 00:06:23,524
+then the risk is that the gameified system
+will just be a bunch of abstract stuff.
+
+71
+00:06:23,524 --> 00:06:29,300
+You get these badges. You get these points
+but they're totally divorced from any
+
+72
+00:06:29,300 --> 00:06:34,392
+sense of coherence and relation to the
+players life and that tends to limit the
+
+73
+00:06:34,392 --> 00:06:40,016
+effectiveness of gamification.
+Progression, so here we are talking about
+
+74
+00:06:40,016 --> 00:06:47,031
+the notion that you start at one place and
+you go up along the way until you get to
+
+75
+00:06:47,031 --> 00:06:54,028
+some higher place. Very important aspect
+in, really, most examples of gamification,
+
+76
+00:06:54,028 --> 00:06:58,075
+is giving a player a sense that they are
+going to had the opportunity to improve,
+
+77
+00:06:58,075 --> 00:07:03,064
+or at least to move from where they
+started as oppose d to just doing the same
+
+78
+00:07:03,064 --> 00:07:07,094
+thing over and over and over again.
+Progression doesn't necessarily requires,
+
+79
+00:07:07,094 --> 00:07:12,057
+specific examples like levels and points,
+but those we see as typical. Game
+
+80
+00:07:12,057 --> 00:07:18,117
+components that get used to instantiate
+that dynamic. And finally relationships.
+
+81
+00:07:18,117 --> 00:07:23,481
+People interacting with each-other.
+Friends, teammates, opponents. Those
+
+82
+00:07:23,481 --> 00:07:29,342
+general level social dynamics that are
+very important to the experience of the
+
+83
+00:07:29,342 --> 00:07:34,543
+game. So those are the dynamics. At the
+next level are the game mechanics. These I
+
+84
+00:07:34,543 --> 00:07:39,596
+like to think of as the verbs of a game or
+gamification. The elements that move the
+
+85
+00:07:39,596 --> 00:07:44,345
+action forward. Now with these and the
+next set I won't go into detail on every
+
+86
+00:07:44,345 --> 00:07:48,623
+one because there more of them. That's the
+notion of the pyramid that we have a few
+
+87
+00:07:48,623 --> 00:07:53,496
+dynamics. A larger number of mechanics and
+a big number of components. But let me
+
+88
+00:07:53,496 --> 00:07:58,481
+just highlight a few of them. So things
+like challenges. The game sets some
+
+89
+00:07:58,481 --> 00:08:04,008
+objective for you to reach. Chance.
+There's some luck involved. Whether it's a
+
+90
+00:08:04,008 --> 00:08:09,684
+role of the dice or some other mechanism
+that makes it so the result is random and
+
+91
+00:08:09,684 --> 00:08:15,130
+not entirely based on your activity. Both
+cooperation and competition. Their
+
+92
+00:08:15,130 --> 00:08:19,387
+opposites, but both are valuable game
+mechanics. Getting people to work
+
+93
+00:08:19,387 --> 00:08:24,391
+together, as well as to getting people to
+compete against each other to have a
+
+94
+00:08:24,391 --> 00:08:28,872
+notion of winning and loosing. Feedback,
+I've already talked about many times. Very
+
+95
+00:08:28,872 --> 00:08:34,901
+important for users to be able to see how
+they are doing in real time because that
+
+96
+00:08:34,901 --> 00:08:40,109
+powerfully tends to drive them along to go
+further. Resource acquisitions, so game
+
+97
+00:08:40,109 --> 00:08:44,518
+give you things, they give you opportunity
+to get things in order to move the game
+
+98
+00:08:44,518 --> 00:08:49,690
+forward. Empires and Allies, for example,
+let you acquire oil which then you need in
+
+99
+00:08:49,690 --> 00:08:54,416
+order to build things airplanes. Rewards,
+some benefits that you get for some
+
+100
+00:08:54,416 --> 00:08:58,652
+achievement in the game, transactions.
+Buying and selling, or exchanging
+
+101
+00:08:58,652 --> 00:09:02,802
+something with other players, or with
+what's called a non player character, with
+
+102
+00:09:02,802 --> 00:09:06,574
+some automated character in the game.
+Turns we saw with tic tac toe and win
+
+103
+00:09:06,574 --> 00:09:11,664
+states we also saw wi th tic tac toe. T he
+state which defines winning the game. So,
+
+104
+00:09:11,664 --> 00:09:17,870
+again, these are various tools that can be
+used to figure out how to move the action
+
+105
+00:09:17,870 --> 00:09:23,645
+forward. To get the players in the game to
+go to one state to another. And then
+
+106
+00:09:23,645 --> 00:09:28,786
+finally the lowest level, most service
+level kinds of game elements, are the game
+
+107
+00:09:28,786 --> 00:09:34,902
+components. Specific examples, specific
+ways to do the higher level things that
+
+108
+00:09:34,902 --> 00:09:40,483
+dynamics and mechanics represent. So for
+example, achievements, as opposed to just
+
+109
+00:09:40,483 --> 00:09:46,440
+the general notion of the challenge,
+giving the players some reward attached to
+
+110
+00:09:46,440 --> 00:09:52,376
+doing a set of specific things, that's the
+achievement. Avatar, showing the players
+
+111
+00:09:52,376 --> 00:09:57,205
+some visual representation of their
+character. Badges, we're going to talk
+
+112
+00:09:57,205 --> 00:10:02,242
+more about these in a second. But specific
+visual representations of those
+
+113
+00:10:02,242 --> 00:10:08,173
+achievements as well as of the higher
+level dynamics in mechanics. Boss fights
+
+114
+00:10:08,173 --> 00:10:12,932
+is familiar if you play games, it may not
+be if you don't. This is at the end of a
+
+115
+00:10:12,932 --> 00:10:18,430
+level, the end of some part of the game. A
+really hard challenge. A high level
+
+116
+00:10:18,430 --> 00:10:23,434
+monster that you have to defeat, and it's
+typically really hard to do so, in order
+
+117
+00:10:23,434 --> 00:10:28,337
+to get to the next level. Collections is
+pulling together a bunch of different
+
+118
+00:10:28,337 --> 00:10:33,127
+things. Assembling certain pieces or
+certain examples of something. You have to
+
+119
+00:10:33,127 --> 00:10:37,350
+get a whole bunch of spells together. Or,
+you have to get a whole bunch of badges
+
+120
+00:10:37,350 --> 00:10:41,798
+together. To fill up a cabinet that you
+get in the game. Combat is probably
+
+121
+00:10:41,798 --> 00:10:46,803
+familiar. Content unlocking means you need
+to do something. Maybe an achievement.
+
+122
+00:10:46,803 --> 00:10:51,994
+Maybe some leveling up in order to get
+access to certain new content in the game.
+
+123
+00:10:51,994 --> 00:10:57,737
+Gifting altruism. Giving things to other
+people can actually make people want to
+
+124
+00:10:57,737 --> 00:11:01,725
+play the game more because it feels like
+fun. People feel good about giving to
+
+125
+00:11:01,725 --> 00:11:06,629
+others. Leader boards I'll talk about
+more. But, lists the players in order of
+
+126
+00:11:06,629 --> 00:11:11,630
+their score. Levels and points. Should be
+fairly obvious but again I'll talk about
+
+127
+00:11:11,630 --> 00:11:15,828
+them more in a second. Eh. Quests are
+similar to achievements. This is more the
+
+128
+00:11:15,828 --> 00:11:20,345
+kind of game-like notion that you have to
+do some things that somehow a re
+
+129
+00:11:20,345 --> 00:11:25,658
+specifically defined within the structure
+of the game. The social graph. We saw this
+
+130
+00:11:25,658 --> 00:11:29,996
+in Empires and Allies as well as at the
+bottom in the Kias example. Seeing your
+
+131
+00:11:29,996 --> 00:11:35,457
+friends who are also in the game. And
+allowing you to interact with them, to
+
+132
+00:11:35,457 --> 00:11:39,524
+play with and against them. Making the
+game an extension of your social
+
+133
+00:11:39,524 --> 00:11:44,422
+networking experience. Teams, I already
+talked about. Virtual goods. This we'll
+
+134
+00:11:44,422 --> 00:11:49,357
+see more of later on in the course, but
+things within the game. Something that you
+
+135
+00:11:49,357 --> 00:11:55,025
+pick up, the powerful sword or the new
+kind of house that you put on your
+
+136
+00:11:55,025 --> 00:12:00,019
+property in Zenga CityVille. Things that
+are virtual, that are not real, but that
+
+137
+00:12:00,019 --> 00:12:05,038
+users are willing to pay either the
+virtual currency of the game or the time
+
+138
+00:12:05,038 --> 00:12:11,387
+or even real money to get. So altogether
+30 different game elements that have given
+
+139
+00:12:11,387 --> 00:12:15,913
+you. Again, not a universal comprehensive
+list, but it should show you some of the
+
+140
+00:12:15,913 --> 00:12:21,354
+richness, some of the options that you
+have to play with in implementing some
+
+141
+00:12:21,354 --> 00:12:26,437
+gamified system. And the structure of the
+pyramid shows, first of all, that it goes
+
+142
+00:12:26,437 --> 00:12:32,029
+from narrow at top to broad at bottom. So
+there are fewer dynamics than there are
+
+143
+00:12:32,029 --> 00:12:38,065
+components. But it also shows how the
+lower level of examples, the points are
+
+144
+00:12:38,065 --> 00:12:45,011
+examples of things higher up. They are
+examples of progression, and they may also
+
+145
+00:12:45,011 --> 00:12:52,013
+be examples of say, meritive. The lower
+level examples are ways to do some of the
+
+146
+00:12:52,013 --> 00:12:56,075
+higher level things. That's how the
+structure fits together.

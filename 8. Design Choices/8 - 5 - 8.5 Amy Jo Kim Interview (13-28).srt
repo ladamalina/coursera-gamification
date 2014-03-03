@@ -1,0 +1,934 @@
+
+1
+00:00:00,000 --> 00:00:05,004
+For this final segment on design, I wanted
+you to hear from someone who actually
+
+2
+00:00:05,004 --> 00:00:08,013
+works in the field of game design
+professionally.
+
+3
+00:00:08,013 --> 00:00:12,036
+Amy Jo Kim is an expert in the development
+of social architectures.
+
+4
+00:00:12,036 --> 00:00:17,021
+In addition to her game design work, she's
+also an author, and the organizer of
+
+5
+00:00:17,021 --> 00:00:20,037
+workshops on applied game design and
+gamification.
+
+6
+00:00:20,037 --> 00:00:25,060
+As you'll see from my interview with her,
+many of her ideas track the concepts that
+
+7
+00:00:25,060 --> 00:00:32,018
+I've been discussing in the course so far.
+>> Amy Jo, thanks so much for joining us.
+
+8
+00:00:32,018 --> 00:00:36,047
+>> My pleasure.
+>> You're one of the first people that I
+
+9
+00:00:36,047 --> 00:00:42,007
+came across talking about using game
+design in other contexts, way before
+
+10
+00:00:42,007 --> 00:00:47,082
+anyone was using the term gamification.
+So, I'm curious what you make of the
+
+11
+00:00:47,082 --> 00:00:54,011
+current gamification phenomenon, both how
+people are describing it and what people
+
+12
+00:00:54,011 --> 00:00:59,000
+are actually doing.
+>> A great question.
+
+13
+00:00:59,000 --> 00:01:06,653
+So, to me it's a great wave of interest in
+gaming that I think is happening because
+
+14
+00:01:06,653 --> 00:01:11,260
+of all the same reasons we see, you know,
+how many people grew up with games, how
+
+15
+00:01:11,260 --> 00:01:16,091
+much the mechanics are now easier to use.
+Some of them are getting standardized into
+
+16
+00:01:16,091 --> 00:01:20,013
+APIs and tool kits.
+So, I see that there is tremendous
+
+17
+00:01:20,013 --> 00:01:24,075
+interest, and I love that interest.
+I think the word gamification will end up
+
+18
+00:01:24,075 --> 00:01:29,066
+going away, and that this will be part of
+the tool kit of many different types of
+
+19
+00:01:29,066 --> 00:01:32,034
+design in the similar way that AI went
+away.
+
+20
+00:01:32,034 --> 00:01:37,013
+We don't think of Amazon as an AI system,
+although it does have what used to be
+
+21
+00:01:37,013 --> 00:01:42,005
+called artificial intelligence in it with
+its collaborative filtering mechanisms,
+
+22
+00:01:42,005 --> 00:01:42,096
+right?
+>> Mm-hm.
+
+23
+00:01:42,096 --> 00:01:46,077
+>> Evolution, I think, will also happen
+with gamification.
+
+24
+00:01:46,077 --> 00:01:51,083
+I think what we see right now is the
+awakening of what will be a much bigger
+
+25
+00:01:51,083 --> 00:01:56,095
+and longer trend, and I don't think it
+will be called gamification cuz I don't
+
+26
+00:01:56,095 --> 00:02:00,083
+think it'll be one thing.
+I think it will be many different
+
+27
+00:02:00,083 --> 00:02:05,088
+techniques that are inspired by games,
+that get embedded in different ways in
+
+28
+00:02:05,088 --> 00:02:09,082
+software.
+So short answer is, I think the word will
+
+29
+00:02:09,082 --> 00:02:14,011
+go away but.
+The wave will only grow bigger and will
+
+30
+00:02:14,011 --> 00:02:19,598
+become an integral part of most software.
+>> Well so let me ask you about something
+
+31
+00:02:19,598 --> 00:02:24,237
+specific that we hear a lot about in, in
+gamification circles which is Richard
+
+32
+00:02:24,237 --> 00:02:28,373
+Bartle's notion of player types.
+That, you know, pretty much every
+
+33
+00:02:28,373 --> 00:02:32,891
+presentation that, that I've heard on
+gamification that goes into detail says
+
+34
+00:02:32,891 --> 00:02:37,271
+that, that the core issue is that there's
+these, these different kinds of players
+
+35
+00:02:37,271 --> 00:02:40,960
+and we can design for them.
+You actually I think have a, have a
+
+36
+00:02:40,960 --> 00:02:44,742
+slightly different perspective on that.
+Can you talk about it?
+
+37
+00:02:44,742 --> 00:02:48,249
+>> Well I have a game designer's
+perspective.
+
+38
+00:02:48,249 --> 00:02:52,141
+I know Richard Bartle.
+I know where those come from.
+
+39
+00:02:52,141 --> 00:02:57,825
+And I also can, you know, repeat some of
+what he said publicly which is, taking his
+
+40
+00:02:57,825 --> 00:03:01,812
+structures and applying it to all
+gamification is silly.
+
+41
+00:03:01,812 --> 00:03:08,090
+And the reason is the, that's a model of a
+certain kind of emergent human behavior
+
+42
+00:03:08,090 --> 00:03:14,282
+that he saw as a pattern in a number of
+MUDs, multi-user dimensions, which are the
+
+43
+00:03:14,282 --> 00:03:20,604
+text precursors to games like W.o.W.
+So, that is very true and when I worked on
+
+44
+00:03:20,604 --> 00:03:27,409
+designing MMOs, I worked on Ultima Online,
+I worked on Earth and Beyond, done Sims
+
+45
+00:03:27,409 --> 00:03:30,648
+Online.
+Those were particularly useful player
+
+46
+00:03:30,648 --> 00:03:32,690
+types.
+There are many systems.
+
+47
+00:03:32,690 --> 00:03:35,623
+There's the, you know, Myers Briggs
+system.
+
+48
+00:03:35,623 --> 00:03:41,725
+That's another system for in-, there's all
+kinds of systems to say here's how people
+
+49
+00:03:41,725 --> 00:03:44,338
+are.
+Systems are for utility, but they never
+
+50
+00:03:44,338 --> 00:03:47,572
+describe the be-all and end-all of all
+human behavior.
+
+51
+00:03:47,572 --> 00:03:53,158
+So, if you're building an MMO or something
+that has those dynamics, those four player
+
+52
+00:03:53,158 --> 00:03:58,094
+types are extremely useful, and I think
+appropriate to use as a model.
+
+53
+00:03:58,094 --> 00:04:03,560
+You're working on something else, which is
+what most of gamification is.
+
+54
+00:04:03,560 --> 00:04:05,177
+Then.
+They actually don't work.
+
+55
+00:04:05,177 --> 00:04:09,145
+And the reason I know this is because I
+have a consulting business and I've had,
+
+56
+00:04:09,145 --> 00:04:13,354
+you know, used player types with what,
+maybe twenty maybe 30 different clients,
+
+57
+00:04:13,354 --> 00:04:17,679
+and what I've learned is that they only
+work for a small segment of games.
+
+58
+00:04:17,679 --> 00:04:21,575
+A game like Structures.
+I've developed a different take on player
+
+59
+00:04:21,575 --> 00:04:26,319
+types that is much more about what I see
+in social media and social gaming, very
+
+60
+00:04:26,319 --> 00:04:31,062
+similar to Bartle, inspired by Bartle.
+I always start by saying, there's Bartle's
+
+61
+00:04:31,062 --> 00:04:34,090
+player types.
+Here's why they don't work for what we're
+
+62
+00:04:34,090 --> 00:04:37,081
+doing.
+Here's how to tweak them to make them work
+
+63
+00:04:37,081 --> 00:04:42,031
+for what you're doing.
+So here's Bartle's player types, and what
+
+64
+00:04:42,031 --> 00:04:47,089
+I've found and what he's said publicly is
+that points, badges, levels, and
+
+65
+00:04:47,089 --> 00:04:53,063
+leaderboards which are the tropes of
+gamification fundamentally appeal to
+
+66
+00:04:53,063 --> 00:04:59,053
+achievers which is a small segment.
+And here's my take on Bartle's which I
+
+67
+00:04:59,053 --> 00:05:05,030
+call, which I structure around social
+engagement verbs, because it's actually
+
+68
+00:05:05,030 --> 00:05:09,025
+easier to apply.
+Very similarly, there's competing,
+
+69
+00:05:09,025 --> 00:05:14,075
+collaborating, exploring, and expressing.
+Explore is right out of Bartle, so that
+
+70
+00:05:14,075 --> 00:05:18,046
+one is similar.
+Competing is similar to the achievers, but
+
+71
+00:05:18,046 --> 00:05:22,005
+more specific.
+Collaborating is very much what he calls
+
+72
+00:05:22,005 --> 00:05:24,098
+socializers, but with a very game
+perspective.
+
+73
+00:05:24,098 --> 00:05:30,026
+And the reason is that if you're trying to
+choose which game mechanics and which
+
+74
+00:05:30,026 --> 00:05:35,059
+strategy to adopt for your gamification.
+Understanding this is extremely useful,
+
+75
+00:05:35,059 --> 00:05:41,045
+and then what Bartle didn't talk about at
+all that is a huge driver in social media
+
+76
+00:05:41,045 --> 00:05:45,050
+and social gaming is self-expression.
+That one was missing.
+
+77
+00:05:45,050 --> 00:05:51,008
+And the drive toward self-expression.
+For many people, that's a primary player
+
+78
+00:05:51,008 --> 00:05:54,023
+type.
+That there's people that will just play
+
+79
+00:05:54,023 --> 00:05:59,088
+with their avatars and their Miis on the
+Wii and it's a very, very much a part of
+
+80
+00:05:59,088 --> 00:06:05,047
+how social games in particular monetize.
+So these are the four words that I find
+
+81
+00:06:05,047 --> 00:06:09,098
+particularly useful.
+And then here's very specific words, built
+
+82
+00:06:09,098 --> 00:06:16,300
+around those and one of the exercises that
+I do with my clients is to map out the
+
+83
+00:06:16,300 --> 00:06:24,190
+core actions in their product against this
+chart and see where they fall.
+
+84
+00:06:24,190 --> 00:06:29,968
+And then map that against who they're who
+they're trying to reach.
+
+85
+00:06:29,968 --> 00:06:33,604
+For example, if you're trying to reach
+females.
+
+86
+00:06:33,604 --> 00:06:38,978
+You always ask at the beginning who's
+participating in this and how is it they
+
+87
+00:06:38,978 --> 00:06:42,285
+like to engage.
+You're doing, if it's an all male
+
+88
+00:06:42,285 --> 00:06:46,913
+situation and let's say it's a bunch of
+sales guys, they're gonna be really
+
+89
+00:06:46,913 --> 00:06:50,612
+compe-, really comfortable with friendly
+and a competitive trope.
+
+90
+00:06:50,612 --> 00:06:55,489
+If it's females, predictably say middle
+aged moms, or young moms, in general,
+
+91
+00:06:55,489 --> 00:07:00,347
+they're gonna respond much better to
+collaborative mechanics and social
+
+92
+00:07:00,347 --> 00:07:03,522
+mechanics.
+And things like the leader board would be
+
+93
+00:07:03,522 --> 00:07:06,729
+not the first thing to do for that kind of
+community.
+
+94
+00:07:06,729 --> 00:07:11,472
+What I encourage all my clients to do and
+my students to do, is to take this and
+
+95
+00:07:11,472 --> 00:07:14,695
+don't be afraid to tweak it.
+Take it as a starting point.
+
+96
+00:07:14,695 --> 00:07:19,585
+Take Bartle as a starting point, and then
+say, okay, in the world I'm living in with
+
+97
+00:07:19,585 --> 00:07:22,847
+my product, what, you know, what describes
+the prototypes?
+
+98
+00:07:22,847 --> 00:07:26,392
+There might actually be something that's
+much more specific.
+
+99
+00:07:26,392 --> 00:07:29,195
+>> Mm-hm.
+>> To what you're doing that is more
+
+100
+00:07:29,195 --> 00:07:31,791
+useful to you.
+So, the sac-, don't hold the sacred cow so
+
+101
+00:07:31,791 --> 00:07:32,832
+sacred.
+>> [laugh].
+
+102
+00:07:32,832 --> 00:07:36,911
+>> Would be my summary statement.
+>> So, always, always good advice.
+
+103
+00:07:36,911 --> 00:07:41,633
+So, let me ask you to say a little bit
+more about collaborative gaming, because
+
+104
+00:07:41,633 --> 00:07:46,429
+people often tend to assume that, that
+competition is just inherently something
+
+105
+00:07:46,429 --> 00:07:50,377
+that's at the part of games.
+So, what's the opportunities base around
+
+106
+00:07:50,377 --> 00:07:53,794
+those more collaborative and
+self-expression types of games?
+
+107
+00:07:53,794 --> 00:07:58,398
+>> Here's a particular definition that's
+taken from one of the earliest books on
+
+108
+00:07:58,398 --> 00:08:01,825
+game design.
+A game is a system where players engage in
+
+109
+00:08:01,825 --> 00:08:06,476
+an artificial conflict, by my rules,
+resulting in a quantifiable outcome.
+
+110
+00:08:06,476 --> 00:08:11,948
+So that defines a whole host of games.
+But not all games, and increasingly not
+
+111
+00:08:11,948 --> 00:08:17,466
+the games that in fact are being some of
+the biggest hits in the gaming world.
+
+112
+00:08:17,466 --> 00:08:21,110
+So what that does define very well are
+zero sum games.
+
+113
+00:08:21,110 --> 00:08:27,047
+And in game theories there are some games
+are simply games where we are opponents,
+
+114
+00:08:27,047 --> 00:08:31,277
+where we competing for scarce resources,
+if I win you lose.
+
+115
+00:08:31,277 --> 00:08:36,599
+You can layer a team dynamic on to that,
+but that's fundamentally what a zero sum
+
+116
+00:08:36,599 --> 00:08:38,163
+game is.
+Dynamics of.
+
+117
+00:08:38,163 --> 00:08:41,058
+Head-to-head battles.
+Any kind of battle.
+
+118
+00:08:41,058 --> 00:08:44,563
+Any war simulation.
+Go, chess, polo, anything like that.
+
+119
+00:08:44,563 --> 00:08:47,526
+Any rank ordered competition, the
+Olympics.
+
+120
+00:08:47,526 --> 00:08:52,468
+These are all zero-sum games.
+Most gambling games are also zero-sum
+
+121
+00:08:52,468 --> 00:08:55,649
+games.
+Though you're usually playing against the
+
+122
+00:08:55,649 --> 00:08:58,614
+house.
+But again its a finite pie that needs to
+
+123
+00:08:58,614 --> 00:09:04,465
+be divided up among winners and losers.
+So, the, what I've found and some of the
+
+124
+00:09:04,465 --> 00:09:10,377
+games I've worked on that I love the most.
+I found that their, that definition wasn't
+
+125
+00:09:10,377 --> 00:09:13,269
+working.
+I worked on The Sims and then The Sims
+
+126
+00:09:13,269 --> 00:09:17,936
+Online, worked on Ultima Online.
+I worked on Rock Band, probably one of my
+
+127
+00:09:17,936 --> 00:09:22,224
+favorite all-time experiences.
+Those games, you can't just, they don't
+
+128
+00:09:22,224 --> 00:09:26,043
+have, The Sims doesn't have a quantifiable
+outcome, you just keep playing.
+
+129
+00:09:26,043 --> 00:09:30,020
+Neither does Ultima Online.
+So I define those games as a structured
+
+130
+00:09:30,020 --> 00:09:33,998
+experience with rules and goals that's fun
+to play, which to me is a good working
+
+131
+00:09:33,998 --> 00:09:38,065
+definition of a gamified system.
+Rules and goals are pretty critical, fun
+
+132
+00:09:38,065 --> 00:09:41,424
+to play is pretty critical, or at least
+pleasant, engaging.
+
+133
+00:09:41,424 --> 00:09:47,209
+And not a completely unstructured
+experience, but I realized as I dug into
+
+134
+00:09:47,209 --> 00:09:52,083
+game theory that, that actually was
+defining, sorry, non-zero sum games.
+
+135
+00:09:52,083 --> 00:09:57,033
+In non-zero sum games we are not
+opponents, we're partners.
+
+136
+00:09:57,033 --> 00:10:00,046
+And it's a win-win or possibly a lose-lose
+situation.
+
+137
+00:10:00,046 --> 00:10:04,071
+Trading is a non-zero-sum game.
+Draw Something is a perfect example of a
+
+138
+00:10:04,071 --> 00:10:08,020
+non-zero-sum game because you either both
+lose or both win.
+
+139
+00:10:08,038 --> 00:10:12,032
+So other examples would be mini playground
+games, party games.
+
+140
+00:10:12,032 --> 00:10:16,070
+I just mentioned Draw Something which is
+Pictionary in a mobile device.
+
+141
+00:10:16,088 --> 00:10:21,026
+Martial arts are about personal
+advancement and achievement but with a
+
+142
+00:10:21,026 --> 00:10:25,088
+very supportive your winning doesn't make
+somebody else lose unless it's a
+
+143
+00:10:25,088 --> 00:10:29,046
+head-to-head competition.
+The general martial arts is very
+
+144
+00:10:29,046 --> 00:10:33,003
+non-zero-sum.
+And one of the best examples is a charity
+
+145
+00:10:33,003 --> 00:10:37,022
+walk where the more people you can join up
+the more money you raise.
+
+146
+00:10:37,022 --> 00:10:41,035
+We're all winning together.
+How many people can we bring in here to
+
+147
+00:10:41,035 --> 00:10:44,064
+win together?
+That's really what non-zero sum gaming is
+
+148
+00:10:44,064 --> 00:10:48,001
+about, and to me that's the heart of
+collaborative gaming.
+
+149
+00:10:49,046 --> 00:10:55,048
+Since you have experience both, on the web
+side and in the, the games world, I'm
+
+150
+00:10:55,048 --> 00:11:01,051
+curious, if you feel like there is a
+particular mistake that people make when
+
+151
+00:11:01,051 --> 00:11:06,870
+they come out of web design, and social
+media, and those kinds of worlds, and try
+
+152
+00:11:06,870 --> 00:11:11,045
+to engage in gamification?
+That's a great question.
+
+153
+00:11:11,045 --> 00:11:17,028
+The thing I see the most and I just saw
+this last week when I did an audit for a
+
+154
+00:11:17,028 --> 00:11:19,037
+start up.
+See it all the time.
+
+155
+00:11:19,037 --> 00:11:24,005
+People in the web world are very good at
+understanding funnels and engagement
+
+156
+00:11:24,005 --> 00:11:25,062
+loops.
+That's very natural.
+
+157
+00:11:25,062 --> 00:11:30,049
+That's familiar to a lot of what they do.
+They also are familiar with loyalty and
+
+158
+00:11:30,049 --> 00:11:34,091
+the basic concepts of loyalty.
+What they are not familiar with is the
+
+159
+00:11:34,091 --> 00:11:40,049
+fact that a gaming experience changes over
+time, and that there are key stages of a
+
+160
+00:11:40,049 --> 00:11:45,318
+players life cycle what you call the
+player journey, that require actually a
+
+161
+00:11:45,318 --> 00:11:50,049
+different set of features and a different
+set of powers to give the person.
+
+162
+00:11:50,049 --> 00:11:55,046
+So the idea that you're creating an
+experience that unfolds over time and
+
+163
+00:11:55,046 --> 00:12:00,042
+changes over time in response to someone's
+increasing commitment and skill.
+
+164
+00:12:00,042 --> 00:12:04,049
+Is fundamental to a good game, especially
+a good computer game.
+
+165
+00:12:04,049 --> 00:12:07,006
+And that's the mistake I see people
+seeing.
+
+166
+00:12:07,006 --> 00:12:11,079
+They say look, we've got the funnel, and
+we've got this habit loop built, and now
+
+167
+00:12:11,079 --> 00:12:15,014
+we will drive habits.
+Well, you will for a little while.
+
+168
+00:12:15,014 --> 00:12:20,021
+And guess what, if you throw a bunch of
+points at people you'll get a short term
+
+169
+00:12:20,021 --> 00:12:21,055
+lift.
+I have no doubt.
+
+170
+00:12:21,055 --> 00:12:25,023
+And you'll see some nice metrics, but it's
+not sustainable.
+
+171
+00:12:25,023 --> 00:12:30,062
+The thing that makes it sustainable is for
+the experience itself to evolve over time.
+
+172
+00:12:30,062 --> 00:12:35,076
+So I use the three stages of newbie,
+regular, and expert as an analytic tool to
+
+173
+00:12:35,076 --> 00:12:41,009
+help you really think about, you know, the
+first day or week all of which is a newbie
+
+174
+00:12:41,009 --> 00:12:43,075
+experience, not just that very first
+visit.
+
+175
+00:12:43,075 --> 00:12:47,073
+And then the 2-month-in when someone has
+actually become a regular.
+
+176
+00:12:47,073 --> 00:12:51,034
+And then the expert, what we in gaming
+call the elder game.
+
+177
+00:12:51,034 --> 00:12:55,037
+What is it that the most dedicated and
+skillful two to five percent of your
+
+178
+00:12:55,037 --> 00:12:57,321
+players can do that everybody else can't
+do?
+
+179
+00:12:57,321 --> 00:13:01,685
+What is it that keeps them hooked?
+It's not the same thing as in an earlier
+
+180
+00:13:01,685 --> 00:13:04,559
+stage.
+So really thinking about that life cycle
+
+181
+00:13:04,559 --> 00:13:09,150
+and thinking about your engagement loops
+at every stage of your life cycle, not
+
+182
+00:13:09,150 --> 00:13:13,733
+just at that very first stage, will
+dramatically impact your ability to drive
+
+183
+00:13:13,733 --> 00:13:17,102
+retention and profit.
+>> Now that's, that's very good advice
+
+184
+00:13:17,102 --> 00:13:20,967
+and, and of course I think well, what
+we're all looking for is ways to make this
+
+185
+00:13:20,967 --> 00:13:24,581
+sustainable and engaging.
+So, very much appreciate you sharing your
+
+186
+00:13:24,581 --> 00:13:27,014
+insights with the class.
+Thanks for joining us.
+
+187
+00:13:27,014 --> 00:13:28,077
+>> Thanks for having me.

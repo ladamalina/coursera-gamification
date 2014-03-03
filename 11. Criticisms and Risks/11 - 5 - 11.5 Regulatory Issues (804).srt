@@ -1,0 +1,474 @@
+
+1
+00:00:00,000 --> 00:00:05,034
+In addition to the legal considerations
+about gamification, there are a series of
+
+2
+00:00:05,034 --> 00:00:10,075
+what we might call regulatory concerns.
+Areas where some practice might be allowed
+
+3
+00:00:10,075 --> 00:00:16,010
+but it's subject to various restrictions
+by administrative and other agencies. So,
+
+4
+00:00:16,010 --> 00:00:21,058
+let me go through a few of these quickly.
+Most of them like the legal issues become
+
+5
+00:00:21,058 --> 00:00:26,047
+particularly serious when there's money
+involved. The first though, doesn't
+
+6
+00:00:26,047 --> 00:00:31,021
+necessarily require that. It's the
+situation where someone is surreptitiously
+
+7
+00:00:31,021 --> 00:00:35,999
+becoming a marketer or an endorser for a
+product. The Federal Trade Commision in
+
+8
+00:00:35,999 --> 00:00:41,345
+the United States promulgated a set of
+rules in the past few years that were
+
+9
+00:00:41,345 --> 00:00:46,081
+primarily targeted at bloggers who were
+being given money or free products or
+
+10
+00:00:46,081 --> 00:00:52,001
+other consideration by companies in order
+to write wonderful things about those
+
+11
+00:00:52,001 --> 00:00:56,076
+companies on their blogs. Some of them
+were people who actually liked the
+
+12
+00:00:56,076 --> 00:01:02,015
+products and just appreciated getting free
+stuff. But in some cases, the people were
+
+13
+00:01:02,015 --> 00:01:08,019
+effectively becoming paid endorsers. And
+yet, to the readers of the blog, they were
+
+14
+00:01:08,019 --> 00:01:13,025
+just some person who was writing an
+individual blog, and happened to genuinely
+
+15
+00:01:13,025 --> 00:01:18,025
+love these products. So, the Federal Trade
+Commission issued rules, essentially
+
+16
+00:01:18,025 --> 00:01:23,064
+requiring disclosure saying, that if you
+are endorsing a product in some public way
+
+17
+00:01:23,064 --> 00:01:28,089
+because they gave you something, then you
+have to disclose that fact and not have
+
+18
+00:01:28,089 --> 00:01:33,611
+people think that you're endorsing the
+product purely because you happen to love
+
+19
+00:01:33,611 --> 00:01:37,798
+it. So, how does this connect with
+gamification? Well, one of the ways that
+
+20
+00:01:37,798 --> 00:01:45,065
+many gamefication systems in marketing
+provide opportunities for people to get
+
+21
+00:01:45,065 --> 00:01:51,036
+points, is by recommending products or
+companies through social media. So, for
+
+22
+00:01:51,036 --> 00:01:57,383
+example, here, this is the Samsung Nation
+service, which I've used a number of times
+
+23
+00:01:57,383 --> 00:02:02,634
+before. And one of the badges it has is a
+badge that you can unlock here by liking
+
+24
+00:02:02,634 --> 00:02:09,210
+this post. So if you like the post about
+Samsung Nation then you unlock a badge.
+
+25
+00:02:09,210 --> 00:02:14,007
+And there are other badges and
+achievements in this and other
+
+26
+00:02:14,007 --> 00:02:19,035
+gamification systems that involve t hings
+like twee ting about a company or a
+
+27
+00:02:19,035 --> 00:02:24,070
+product, liking it on Facebook, or posting
+something on it on Facebook or elsewhere.
+
+28
+00:02:24,070 --> 00:02:29,092
+And these are situations that might give
+rise to this requirement of disclosure.
+
+29
+00:02:29,092 --> 00:02:35,031
+Now, in these cases, the person involved
+is not necessarily getting paid directly.
+
+30
+00:02:35,031 --> 00:02:40,037
+They're just getting some virtual value
+through the point system or the
+
+31
+00:02:40,037 --> 00:02:45,083
+achievements in the gamified system, which
+itself may or may not produce tangible
+
+32
+00:02:45,083 --> 00:02:51,023
+real rewards. But it's worth thinking
+about if this is a key structure in the
+
+33
+00:02:51,023 --> 00:02:56,062
+gamified system whether, at some point, it
+might run afoul of some of these rules.
+
+34
+00:02:56,062 --> 00:03:03,018
+Second concern from the standpoint of
+regulation is banking. If in fact, what's
+
+35
+00:03:03,018 --> 00:03:09,072
+involved in the gamified system is a
+currency, is something that is like money
+
+36
+00:03:09,072 --> 00:03:14,080
+or that is freely tradable back and forth
+with money, then potentially all of the
+
+37
+00:03:14,080 --> 00:03:19,056
+kinds of requirements that apply to banks,
+things like record keeping, reserve
+
+38
+00:03:19,056 --> 00:03:24,031
+requirements, things about currency
+manipulation, fraud, money laundering is a
+
+39
+00:03:24,031 --> 00:03:29,039
+big one, restrictions on taking money in
+and out of countries, consumer protection
+
+40
+00:03:29,039 --> 00:03:34,008
+laws, taxation rules, accounting rules.
+All that stuff potentially applies or
+
+41
+00:03:34,008 --> 00:03:39,003
+maybe, you, as the service provider are
+not permitted to engage in this activity
+
+42
+00:03:39,003 --> 00:03:43,072
+unless you are registered and regulated as
+a bank. So, this is something that
+
+43
+00:03:43,072 --> 00:03:48,663
+typically a gamified system provider or a
+company that's using some sort of gamified
+
+44
+00:03:48,663 --> 00:03:53,672
+system, is not going to want to have to
+deal with. They're not in this because
+
+45
+00:03:53,672 --> 00:03:59,749
+they want to build a full-fledge financial
+institution even if they're using some
+
+46
+00:03:59,749 --> 00:04:04,356
+sort of virtual goods or virtual
+currency-type system as part of their
+
+47
+00:04:04,356 --> 00:04:09,327
+platform. Again, this is something that
+you're probably not going to run into with
+
+48
+00:04:09,327 --> 00:04:15,094
+most gamified systems, but worth keeping
+in mind if there is real money going in or
+
+49
+00:04:15,094 --> 00:04:19,616
+out of the system and there is some
+tradable structure around a virtual
+
+50
+00:04:19,616 --> 00:04:24,944
+currency. The third one is gambling and
+sweepstakes. So, again, if there's some
+
+51
+00:04:24,944 --> 00:04:30,722
+reward, some valuable tangible reward that
+can be achieved thro ugh the system then,
+
+52
+00:04:30,722 --> 00:04:35,632
+there is the pote ntial to get swept up
+under either sweepstakes laws which, at
+
+53
+00:04:35,632 --> 00:04:40,064
+least in the United States, are
+predominantly issues at the state level,
+
+54
+00:04:40,064 --> 00:04:44,620
+where different states have different
+requirements about what kinds of
+
+55
+00:04:44,620 --> 00:04:49,512
+sweepstakes you can do, whether, for
+example, you have to require that someone
+
+56
+00:04:49,512 --> 00:04:54,437
+be able to enter the sweepstakes without
+having bought your product and so forth,
+
+57
+00:04:54,437 --> 00:04:59,061
+that's one category. If the idea is
+basically, this is a random drawing in
+
+58
+00:04:59,061 --> 00:05:04,029
+return for buying a ticket, participating
+by using a product or something else, that
+
+59
+00:05:04,029 --> 00:05:08,048
+you're going to win some money if you're
+the winner of the sweepstakes. Then
+
+60
+00:05:08,048 --> 00:05:12,084
+potentially, if the gamified system has
+some structure that looks like that, you
+
+61
+00:05:12,084 --> 00:05:16,098
+have to think about those rules. Or, on
+the other hand, if this is considered
+
+62
+00:05:16,098 --> 00:05:21,051
+gambling, then a whole other set of rules
+apply, and these are predominantly at the
+
+63
+00:05:21,051 --> 00:05:27,023
+national level. So, in the United States,
+interstate gambling, is by and large
+
+64
+00:05:27,023 --> 00:05:33,532
+prohibited. What is permitted is gambling
+in designated areas, like Las Vegas and
+
+65
+00:05:33,532 --> 00:05:37,735
+Atlantic City, and on certain Indian
+reservations, and government sponsored
+
+66
+00:05:37,735 --> 00:05:42,688
+lotteries, as well as a variety of other
+things that are not quite considered
+
+67
+00:05:42,688 --> 00:05:47,027
+gambling. In many other countries,
+gambling is permitted, but regulated for
+
+68
+00:05:47,027 --> 00:05:52,341
+access to children and so forth. And we
+have all kinds of questions that come up
+
+69
+00:05:52,341 --> 00:05:57,448
+when online gambling sites locate outside
+of the United States or in other places
+
+70
+00:05:57,448 --> 00:06:02,907
+and then they're available to people in
+different countries. The point here is
+
+71
+00:06:02,907 --> 00:06:07,738
+that if a gamified system seems like
+gambling, I've already talked about a few
+
+72
+00:06:07,738 --> 00:06:12,925
+times the slot machine-like aspect of some
+gamified systems and the fact that these
+
+73
+00:06:12,925 --> 00:06:18,033
+are systems that can actually tie into
+real tangible rewards. If what this looks
+
+74
+00:06:18,033 --> 00:06:23,437
+like is a different way of gambling, then
+potentially regulators will say, it's
+
+75
+00:06:23,437 --> 00:06:28,499
+subject to those gaming rules and maybe
+even those prohibitions if it is in
+
+76
+00:06:28,499 --> 00:06:33,572
+country like the United States that has
+regulations on gambling. So, this is again
+
+77
+00:06:33,572 --> 00:06:38,690
+something to think abo ut where there is
+money involved. There is a distinction in
+
+78
+00:06:38,690 --> 00:06:43,929
+g ambling law between what are called,
+games of skill and games of chance. The
+
+79
+00:06:43,929 --> 00:06:49,021
+idea being that basically gambling is all
+over here, gambling is something where
+
+80
+00:06:49,021 --> 00:06:53,556
+essentially, you're not guaranteed that
+you're going to win based on your skill,
+
+81
+00:06:53,556 --> 00:06:58,577
+you're just hoping to win based on, say, a
+pull of the lever on a slot machine. On
+
+82
+00:06:58,577 --> 00:07:03,838
+the other hand, if it's primarily about
+skill, if you're winning a prize for doing
+
+83
+00:07:03,838 --> 00:07:08,304
+something effectively whether that's
+winning a prize for winning a sports
+
+84
+00:07:08,304 --> 00:07:13,208
+contest or for winning some other kind of
+contest, where the most skillful person is
+
+85
+00:07:13,208 --> 00:07:17,798
+the winner, then, the gambling laws don't
+necessarily apply in the same way. And the
+
+86
+00:07:17,798 --> 00:07:22,564
+question is in a gamified system where
+there might be elements of randomness and
+
+87
+00:07:22,564 --> 00:07:26,563
+also elements of skill involved, which
+side of the line would it fall under?
+
+88
+00:07:26,563 --> 00:07:30,648
+Again, if anything like this is
+potentially an issue with the system that
+
+89
+00:07:30,648 --> 00:07:35,144
+you're involved with a good idea to call
+in someone with more specific legal
+
+90
+00:07:35,144 --> 00:07:39,413
+knowledge to think about it and help
+advise you on what to do. Now, these are,
+
+91
+00:07:39,413 --> 00:07:44,208
+by no means, all of the legal and
+regulatory questions that might come up
+
+92
+00:07:44,208 --> 00:07:49,852
+with regard to gamification. But they're
+some of the bigger ones that might lead to
+
+93
+00:07:49,852 --> 00:07:55,071
+a particularly serious problem if the
+system covers the area that the legal or
+
+94
+00:07:55,071 --> 00:08:00,762
+regulatory restriction involves and it's
+not done in a way that takes into account
+
+95
+00:08:00,762 --> 00:08:03,086
+what those obligations might entail.

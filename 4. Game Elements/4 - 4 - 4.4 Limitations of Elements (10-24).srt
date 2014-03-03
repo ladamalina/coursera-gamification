@@ -1,0 +1,810 @@
+
+1
+00:00:00,8 --> 00:00:01,934
+Okay. 
+So you've learned about all of these 
+
+2
+00:00:01,934 --> 00:00:05,556
+different game elements. 
+And in particularly the points, badges, 
+
+3
+00:00:05,556 --> 00:00:08,986
+and leader boards. 
+You're done, right? 
+
+4
+00:00:08,986 --> 00:00:11,968
+Wrong. 
+Game elements are a starting point for 
+
+5
+00:00:11,968 --> 00:00:15,784
+gamification. 
+They are raw materials and tools you can 
+
+6
+00:00:15,784 --> 00:00:19,968
+use and deploy. 
+But, just having them only gives you part 
+
+7
+00:00:19,968 --> 00:00:23,124
+of what you need to know. 
+And frankly, a big problem with 
+
+8
+00:00:23,124 --> 00:00:26,786
+gamification today. 
+Is that, many companies think that just 
+
+9
+00:00:26,786 --> 00:00:32,954
+throwing elements onto a business process 
+magically makes something gamelike. 
+
+10
+00:00:32,954 --> 00:00:37,468
+Magically makes it fun and engaging, 
+without doing any of the really hard 
+
+11
+00:00:37,468 --> 00:00:40,944
+work. 
+And we'll look more at this objection and 
+
+12
+00:00:40,944 --> 00:00:44,360
+what's accurate about it later on in the 
+course when I talk about the 
+
+13
+00:00:44,360 --> 00:00:48,462
+pointsification argument about 
+gamification. 
+
+14
+00:00:48,462 --> 00:00:51,942
+But for now, what's important is to 
+understand that, game elements are a 
+
+15
+00:00:51,942 --> 00:00:55,680
+starting point. 
+But not the entirety of what you need to 
+
+16
+00:00:55,680 --> 00:00:58,323
+do. 
+And if they were, then we would take 
+
+17
+00:00:58,323 --> 00:01:02,480
+something like a frequent flyer program 
+and say, aha. 
+
+18
+00:01:02,480 --> 00:01:05,550
+We've got the points. 
+We've got the rewards that you get in 
+
+19
+00:01:05,550 --> 00:01:09,750
+terms of free travel. 
+You level up this person is premier 
+
+20
+00:01:09,750 --> 00:01:14,830
+silver in this program. 
+And you get badges here for frequent 
+
+21
+00:01:14,830 --> 00:01:17,817
+flyer miles. 
+It's the credit card representing your 
+
+22
+00:01:17,817 --> 00:01:19,890
+different level. 
+The progress bars. 
+
+23
+00:01:19,890 --> 00:01:23,398
+Remember the LinkedIn progress bar? 
+ha, people will love that. 
+
+24
+00:01:23,398 --> 00:01:26,230
+Ooh, and status. 
+We haven't really talked about this yet. 
+
+25
+00:01:26,230 --> 00:01:30,520
+But often, a claim that's made about 
+gamification is that it's very powerful. 
+
+26
+00:01:30,520 --> 00:01:34,870
+Because people love to show off their 
+points and their badges and so forth. 
+
+27
+00:01:34,870 --> 00:01:38,380
+So here we get premier status. 
+That sounds great. 
+
+28
+00:01:38,380 --> 00:01:41,890
+Well that's all there was to it. 
+First of all, most people would spend all 
+
+29
+00:01:41,890 --> 00:01:46,31
+of their time just in love with their 
+frequent flyer mile programs. 
+
+30
+00:01:46,31 --> 00:01:49,276
+And constantly trying to play the 
+frequent flyer mile game when in fact 
+
+31
+00:01:49,276 --> 00:01:53,90
+that's not really how people get this 
+experience at all. 
+
+32
+00:01:53,90 --> 00:01:56,450
+People like getting frequent flyer miles 
+but, they don't think about it 
+
+33
+00:01:56,450 --> 00:02:01,349
+necessarily as a really engaging game. 
+Except for a fairly small subset of 
+
+34
+00:02:01,349 --> 00:02:05,375
+hardcore fliers who do everything they 
+can do optimize against their frequent 
+
+35
+00:02:05,375 --> 00:02:10,193
+flyer program. 
+The larger point is that the elements are 
+
+36
+00:02:10,193 --> 00:02:13,182
+not the game. 
+You'll recall earlier I said the 
+
+37
+00:02:13,182 --> 00:02:16,404
+experience in the game are different. 
+Well, the elements in the game are 
+
+38
+00:02:16,404 --> 00:02:19,322
+different as well. 
+The game, as I showed in that diagram is 
+
+39
+00:02:19,322 --> 00:02:22,810
+the thing in between the elements and the 
+experience. 
+
+40
+00:02:22,810 --> 00:02:26,586
+So if you just look at the elements, you 
+say oh, this site's got badges, great, 
+
+41
+00:02:26,586 --> 00:02:30,783
+it's got achievements, great, it's got 
+quests, great. 
+
+42
+00:02:30,783 --> 00:02:33,900
+That alone doesn't tell you whether it's 
+successful. 
+
+43
+00:02:33,900 --> 00:02:38,340
+What makes the elements successful is the 
+way that they are all tied together. 
+
+44
+00:02:38,340 --> 00:02:42,829
+And often, that involves recourse to some 
+of the higher level concepts, like the 
+
+45
+00:02:42,829 --> 00:02:46,248
+dynamics. 
+You'll notice that points, badges, and 
+
+46
+00:02:46,248 --> 00:02:49,500
+leader boards all exist at the base of 
+the pyramid. 
+
+47
+00:02:49,500 --> 00:02:54,321
+They are service level components. 
+So, elements themselves don't tell you 
+
+48
+00:02:54,321 --> 00:02:59,280
+that the experience is fun and engaging. 
+Second point. 
+
+49
+00:02:59,280 --> 00:03:03,242
+If you focus too heavily on the elements, 
+especially on the PBLs. 
+
+50
+00:03:03,242 --> 00:03:06,320
+There's a real tendency to over-emphasize 
+rewards. 
+
+51
+00:03:06,320 --> 00:03:09,590
+And I'm going to talk about this in more 
+detail in the psychology section. 
+
+52
+00:03:09,590 --> 00:03:13,190
+How it is that rewards can actually 
+demotivate. 
+
+53
+00:03:13,190 --> 00:03:17,250
+So saying if you do this, you will get 
+either a badge or maybe even a cash 
+
+54
+00:03:17,250 --> 00:03:21,192
+prize. 
+Can actually make people less likely to 
+
+55
+00:03:21,192 --> 00:03:26,190
+engage in the activity and less likely to 
+really try their best. 
+
+56
+00:03:26,190 --> 00:03:35,420
+But for now, it's sufficient to say 
+rewards are not the same thing as fun. 
+
+57
+00:03:35,420 --> 00:03:38,670
+I described different theories of what 
+fun is. 
+
+58
+00:03:38,670 --> 00:03:43,110
+And most of them included things other 
+than getting some reward. 
+
+59
+00:03:43,110 --> 00:03:45,638
+Fun can be about interacting wtih 
+friends. 
+
+60
+00:03:45,638 --> 00:03:49,418
+It can be about blowing off steam, it can 
+be about solving problems, it can be 
+
+61
+00:03:49,418 --> 00:03:53,620
+about exploration. 
+Many different things can be fun. 
+
+62
+00:03:53,620 --> 00:03:57,622
+The fact that you received a reward does 
+not necessarily mean that that experience 
+
+63
+00:03:57,622 --> 00:04:00,996
+is fun. 
+And the fact that the experience is fun 
+
+64
+00:04:00,996 --> 00:04:04,590
+doesn't necessarily mean that there's 
+some reward in it somewhere. 
+
+65
+00:04:04,590 --> 00:04:08,418
+And while rewards are not a requirement 
+for the PBL kind of approach to 
+
+66
+00:04:08,418 --> 00:04:12,157
+gamification. 
+They tend to be a dissenter of those 
+
+67
+00:04:12,157 --> 00:04:15,384
+kinds of implementations. 
+And that's a flaw. 
+
+68
+00:04:15,384 --> 00:04:18,594
+Again, the rewards themselves are not 
+necessarily wrong. 
+
+69
+00:04:18,594 --> 00:04:22,951
+But if they're the only thing that the 
+designer focuses on is the objective. 
+
+70
+00:04:22,951 --> 00:04:26,485
+Then there is a great danger that the 
+system will not actually generate the 
+
+71
+00:04:26,485 --> 00:04:29,896
+true results which come from real 
+engagement. 
+
+72
+00:04:29,896 --> 00:04:34,50
+And finally if you have points, badges 
+and leader boards in your site. 
+
+73
+00:04:34,50 --> 00:04:38,3
+And that's the heart of it it's likely to 
+look somewhat like every other site that 
+
+74
+00:04:38,3 --> 00:04:42,680
+has points, badges and leader boards. 
+And that causes two problems. 
+
+75
+00:04:42,680 --> 00:04:46,330
+One is. 
+Users don't necessarily differentiate. 
+
+76
+00:04:46,330 --> 00:04:49,320
+And the second is users get burned out. 
+They say, Wow. 
+
+77
+00:04:49,320 --> 00:04:52,475
+I just went through collecting all these 
+badges in this other site. 
+
+78
+00:04:52,475 --> 00:04:56,220
+Why do I have to start from scratch and 
+collect these badges here on this site? 
+
+79
+00:04:56,220 --> 00:04:59,665
+It's not fun, even though the first time 
+I experienced it, I thought it was cool 
+
+80
+00:04:59,665 --> 00:05:05,162
+and it attracted me to play more. 
+So a couple of common problems with In 
+
+81
+00:05:05,162 --> 00:05:10,690
+particular, too much focus on PBLs in 
+gamification. 
+
+82
+00:05:10,690 --> 00:05:15,528
+There are a variety of other reasons to 
+not stop with game elements. 
+
+83
+00:05:15,528 --> 00:05:19,856
+And let me give you one example here. 
+And this comes from Google, which is an 
+
+84
+00:05:19,856 --> 00:05:23,347
+extraordinarily good and successful 
+company in many ways. 
+
+85
+00:05:23,347 --> 00:05:26,421
+But here's something that they 
+implemented which, to me, has not been 
+
+86
+00:05:26,421 --> 00:05:30,510
+that great a success. 
+And it's called Google News Badges. 
+
+87
+00:05:30,510 --> 00:05:34,536
+So Google in the summer of 2011 announced 
+that they would add a gamification 
+
+88
+00:05:34,536 --> 00:05:38,140
+feature to Google News. 
+Hey, everyone's doing it. 
+
+89
+00:05:38,140 --> 00:05:43,920
+And so what they said was as you surf 
+around and read news articles in Google 
+
+90
+00:05:43,920 --> 00:05:48,705
+News. 
+Depending on the subject area of what you 
+
+91
+00:05:48,705 --> 00:05:54,458
+read, you would get these badges. 
+This is a basketball badge because I read 
+
+92
+00:05:54,458 --> 00:05:58,680
+a bunch of articles about basketball. 
+And these just pop up. 
+
+93
+00:05:58,680 --> 00:06:01,105
+There's not a Google News Badges site you 
+go to. 
+
+94
+00:06:01,105 --> 00:06:04,590
+You just find them, suddenly you read a 
+bunch of basketball articles. 
+
+95
+00:06:04,590 --> 00:06:07,900
+And Google has a whole bunch of reasons 
+why this is good for you. 
+
+96
+00:06:07,900 --> 00:06:10,930
+It's a way of track of what you're 
+reading. 
+
+97
+00:06:10,930 --> 00:06:13,230
+It's a way of showing people what you're 
+reading. 
+
+98
+00:06:13,230 --> 00:06:16,860
+It's a way of showing things to your 
+friends. 
+
+99
+00:06:16,860 --> 00:06:21,280
+It's a way of getting some data about how 
+many articles you've read in a certain 
+
+100
+00:06:21,280 --> 00:06:26,80
+compared to everyone else. 
+But none of these to me seem terribly 
+
+101
+00:06:26,80 --> 00:06:28,525
+compelling. 
+If I like reading articles about 
+
+102
+00:06:28,525 --> 00:06:31,450
+basketball I don't necessarily need the 
+news badge to tell me I've read a bunch 
+
+103
+00:06:31,450 --> 00:06:35,230
+of articles about basketball and even if 
+it does. 
+
+104
+00:06:35,230 --> 00:06:38,815
+So what? 
+The badges also are not really giving me 
+
+105
+00:06:38,815 --> 00:06:42,760
+any kind of reward or achievement. 
+They're just there. 
+
+106
+00:06:42,760 --> 00:06:46,205
+They're looking like the kind of PBL 
+badges that recognize some 
+
+107
+00:06:46,205 --> 00:06:49,938
+accomplishment. 
+But here the accomplishment is just I 
+
+108
+00:06:49,938 --> 00:06:54,0
+happened to read a bunch of articles on 
+the same topic. 
+
+109
+00:06:54,0 --> 00:06:57,670
+So it's not clear to me how Google News 
+Badges. 
+
+110
+00:06:57,670 --> 00:07:01,465
+Truly motivates and engages Google news 
+readers to do anything that they wouldn't 
+
+111
+00:07:01,465 --> 00:07:04,990
+already do. 
+And indeed Google recently announced that 
+
+112
+00:07:04,990 --> 00:07:08,590
+it had gotten rid of the News Badges 
+feature entirely. 
+
+113
+00:07:08,590 --> 00:07:11,574
+So what went wrong? 
+It seems like they saw the appeal of 
+
+114
+00:07:11,574 --> 00:07:16,260
+gamification and just thought they would 
+try it out in this way. 
+
+115
+00:07:16,260 --> 00:07:20,940
+And that's dangerous, because it leads 
+you to put things into sites that don't 
+
+116
+00:07:20,940 --> 00:07:26,110
+have a direct connection to driving real 
+business value. 
+
+117
+00:07:26,110 --> 00:07:29,260
+And when I get to the design section, 
+I'll talk about how to think about those 
+
+118
+00:07:29,260 --> 00:07:32,460
+kinds of questions first, rather than 
+putting in the elements and going from 
+
+119
+00:07:32,460 --> 00:07:36,388
+there. 
+A few more points to drive home, this 
+
+120
+00:07:36,388 --> 00:07:41,99
+concept that the elements. 
+Well they may be useful, and they're a 
+
+121
+00:07:41,99 --> 00:07:45,522
+good starting board for gamification, 
+they're not the game itself. 
+
+122
+00:07:45,522 --> 00:07:48,233
+Because, if you just focus on these 
+elements. 
+
+123
+00:07:48,233 --> 00:07:52,290
+What about those meaningful choices which 
+make something game-like? 
+
+124
+00:07:52,290 --> 00:07:56,450
+Just deciding to click one time versus 
+click a hundred times, or deciding to, 
+
+125
+00:07:56,450 --> 00:08:01,730
+watch a video over here versus do 
+something over here on the site. 
+
+126
+00:08:01,730 --> 00:08:04,804
+It isn't really a choice that feels 
+weighty. 
+
+127
+00:08:04,804 --> 00:08:09,156
+It feels like it's something that the 
+person has to think about and make a good 
+
+128
+00:08:09,156 --> 00:08:12,952
+choice or a bad choice. 
+it's not something that really 
+
+129
+00:08:12,952 --> 00:08:17,611
+necessarily engages the user. 
+Similarly, challenges are not necessarily 
+
+130
+00:08:17,611 --> 00:08:20,296
+puzzles. 
+So saying that you have to do something 
+
+131
+00:08:20,296 --> 00:08:25,550
+and something that may take more effort. 
+So for example, clicking 1000 times takes 
+
+132
+00:08:25,550 --> 00:08:30,667
+a lot more effort than clicking one time. 
+But clicking 1000 times isn't 
+
+133
+00:08:30,667 --> 00:08:33,620
+challenging. 
+It's certainly not what we think of as a 
+
+134
+00:08:33,620 --> 00:08:37,250
+puzzle, something that requires problem 
+solving and thought in creativity to 
+
+135
+00:08:37,250 --> 00:08:41,990
+overcome. 
+Now not every game of[UNKNOWN] has those. 
+
+136
+00:08:41,990 --> 00:08:44,880
+And they're not well suited to every 
+single example. 
+
+137
+00:08:44,880 --> 00:08:48,240
+But if you can create something that 
+feels like a puzzle, our brains love 
+
+138
+00:08:48,240 --> 00:08:51,676
+those things. 
+I don't mean just a jigsaw puzzle or 
+
+139
+00:08:51,676 --> 00:08:55,106
+logic puzzle. 
+But something that feels like there's 
+
+140
+00:08:55,106 --> 00:08:58,195
+some challenge. 
+There's some creativity that you're 
+
+141
+00:08:58,195 --> 00:09:01,624
+called upon to deploy. 
+Is something that's going to be much more 
+
+142
+00:09:01,624 --> 00:09:05,214
+powerful than something that just 
+requires mere effort. 
+
+143
+00:09:05,214 --> 00:09:09,888
+Third, what about mastery? 
+The fact that you can get a bunch of 
+
+144
+00:09:09,888 --> 00:09:14,594
+badges and get a bunch of points. 
+Is there really a pathway, to true 
+
+145
+00:09:14,594 --> 00:09:19,330
+competence. 
+To being an expert at something or not. 
+
+146
+00:09:19,330 --> 00:09:23,296
+If it's just a staircase for the sake of 
+having a staircase. 
+
+147
+00:09:23,296 --> 00:09:26,372
+It may have some value, it may attract 
+people. 
+
+148
+00:09:26,372 --> 00:09:30,68
+But it's not going to be as rich and 
+engaging as something that has an 
+
+149
+00:09:30,68 --> 00:09:34,261
+opportunity to truly master some kind of 
+skill. 
+
+150
+00:09:34,261 --> 00:09:37,600
+Whatever that skill is? 
+Community. 
+
+151
+00:09:37,600 --> 00:09:41,48
+As I talked about a few times. 
+Social interactions are tremendously 
+
+152
+00:09:41,48 --> 00:09:43,982
+powerful in games. 
+And often, these PBL type sites have no 
+
+153
+00:09:43,982 --> 00:09:48,460
+notion of interaction with other people. 
+You're just going and collecting things 
+
+154
+00:09:48,460 --> 00:09:52,650
+just for it's own sake. 
+And finally, people are different. 
+
+155
+00:09:52,650 --> 00:09:56,200
+So if there is just one kind of 
+structure. 
+
+156
+00:09:56,200 --> 00:09:59,196
+That gives people a set of tasks to 
+overcome. 
+
+157
+00:09:59,196 --> 00:10:04,29
+Is it really going to pull in peope with 
+different sorts of motivations. 
+
+158
+00:10:04,29 --> 00:10:07,410
+People with different sorts of 
+conceptions of fun. 
+
+159
+00:10:07,410 --> 00:10:12,540
+So these are some of the limitations of a 
+purely element focused approach. 
+
+160
+00:10:12,540 --> 00:10:16,396
+I put this whole unit in on game elements 
+because they are important. 
+
+161
+00:10:16,396 --> 00:10:21,220
+And you need to understand what they are 
+to start down the path of gamification. 
+
+162
+00:10:21,220 --> 00:10:23,923
+But you can't stop there. 
+

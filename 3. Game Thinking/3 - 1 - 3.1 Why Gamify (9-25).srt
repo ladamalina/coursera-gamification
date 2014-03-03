@@ -1,0 +1,579 @@
+
+1
+00:00:00,000 --> 00:00:05,086
+I've talked some now about what
+gamification is and about what games are.
+
+2
+00:00:05,086 --> 00:00:11,041
+It's time to get into the challenge of
+thinking like a game designer,
+
+3
+00:00:11,041 --> 00:00:18,016
+understanding problems through the lens of
+what I call game thinking, the core skill
+
+4
+00:00:18,016 --> 00:00:24,010
+for gamification. And I'd like to start
+doing that by posing a fundamental
+
+5
+00:00:24,010 --> 00:00:30,085
+question. Why gamify? Why would you even
+think to take a site or a business process
+
+6
+00:00:30,085 --> 00:00:35,790
+and try to make it more game-like if
+you're interested in some serious results
+
+7
+00:00:35,790 --> 00:00:42,007
+and achieving some real world serious
+objectives. So, let's look at an example
+
+8
+00:00:42,007 --> 00:00:47,784
+and try to think about why gamification
+made sense for this service. The example
+
+9
+00:00:47,784 --> 00:00:52,846
+is Dodgeball. Dodgeball was one of the
+first successful smart phone applications.
+
+10
+00:00:52,846 --> 00:00:57,607
+It was developed by a group of graduates
+from the Interdisciplinary Technology
+
+11
+00:00:57,607 --> 00:01:03,233
+Program at NYU. And these guys like to
+hang around in bars. So they built an app
+
+12
+00:01:03,233 --> 00:01:09,005
+for people who like to hang around in
+bars. Here you see a screenshot of the web
+
+13
+00:01:09,005 --> 00:01:14,341
+client and Dodgeball gave you this map
+that showed you where you were and then
+
+14
+00:01:14,341 --> 00:01:19,217
+you could check in. And say, here I am.
+I'm at this location right here. This bar
+
+15
+00:01:19,217 --> 00:01:23,340
+that's on this street. And then you can
+see where your friends were. Where other
+
+16
+00:01:23,340 --> 00:01:27,619
+people were who were using the application
+where they had checked in. And this got
+
+17
+00:01:27,619 --> 00:01:32,716
+some notoriety. Started to get some pickup
+in New York and San Francisco and places
+
+18
+00:01:32,716 --> 00:01:37,658
+like that. And in fact, Google bought the
+company. But, Dodgeball had a problem. The
+
+19
+00:01:37,658 --> 00:01:42,041
+problem was that it's a chicken and egg
+situation. If lots of your friends are on
+
+20
+00:01:42,041 --> 00:01:46,857
+Dodgeball, and there's lots of check-ins
+that you can find, then there's a great
+
+21
+00:01:46,857 --> 00:01:51,180
+incentive for you to check-in as well. You
+want to get access to all the information.
+
+22
+00:01:51,180 --> 00:01:55,620
+You get a lot of value from seeing all of
+your friends and you know they will get a
+
+23
+00:01:55,620 --> 00:02:00,123
+lot of value from seeing what you're
+doing. On the other hand, if you go to
+
+24
+00:02:00,123 --> 00:02:05,324
+Dodgeball and there's a blank map, not too
+much reason for you to bother checking in.
+
+25
+00:02:05,324 --> 00:02:10,874
+So, how does the service get to critical
+mass? Get above that level where there's a
+
+26
+00:02:10,874 --> 00:02:16,214
+not, not enough acti vity to get people
+involved. So, that was one of the basic
+
+27
+00:02:16,214 --> 00:02:21,665
+challenges that Dodgeball had. After
+leaving Google, Dennis Crowley, one of the
+
+28
+00:02:21,665 --> 00:02:26,510
+founders of Dodgeball started a new
+company, they had a fairly similar basic
+
+29
+00:02:26,510 --> 00:02:31,896
+structure. It involved going and checking
+in on a mobile client at locations that
+
+30
+00:02:31,896 --> 00:02:37,405
+you would go to. But this time, his new
+company, Foursquare implemented what we
+
+31
+00:02:37,405 --> 00:02:42,086
+would now call gamification. So think
+about, why would Foursquare use
+
+32
+00:02:42,086 --> 00:02:47,872
+gamification? What are some of the aspects
+of this service that we saw originally in
+
+33
+00:02:47,872 --> 00:02:52,809
+Dodgeball, that might lend themselves to a
+gamified approach? There's a number of
+
+34
+00:02:52,809 --> 00:02:58,038
+different things that you might come up
+with and there is clearly no right answer.
+
+35
+00:02:58,038 --> 00:03:03,348
+But let's think about some of the aspects
+of this problem that might make
+
+36
+00:03:03,348 --> 00:03:08,298
+gamification appropriate. The first is
+that Dodgeball had what we could call an
+
+37
+00:03:08,298 --> 00:03:14,003
+engagement gap. It needed to get more
+people to engage within use the service
+
+38
+00:03:14,003 --> 00:03:19,023
+and making the service fun, making the
+service feel more engaging and game-like
+
+39
+00:03:19,023 --> 00:03:24,018
+is certainly a powerful way to do that.
+The second is that, Dodgeball didn't have
+
+40
+00:03:24,018 --> 00:03:28,082
+a lot of variety in it. Basically, it was
+check-in or don't check-in and then again,
+
+41
+00:03:28,082 --> 00:03:32,096
+you could get some analytics or
+information, as well as seeing where your
+
+42
+00:03:32,096 --> 00:03:37,061
+friends were checking in but there weren't
+too many different things to do but there
+
+43
+00:03:37,061 --> 00:03:42,003
+weren't too many different things to do.
+And when things are unitary like that,
+
+44
+00:03:42,003 --> 00:03:46,050
+where it's either do something or don't do
+something, it doesn't tend to engage
+
+45
+00:03:46,050 --> 00:03:51,015
+people as much, unless there's some very
+direct result that they get. If it's go to
+
+46
+00:03:51,015 --> 00:03:55,012
+this website, click a button buy this
+product, then you can see the
+
+47
+00:03:55,012 --> 00:04:00,256
+relationship. But if it's not that clear,
+if there's some value in the exchange but
+
+48
+00:04:00,256 --> 00:04:06,357
+it's not as direct having options, having
+choices as we talked about in discussing
+
+49
+00:04:06,357 --> 00:04:11,780
+games with meaningful choices could
+potentially make the experience more
+
+50
+00:04:11,780 --> 00:04:16,381
+popular. And the next is that Dodgeball
+didn't really have any progression.
+
+51
+00:04:16,381 --> 00:04:21,192
+Check-in or not, you really didn't get
+anywhere by virtue of what you d id. And
+
+52
+00:04:21,192 --> 00:04:26,359
+so, checking in the hundredth time was
+kind of like checking in the first time,
+
+53
+00:04:26,359 --> 00:04:31,844
+again limited the motivation of players to
+want to participate actively in that
+
+54
+00:04:31,844 --> 00:04:36,890
+system. The good news is that Dodgeball
+was a very social application. It involved
+
+55
+00:04:36,890 --> 00:04:41,797
+relationships with your friends. And
+social interaction is very powerfully tied
+
+56
+00:04:41,797 --> 00:04:46,284
+to games because we love to compete
+against our friends. We love to
+
+57
+00:04:46,284 --> 00:04:51,622
+collaborate, and share, and team up with
+our friends. We love to have status visa
+
+58
+00:04:51,622 --> 00:04:56,613
+vis our friends and also see what our
+friends our doing. And so all of that is
+
+59
+00:04:56,613 --> 00:05:02,258
+potentially quite consistent with a
+gamified approach. And finally, there was
+
+60
+00:05:02,258 --> 00:05:08,027
+an opportunity with a service like
+Dodgeball to make the action a habit. If
+
+61
+00:05:08,027 --> 00:05:12,962
+you have to think each time, oh, I better
+get out my phone and go and check-in,
+
+62
+00:05:12,962 --> 00:05:17,185
+you're not going to do it all that much.
+If it's habitual, if it's just a natural
+
+63
+00:05:17,185 --> 00:05:21,126
+thing that you do, you just kind of
+automatically when you go to a new bar or
+
+64
+00:05:21,126 --> 00:05:25,688
+a club or a restaurant or even one that
+you've gone to many times before, you just
+
+65
+00:05:25,688 --> 00:05:30,143
+pull out your phone and check-in then
+you're much more likely to do it. So the
+
+66
+00:05:30,143 --> 00:05:34,137
+challenge for Dodgeball and for its
+successor, Foursquare was how to make this
+
+67
+00:05:34,137 --> 00:05:38,433
+action a habit. Something again that is
+very well suited to games which create
+
+68
+00:05:38,433 --> 00:05:43,061
+this environment that encourages people to
+come back and come back. So, those are few
+
+69
+00:05:43,061 --> 00:05:48,074
+of the reasons that I think gamification
+seemed to make sense for Foursquare, the
+
+70
+00:05:48,074 --> 00:05:53,720
+successor service to Dodgeball. So let's
+look at what Foursquare did. The most
+
+71
+00:05:53,720 --> 00:05:58,522
+prominent thing that it did was
+implemented a concept called Mayorships.
+
+72
+00:05:58,522 --> 00:06:03,276
+So, if you check in the most times, out of
+everyone who's checked in at that
+
+73
+00:06:03,276 --> 00:06:08,467
+particular location, [sound] you're the
+Mayor on Foursquare. And here you see the
+
+74
+00:06:08,467 --> 00:06:12,817
+badge, badges is another aspect of
+gamification in Foursquare I'll talk
+
+75
+00:06:12,817 --> 00:06:17,300
+about. This is the badge that you get for
+being the mayor of ten locations at the
+
+76
+00:06:17,300 --> 00:06:21,921
+same time. It's actually the super mayor
+badge. But it's a representation of that
+
+77
+00:06:21,921 --> 00:06:26,394
+achievement of becoming the mayor. And
+Foursquare buil t a system that made it
+
+78
+00:06:26,394 --> 00:06:30,615
+very easy to notify your friends on
+Twitter and Facebook that you've become
+
+79
+00:06:30,615 --> 00:06:35,305
+the mayor of a place, who you displaced as
+the mayor. It created this friendly
+
+80
+00:06:35,305 --> 00:06:40,867
+competition which made the act of checking
+in, something more fun and something that
+
+81
+00:06:40,867 --> 00:06:45,474
+had more of a reward to it. Not
+necessarily a monetary reward, although
+
+82
+00:06:45,474 --> 00:06:51,046
+some venues do give incentives to people
+who are mayors. But a reward in that you
+
+83
+00:06:51,046 --> 00:06:56,773
+see something and other people see that
+you are on top when you become the mayor
+
+84
+00:06:56,773 --> 00:07:01,570
+of a venue. Simple but potentially
+valuable use of gamification. And then
+
+85
+00:07:01,570 --> 00:07:07,101
+Foursquare built a whole other set of game
+mechanics around this check-in process. So
+
+86
+00:07:07,101 --> 00:07:11,844
+this was a screenshot from the Foursquare
+page of Dennis Crowley, the CEO of
+
+87
+00:07:11,844 --> 00:07:17,077
+Foursquare. And you see a variety of data
+points about what he's done. And then here
+
+88
+00:07:17,077 --> 00:07:21,164
+on the right you see the badges. Badges
+were an important element of what
+
+89
+00:07:21,164 --> 00:07:25,507
+Foursquare did. They allowed them to
+create much more richness of the service.
+
+90
+00:07:25,507 --> 00:07:30,100
+Remember I said choises are important and
+progression is important. Badges gave all
+
+91
+00:07:30,100 --> 00:07:34,648
+sorts of options. Again, it's still just
+checking in but now checking in becomes a
+
+92
+00:07:34,648 --> 00:07:39,041
+much more variated kind of activity. It
+depends where you check in. If you check
+
+93
+00:07:39,041 --> 00:07:43,459
+in at a certain place like a health club,
+you get a badge. If you check into the
+
+94
+00:07:43,459 --> 00:07:48,776
+health club a certain number of times, you
+get another badge. If you check in at, say
+
+95
+00:07:48,776 --> 00:07:53,572
+a conference, like South by Southwest,
+there are special purpose badges you get
+
+96
+00:07:53,572 --> 00:07:58,295
+that you can only get there. So suddenly,
+this one act of checking in, becomes
+
+97
+00:07:58,295 --> 00:08:02,935
+something that seems very rich and complex
+and nuanced for the users. It also is
+
+98
+00:08:02,935 --> 00:08:07,556
+something that allows you to level up. So,
+Foursquare implemented different levels
+
+99
+00:08:07,556 --> 00:08:12,518
+within their badges, so checking into an
+airport gives you one badge. But checking
+
+100
+00:08:12,518 --> 00:08:16,621
+into twenty different airports say, gives
+you a higher level of that badge which is
+
+101
+00:08:16,621 --> 00:08:20,871
+harder to get. And Foursquare also had an
+independent leveling system based on
+
+102
+00:08:20,871 --> 00:08:25,634
+points for number of check-ins which you
+see here. Dennis was a super user le vel
+
+103
+00:08:25,640 --> 00:08:30,360
+three when this screen shot was taken. And
+these are all examples of game mechanics
+
+104
+00:08:30,360 --> 00:08:35,753
+built around the basic process of checking
+in. Did it work? Well, Foursquare now has
+
+105
+00:08:35,753 --> 00:08:40,508
+over twenty million users. They've raised
+over $70 million in venture capital,
+
+106
+00:08:40,508 --> 00:08:44,841
+valuing the company over $600 million and
+they've successfully overcome challenges
+
+107
+00:08:44,841 --> 00:08:49,826
+from major companies like Facebook that
+got into this social location marketplace.
+
+108
+00:08:49,826 --> 00:08:55,050
+Now, Facebook Foursquare still has a long
+way to go and correlation isn't causation.
+
+109
+00:08:55,050 --> 00:09:00,009
+That doesn't necessarily tell us that the
+game mechanics were the reason for their
+
+110
+00:09:00,009 --> 00:09:04,590
+success. This is something that will come
+back to later. But it's worth thinking
+
+111
+00:09:04,590 --> 00:09:09,996
+about how the gamification that Foursquare
+implemented ties back to the challenges
+
+112
+00:09:09,996 --> 00:09:14,931
+that they face. So, consider how
+gamification addressed the engagement gap,
+
+113
+00:09:14,931 --> 00:09:20,489
+the desire for habit formation, the need
+for more choices and more progression, and
+
+114
+00:09:20,489 --> 00:09:26,474
+taking advantage of the social dimension
+of what Four Square was doing. That's the
+
+115
+00:09:26,474 --> 00:09:33,560
+kind of thought process that you need to
+engage in, in approaching problems through
+
+116
+00:09:33,560 --> 00:09:36,000
+the lens of game design.

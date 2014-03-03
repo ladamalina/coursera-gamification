@@ -1,0 +1,611 @@
+
+1
+00:00:00,25 --> 00:00:05,320
+The key scale in gamification is thinking 
+like a game designer. 
+
+2
+00:00:05,320 --> 00:00:09,965
+In other words, viewing your business 
+problem or other kind of challenge. 
+
+3
+00:00:09,965 --> 00:00:13,871
+In the same way a game designer would 
+think about the challenge involved in 
+
+4
+00:00:13,871 --> 00:00:17,990
+creating a game. 
+So what exactly does it mean to think 
+
+5
+00:00:17,990 --> 00:00:21,862
+like a game designer? 
+Jesse Schell, in his book, The Art of 
+
+6
+00:00:21,862 --> 00:00:26,193
+Game Design, a book of lenses, urges 
+anyone interested in becoming a game 
+
+7
+00:00:26,193 --> 00:00:31,464
+designer to utter five words. 
+Now, he was talking about anyone who 
+
+8
+00:00:31,464 --> 00:00:34,708
+wants to go into the actual field of game 
+design. 
+
+9
+00:00:34,708 --> 00:00:38,242
+But the five words are relevant for 
+people who are thinking about applying 
+
+10
+00:00:38,242 --> 00:00:41,850
+game design lessons through gamification 
+as well. 
+
+11
+00:00:41,850 --> 00:00:48,290
+And the words are the following, I am a 
+game designer, pretty simple. 
+
+12
+00:00:48,290 --> 00:00:51,920
+It reminds us that game design is a state 
+of mind. 
+
+13
+00:00:51,920 --> 00:00:55,365
+And hopefully it reminds us that game 
+design is something that pretty much all 
+
+14
+00:00:55,365 --> 00:00:59,992
+of us have already done. 
+Kids on the playground make up games all 
+
+15
+00:00:59,992 --> 00:01:03,277
+the time. 
+Making up games is something that comes 
+
+16
+00:01:03,277 --> 00:01:06,938
+naturally as human beings. 
+But, like a lot of things, we don't 
+
+17
+00:01:06,938 --> 00:01:10,260
+necessarily think about it in a 
+systematic way. 
+
+18
+00:01:10,260 --> 00:01:14,610
+We don't realize that it's something 
+that's a skill that we can cultivate. 
+
+19
+00:01:14,610 --> 00:01:18,681
+So thinking like a game designer first of 
+all involves resolving that you are going 
+
+20
+00:01:18,681 --> 00:01:23,180
+to look at your problem in the same way 
+as a game designer. 
+
+21
+00:01:23,180 --> 00:01:27,697
+So if your goal is to get more people to 
+come to your website. 
+
+22
+00:01:27,697 --> 00:01:32,167
+Or your goal is to figure out how to pick 
+the best employees. 
+
+23
+00:01:32,167 --> 00:01:36,693
+Or your goal is to try to promote 
+innovation within your company, whatever 
+
+24
+00:01:36,693 --> 00:01:42,330
+it is, think about that as a game. 
+It's still real, it's still important. 
+
+25
+00:01:42,330 --> 00:01:45,457
+But, if that were a game that the 
+particpants were playing, and you were 
+
+26
+00:01:45,457 --> 00:01:50,340
+designing what would you do? 
+Now two caveats about what this means. 
+
+27
+00:01:50,340 --> 00:01:54,556
+The first is it doesn't necessarily mean 
+to think like a game designer that you're 
+
+28
+00:01:54,556 --> 00:01:58,750
+actually going to become one. 
+Game design is hard and it has many 
+
+29
+00:01:58,750 --> 00:02:03,70
+different facets, especially if we're 
+talking about modern video game design. 
+
+30
+00:02:03,70 --> 00:02:08,200
+It requires tremendous technicial skills 
+in different areas. 
+
+31
+00:02:08,200 --> 00:02:13,570
+It requires illustrations and sound and 
+storytelling. 
+
+32
+00:02:13,570 --> 00:02:19,620
+And many other aspects that require 
+serious skill in different areas to do. 
+
+33
+00:02:19,620 --> 00:02:23,276
+You don't have to do all of those things. 
+And frankly, you don't have to do any of 
+
+34
+00:02:23,276 --> 00:02:28,250
+those things specifically, to employ game 
+design techniques in gamification. 
+
+35
+00:02:28,250 --> 00:02:31,685
+I often talk to people in companies who 
+get scared when I say. 
+
+36
+00:02:31,685 --> 00:02:35,30
+Gamification means putting yourself in 
+the shoes of a game designer. 
+
+37
+00:02:35,30 --> 00:02:39,734
+Because they say oh, I haven't gone and 
+gotten a master's degree in game design. 
+
+38
+00:02:39,734 --> 00:02:43,850
+Or developed the skills that it takes 
+technically to build a game. 
+
+39
+00:02:43,850 --> 00:02:46,992
+That's not the point. 
+The point is if you're going to approach 
+
+40
+00:02:46,992 --> 00:02:51,300
+things through the lens of game design. 
+You're going to have an orientation 
+
+41
+00:02:51,300 --> 00:02:55,99
+towards the problem that's different than 
+if you were approaching them. 
+
+42
+00:02:55,99 --> 00:02:57,890
+Through another way i may say just as a 
+business manager. 
+
+43
+00:02:57,890 --> 00:03:03,262
+Third point is that thinking like a game 
+designer is different than thinking like 
+
+44
+00:03:03,262 --> 00:03:06,394
+a gamer. 
+Thinking like a gamer, means playing a 
+
+45
+00:03:06,394 --> 00:03:08,756
+game. 
+And as I've talked about we're all gamers 
+
+46
+00:03:08,756 --> 00:03:12,360
+pretty much, we all play games in one way 
+or another. 
+
+47
+00:03:12,360 --> 00:03:15,440
+If you're playing a game, you're 
+typically not thinking about the 
+
+48
+00:03:15,440 --> 00:03:18,790
+structure of the game. 
+That's what the game does. 
+
+49
+00:03:18,790 --> 00:03:21,828
+It creates this immersive experience, 
+this state of flow that carries you 
+
+50
+00:03:21,828 --> 00:03:24,300
+along. 
+And you don't really want to pull back 
+
+51
+00:03:24,300 --> 00:03:28,960
+the curtain and think about the nuts and 
+bolts of how the game got made. 
+
+52
+00:03:28,960 --> 00:03:31,339
+On the other hand, if you're the game 
+designer that's exactly what you're 
+
+53
+00:03:31,339 --> 00:03:34,180
+focused on. 
+What you care about is not the experience 
+
+54
+00:03:34,180 --> 00:03:37,694
+of what it feels like. 
+That's the ultimate objective, but in 
+
+55
+00:03:37,694 --> 00:03:40,867
+order to get there. 
+What you have to do is think about the 
+
+56
+00:03:40,867 --> 00:03:45,270
+components that you need to put together 
+to create that experience. 
+
+57
+00:03:45,270 --> 00:03:48,854
+So that's what thinking like a game 
+designer means, always paying attention 
+
+58
+00:03:48,854 --> 00:03:53,990
+to the structures and the frameworks of 
+the game as opposed to the experience. 
+
+59
+00:03:53,990 --> 00:03:57,434
+The game is not the experience. 
+The experience is what it feels like to 
+
+60
+00:03:57,434 --> 00:04:01,50
+play the game and yes, that's ultimately 
+the objective. 
+
+61
+00:04:01,50 --> 00:04:04,649
+But the game involves all of the 
+structures that it takes to create that 
+
+62
+00:04:04,649 --> 00:04:08,550
+experience. 
+So, how do you think like a game 
+
+63
+00:04:08,550 --> 00:04:12,412
+designer? 
+The key starting point is to think about 
+
+64
+00:04:12,412 --> 00:04:17,510
+the people that are involved in your game 
+as players. 
+
+65
+00:04:17,510 --> 00:04:21,338
+Whether those are customers, employees, 
+some community that you're trying to 
+
+66
+00:04:21,338 --> 00:04:24,549
+mobilize. 
+Or some population that you're trying to 
+
+67
+00:04:24,549 --> 00:04:29,120
+encourage to engage in some behavior 
+change, whoever it is. 
+
+68
+00:04:29,120 --> 00:04:33,11
+You need to say, these are my players, 
+because words matter. 
+
+69
+00:04:33,11 --> 00:04:36,659
+And when you think of someone as a 
+player, it's subtly different than 
+
+70
+00:04:36,659 --> 00:04:41,830
+thinking about them as say, a customer, 
+or even worse, a consumer. 
+
+71
+00:04:41,830 --> 00:04:44,222
+What's a consumer? 
+It's someone who consumes, and so 
+
+72
+00:04:44,222 --> 00:04:47,732
+therefore the producer puts something out 
+there, and the consumer passively 
+
+73
+00:04:47,732 --> 00:04:51,410
+consumes it. 
+Customer is a little bit more active. 
+
+74
+00:04:51,410 --> 00:04:53,960
+People in the computer industry like to 
+use the term user. 
+
+75
+00:04:53,960 --> 00:04:57,650
+People in certain retail industries now 
+use the term guest. 
+
+76
+00:04:57,650 --> 00:05:01,10
+That has that nice notion that you're 
+inviting someone into your house. 
+
+77
+00:05:01,10 --> 00:05:04,874
+All of those have certain subtle 
+implications for the nature of the 
+
+78
+00:05:04,874 --> 00:05:08,540
+relationship. 
+In game design. 
+
+79
+00:05:08,540 --> 00:05:12,184
+The relationship is between the designer 
+and a player. 
+
+80
+00:05:12,184 --> 00:05:14,100
+So, what does it mean for someone to be a 
+player? 
+
+81
+00:05:14,100 --> 00:05:18,573
+Well, the first thing it means is that 
+players are the center of the game, the 
+
+82
+00:05:18,573 --> 00:05:23,546
+game revolves around the player. 
+Even though the game was built by a 
+
+83
+00:05:23,546 --> 00:05:27,434
+company or group of game designers. 
+To serve some purpose, which maybe is 
+
+84
+00:05:27,434 --> 00:05:32,280
+just making money for that company. 
+From the players' standpoint, it's about 
+
+85
+00:05:32,280 --> 00:05:35,620
+them. 
+You as the player are the one who is in 
+
+86
+00:05:35,620 --> 00:05:41,560
+the middle of the game, and the world 
+revolves around you. 
+
+87
+00:05:41,560 --> 00:05:46,130
+Whatever is happening in that game, it's 
+all about you, the player. 
+
+88
+00:05:46,130 --> 00:05:50,150
+So think about how to build your business 
+in a way that the player is at the 
+
+89
+00:05:50,150 --> 00:05:55,703
+center. 
+Second, try to realize how players need 
+
+90
+00:05:55,703 --> 00:06:02,312
+to feel that they are in control. 
+So, a, a game creates an environment 
+
+91
+00:06:02,312 --> 00:06:07,159
+where player feels autonomy. 
+I'll talk more about this when I discuss 
+
+92
+00:06:07,159 --> 00:06:11,130
+self determination theory and some of the 
+psychology around games. 
+
+93
+00:06:11,130 --> 00:06:13,882
+But the point is, the player needs to 
+have the sense, not only that everything 
+
+94
+00:06:13,882 --> 00:06:18,195
+revolves around them. 
+But that they can make choices and the 
+
+95
+00:06:18,195 --> 00:06:21,646
+choices have results. 
+Again, meaningful choices, as we 
+
+96
+00:06:21,646 --> 00:06:24,370
+mentioned before, in talking about the 
+nature of games. 
+
+97
+00:06:24,370 --> 00:06:27,615
+So think about how do you create an 
+environment so that your customers, 
+
+98
+00:06:27,615 --> 00:06:33,80
+users, whatever you call them, feel like 
+they're the ones who are driving? 
+
+99
+00:06:33,80 --> 00:06:37,785
+And that the choices they make by their 
+own free will have some real impact. 
+
+100
+00:06:37,785 --> 00:06:41,628
+That causes some meaning, and meaning 
+doesn't necessarily mean financial 
+
+101
+00:06:41,628 --> 00:06:44,549
+benefit. 
+It means something that they care about 
+
+102
+00:06:44,549 --> 00:06:48,602
+that they are willing, at that moment, to 
+think of as being valuable. 
+
+103
+00:06:48,602 --> 00:06:53,970
+Finally, what do players do? 
+They Play. 
+
+104
+00:06:53,970 --> 00:06:57,460
+That's kind of evident in the word 
+players, but it's important. 
+
+105
+00:06:57,460 --> 00:07:01,350
+And as I've talked about, play is not the 
+same things as games. 
+
+106
+00:07:01,350 --> 00:07:05,705
+Play is a sense of free motion within a 
+set of constraints that exuberates energy 
+
+107
+00:07:05,705 --> 00:07:09,890
+that doesn't necessarily have to have a 
+purpose. 
+
+108
+00:07:09,890 --> 00:07:13,555
+If you think of your customers or users 
+as players. 
+
+109
+00:07:13,555 --> 00:07:18,637
+You'll try to think about ways where they 
+have that freedom to feel like they are 
+
+110
+00:07:18,637 --> 00:07:23,492
+at play. 
+The goal of a game designer is to create 
+
+111
+00:07:23,492 --> 00:07:28,180
+that sense of play for a specific 
+purpose. 
+
+112
+00:07:28,180 --> 00:07:33,870
+And the purpose is one, to get into the 
+game. 
+
+113
+00:07:33,870 --> 00:07:39,164
+To get them playing. 
+And two, to keep them playing. 
+
+114
+00:07:39,164 --> 00:07:43,718
+Related, but distinct challenges. 
+So if you think like a game designer, the 
+
+115
+00:07:43,718 --> 00:07:48,770
+first thing that you stay up at night 
+thinking about is how do I get people in? 
+
+116
+00:07:48,770 --> 00:07:52,645
+How do I make it enticing. 
+And how do I create an experience that 
+
+117
+00:07:52,645 --> 00:07:58,10
+makes it easy and simple and smooth for 
+someone to get into the experience. 
+
+118
+00:07:58,10 --> 00:08:01,940
+And secondly, once they're in, how do I 
+keep them there? 
+
+119
+00:08:01,940 --> 00:08:05,576
+And not, how do I trick them. 
+But how do I create an experience that 
+
+120
+00:08:05,576 --> 00:08:10,20
+will genuinely engage them for an 
+extended period of time. 
+
+121
+00:08:10,20 --> 00:08:13,732
+If you do those things, then you are 
+thinking, not just like a business person 
+
+122
+00:08:13,732 --> 00:08:18,783
+or a manager of some other process. 
+But like someone who's designing a game. 
+

@@ -1,0 +1,965 @@
+
+1
+00:00:00,000 --> 00:00:04,747
+Gameification can be a very powerful
+technique for collective action.
+
+2
+00:00:04,747 --> 00:00:10,054
+For motivating and encouraging large
+numbers of people to come together, and
+
+3
+00:00:10,054 --> 00:00:15,709
+work on a common task or a set of tasks.
+I already talked about something related
+
+4
+00:00:15,709 --> 00:00:21,225
+to this when I described stack overflow.
+And showed how the Gameification design
+
+5
+00:00:21,225 --> 00:00:26,602
+for that site encouraged pro-social, and,
+in some cases, collaborative behavior,
+
+6
+00:00:26,602 --> 00:00:31,070
+like people commenting and responding on
+each others questions.
+
+7
+00:00:31,070 --> 00:00:33,979
+But,
+What if you have a specific objective?
+
+8
+00:00:33,979 --> 00:00:39,445
+Stack Overflow is designed to be a forum
+for people learning about and getting
+
+9
+00:00:39,445 --> 00:00:43,804
+better at programming.
+What if you have a task that you want to
+
+10
+00:00:43,804 --> 00:00:49,546
+solve, and you want to employ the energy
+and ideas and enthusiasm of a large number
+
+11
+00:00:49,546 --> 00:00:53,905
+of people towards it?
+There are a number of different scenarios
+
+12
+00:00:53,905 --> 00:00:58,403
+where this might be the case.
+Some of them, we've actually already
+
+13
+00:00:58,403 --> 00:01:01,447
+looked at.
+So, let me give you a framework to
+
+14
+00:01:01,447 --> 00:01:06,920
+understand what I'm talking about.
+I'll draw two axis here.
+
+15
+00:01:07,920 --> 00:01:13,840
+One of them will say is competitive versus
+collaborative.
+
+16
+00:01:15,940 --> 00:01:22,118
+In other words, are people working
+together with each other or against each
+
+17
+00:01:22,118 --> 00:01:28,626
+other in trying to achieve the task.
+And the other one would be top down versus
+
+18
+00:01:28,626 --> 00:01:33,030
+bottom up.
+Traditionally, the way people are
+
+19
+00:01:33,030 --> 00:01:36,577
+motivated and encouraged to do things is
+top down.
+
+20
+00:01:36,577 --> 00:01:42,253
+Someone says, this is what you will do.
+The alternative approach is to do it in a
+
+21
+00:01:42,253 --> 00:01:47,290
+more bottom up way by getting them to be
+motivated to do it themselves.
+
+22
+00:01:47,290 --> 00:01:51,581
+So in this first quadrant here.
+Competitive top down, this would be
+
+23
+00:01:51,581 --> 00:01:54,451
+grants.
+So this is where, a company or foundation
+
+24
+00:01:54,451 --> 00:01:59,232
+or organization says we want to find
+someone who's going to do a certain amount
+
+25
+00:01:59,232 --> 00:02:02,639
+of research to achieve something or get a
+certain result.
+
+26
+00:02:02,639 --> 00:02:06,285
+And so we'll pick a winner and then give
+them the money to do it.
+
+27
+00:02:06,285 --> 00:02:10,763
+The alternative approach.
+That's bottom up, was described in one of
+
+28
+00:02:10,763 --> 00:02:14,462
+the earlier sessions.
+That's where we would put the inducement
+
+29
+00:02:14,462 --> 00:02:20,049
+prizes.
+Still competitive.
+
+30
+00:02:20,049 --> 00:02:25,203
+People or organizations or groups are
+competing to win the prize, but now it's
+
+31
+00:02:25,203 --> 00:02:28,507
+bottom up.
+Anyone can submit to the prize and the
+
+32
+00:02:28,507 --> 00:02:34,256
+organization only pays out to the winner.
+Here on the collaborative side is what I'm
+
+33
+00:02:34,256 --> 00:02:39,279
+going to talk about more in this lecture.
+The traditional approach is to use
+
+34
+00:02:39,279 --> 00:02:42,988
+employees.
+So if you want a group of people to work
+
+35
+00:02:42,988 --> 00:02:46,207
+together to solve a problem you tell them
+to do it.
+
+36
+00:02:46,207 --> 00:02:49,680
+The alternative though is what's called
+crowd sourcing.
+
+37
+00:02:51,560 --> 00:02:59,818
+Or in some cases, make it work.
+This is a family of approaches that
+
+38
+00:02:59,818 --> 00:03:05,750
+encourage people to come together to
+either collaborate with each other or to
+
+39
+00:03:05,750 --> 00:03:10,770
+each take a small part or a small amount
+of effort towards a task.
+
+40
+00:03:10,770 --> 00:03:16,902
+But the people are not workers for the
+entity that puts forth the task, there are
+
+41
+00:03:16,902 --> 00:03:23,174
+people who are motivated through a bunch
+of different mechanisms that I'm about to
+
+42
+00:03:23,174 --> 00:03:26,423
+talk about, voluntarily to take on the
+task.
+
+43
+00:03:26,423 --> 00:03:29,603
+So.
+What is it that might motivate people to
+
+44
+00:03:29,603 --> 00:03:32,916
+take on a task if it's not for their
+employer.
+
+45
+00:03:32,916 --> 00:03:37,887
+Well, one thing is, of course, money.
+So there are a number of platforms,
+
+46
+00:03:37,887 --> 00:03:43,794
+Amazon's Mechanical Turk which I'm showing
+you here is the biggest and best known,
+
+47
+00:03:43,794 --> 00:03:49,340
+which provide an environment for this
+collaborative crowd-sourced micro-work.
+
+48
+00:03:49,340 --> 00:03:54,815
+For people to voluntarily work on certain
+tasks, typically for money, it doesn't
+
+49
+00:03:54,815 --> 00:04:00,650
+have to be for money but typically, these
+are situations where a company wants
+
+50
+00:04:00,650 --> 00:04:04,510
+something done.
+They want someone to go check out a bunch
+
+51
+00:04:04,510 --> 00:04:07,422
+of websites, or review a bunch of
+documents.
+
+52
+00:04:07,422 --> 00:04:11,930
+Do some sort of tasks that requires some
+level of human intelligence.
+
+53
+00:04:11,930 --> 00:04:15,100
+Amazon,
+Calls them here human intelligence tasks,
+
+54
+00:04:15,100 --> 00:04:18,612
+you may not be able to see it on the
+graph, it goes a little small, but they're
+
+55
+00:04:18,612 --> 00:04:22,124
+tasks that can't easily be done by a
+computer because if they could easily be
+
+56
+00:04:22,124 --> 00:04:24,992
+done by a computer.
+We just have a computer do that.
+
+57
+00:04:24,992 --> 00:04:30,148
+The computers are a lot cheaper and faster
+than people, but lots of things require
+
+58
+00:04:30,148 --> 00:04:34,046
+some degree of thought and discrimination
+that humans do well.
+
+59
+00:04:34,046 --> 00:04:39,139
+So mechanical turk, and other things like
+it, are platforms for people to come and
+
+60
+00:04:39,139 --> 00:04:44,358
+do those tasks, and typically they get
+paid a small amount for doing it and this
+
+61
+00:04:44,358 --> 00:04:48,634
+has been quite successful.
+As you see here, there are over 200,000 of
+
+62
+00:04:48,634 --> 00:04:51,590
+these tasks available today on mechanical
+turk.
+
+63
+00:04:51,590 --> 00:04:57,478
+So, this is one form of crowd sourcing,
+but as I talked about throughout the
+
+64
+00:04:57,478 --> 00:05:02,816
+class, money is not necessarily the only
+thing that motivates people.
+
+65
+00:05:02,816 --> 00:05:09,333
+So is it possible to motivate people to
+participate in these crowd source projects
+
+66
+00:05:09,333 --> 00:05:13,572
+without necessarily paying them to do it?
+Indeed it is.
+
+67
+00:05:13,572 --> 00:05:18,832
+And the way to do it is, to use
+Gameification Let me show you a few
+
+68
+00:05:18,832 --> 00:05:22,130
+examples.
+This is something called Fold It.
+
+69
+00:05:22,130 --> 00:05:28,220
+I didn't put the OL on here but it's just
+that fold that.
+
+70
+00:05:28,220 --> 00:05:33,159
+It Fold it.
+This is a site that was developed by some
+
+71
+00:05:33,159 --> 00:05:39,357
+biomedical researchers at the University
+of Washington, and they are working on 3D
+
+72
+00:05:39,357 --> 00:05:43,388
+protein folding.
+It turns out that the three dimensional
+
+73
+00:05:43,388 --> 00:05:48,475
+shape that a protein molecule folds up
+into has a tremendous impact on what it
+
+74
+00:05:48,475 --> 00:05:52,145
+does in the body.
+So if we know the 3-D shape we are much
+
+75
+00:05:52,145 --> 00:05:57,554
+further along in developing drugs based on
+those proteins and those other molecules.
+
+76
+00:05:57,554 --> 00:06:02,254
+But it's incredibly, computationally
+difficult to figure out what shape a
+
+77
+00:06:02,254 --> 00:06:05,500
+molecule will fold into.
+However,
+
+78
+00:06:05,500 --> 00:06:10,122
+People are really good at figuring this
+out, because it's a puzzle.
+
+79
+00:06:10,332 --> 00:06:15,724
+It's something that involves looking at
+the shapes and figuring out the most
+
+80
+00:06:15,724 --> 00:06:20,556
+efficient configuration.
+And so Fold It is a game like system that
+
+81
+00:06:20,556 --> 00:06:26,229
+gives you some real world proteins and
+asks you to figure out the most efficient
+
+82
+00:06:26,229 --> 00:06:29,273
+layout.
+And by making this process game-like.
+
+83
+00:06:29,273 --> 00:06:33,828
+By making it seem like fun, these
+researchers were able to motivate
+
+84
+00:06:33,828 --> 00:06:38,858
+thousands of people to come together and
+work on these problems with some
+
+85
+00:06:38,858 --> 00:06:42,937
+tremendous success.
+So, there was a case in which there was a
+
+86
+00:06:43,141 --> 00:06:48,171
+molecule that's important for AIDS
+research, has to do with a monkey virus
+
+87
+00:06:48,171 --> 00:06:52,521
+that's similar to AIDS.
+Where for fifteen years researchers have
+
+88
+00:06:52,521 --> 00:06:57,416
+been trying to figure out the 3D fold,
+folding shape of that melocule.
+
+89
+00:06:57,416 --> 00:07:00,917
+And unfolded,
+Volunteers were able to figure it out in
+
+90
+00:07:00,917 --> 00:07:05,577
+just ten days, incredible success and they
+had another a number of other examples
+
+91
+00:07:05,577 --> 00:07:10,428
+like that, where this aspect of making
+something feel fun or puzzle-like, and
+
+92
+00:07:10,428 --> 00:07:15,343
+also telling people that it's part of
+helping medical research, it has been very
+
+93
+00:07:15,343 --> 00:07:19,939
+successful with motivating participation,
+which had got in a great results.
+
+94
+00:07:19,939 --> 00:07:25,238
+Now, the funny thing is a lot of the press
+that came out after this development was
+
+95
+00:07:25,238 --> 00:07:30,031
+announced, involving the monkey virus,
+talked about video gamers solving the
+
+96
+00:07:30,031 --> 00:07:33,297
+problem.
+Online gamers were the ones who had solved
+
+97
+00:07:33,297 --> 00:07:37,076
+the puzzle and, and cracked the, medical
+research problem.
+
+98
+00:07:37,076 --> 00:07:42,329
+And I thought that was kind of ironic
+because these people were gamers only in
+
+99
+00:07:42,329 --> 00:07:46,799
+the sense that Fold It was a game.
+It wasn't that Fold It deliberately
+
+100
+00:07:46,799 --> 00:07:51,394
+recruited only people who actively played
+certain kinds of online games.
+
+101
+00:07:51,394 --> 00:07:55,606
+They were gamers because they were using a
+site that was gamified.
+
+102
+00:07:55,606 --> 00:08:00,839
+Fold It is a very good example but there
+are a number of other examples like this
+
+103
+00:08:00,839 --> 00:08:05,634
+where applying game like structures can
+encourage voluntary participation in
+
+104
+00:08:05,634 --> 00:08:09,557
+crowd-sourced activities.
+Here's another one from a company called
+
+105
+00:08:09,557 --> 00:08:14,432
+Microtask in Finland, where they partnered
+with the Finnish National Library, which
+
+106
+00:08:14,432 --> 00:08:19,365
+was trying to digitize, major, historical
+works in Finnish, and they needed people
+
+107
+00:08:19,365 --> 00:08:22,991
+to, review and proofread, the optical
+character recognition.
+
+108
+00:08:22,991 --> 00:08:27,211
+So, they created this thing called
+Digitalkoot, that is basically a game,
+
+109
+00:08:27,211 --> 00:08:31,313
+where you play these, creatures, I don't
+really know what these are.
+
+110
+00:08:31,313 --> 00:08:36,425
+But, and they're building a bridge across
+the river and the component pieces of the
+
+111
+00:08:36,425 --> 00:08:40,332
+bridge are words that have been
+interpreted by the optical character
+
+112
+00:08:40,332 --> 00:08:43,401
+recognition system.
+And you need to see if the words are
+
+113
+00:08:43,401 --> 00:08:48,985
+correct,
+And you use this game to feed in your work
+
+114
+00:08:48,985 --> 00:08:55,231
+to the process of checking the
+digitization of the finished works, and
+
+115
+00:08:55,231 --> 00:09:01,590
+they were able through this process to,
+get a huge number of people to participate
+
+116
+00:09:01,590 --> 00:09:07,505
+and to review 2.5 million specific
+examples in this digitization process.
+
+117
+00:09:07,505 --> 00:09:12,772
+Again, not by paying people, but by
+encouraging them by making it fun.
+
+118
+00:09:12,772 --> 00:09:16,867
+Now Microtask,
+Also has a business that uses the same
+
+119
+00:09:16,867 --> 00:09:20,768
+game like interfaces in environments where
+they do pay people.
+
+120
+00:09:20,768 --> 00:09:26,203
+The game then just encourages and
+increases the level of motivation and then
+
+121
+00:09:26,203 --> 00:09:32,264
+they go out to paying clients who want to
+do thing like form processing who want to
+
+122
+00:09:32,264 --> 00:09:37,977
+understand optical character recognition
+of handwritten forms and you are willing
+
+123
+00:09:37,977 --> 00:09:41,949
+to pay an amount of money to Microtask
+which then could pay a little bit to each
+
+124
+00:09:41,949 --> 00:09:45,990
+of the participants.
+And the company gets back much better
+
+125
+00:09:45,990 --> 00:09:50,284
+results on the quality of their forms.
+The Gameification there becomes not the
+
+126
+00:09:50,284 --> 00:09:54,497
+only for a motivation but something that
+dramatically increases the level of
+
+127
+00:09:54,497 --> 00:09:57,070
+motivation and gets more people to
+participate.
+
+128
+00:09:57,070 --> 00:10:02,789
+In some cases, crowd sourcing and micro
+work can be done without people even fully
+
+129
+00:10:02,789 --> 00:10:05,928
+understanding that that's what they're
+doing.
+
+130
+00:10:05,928 --> 00:10:11,299
+Luis Von Ahn is a researcher at Carnegie
+Mellon University who is one of the
+
+131
+00:10:11,299 --> 00:10:15,275
+leaders in developing what he calls games
+with a purpose.
+
+132
+00:10:15,275 --> 00:10:20,715
+One of the ones that he originally
+developed was this example here called the
+
+133
+00:10:20,715 --> 00:10:25,249
+ESP game, which is a cute little game that
+shows people a picture.
+
+134
+00:10:25,249 --> 00:10:28,880
+Here we see a bunch of sheep and says,
+What is this?
+
+135
+00:10:28,880 --> 00:10:33,539
+Type in what this is and the same thing is
+given to two different people so you type
+
+136
+00:10:33,539 --> 00:10:37,687
+in here what you think it is and the
+system says did you and the other person
+
+137
+00:10:37,687 --> 00:10:40,810
+type in the same word?
+Because if two people looking an image
+
+138
+00:10:40,810 --> 00:10:44,395
+type in the same word, there's a pretty
+high likelihood that, that word
+
+139
+00:10:44,395 --> 00:10:47,825
+corresponds to the image.
+Conversely if people type in different
+
+140
+00:10:47,825 --> 00:10:51,819
+things, then maybe those are not right and
+that provides some more data to the
+
+141
+00:10:51,819 --> 00:10:53,458
+system.
+What's the point of this?
+
+142
+00:10:53,458 --> 00:10:57,554
+Well it's kinda fun for the players to
+figure out if you're matching with other
+
+143
+00:10:57,554 --> 00:11:01,753
+people, if you get the right description
+of something and in fact they got lots of
+
+144
+00:11:01,753 --> 00:11:05,064
+people to participate.
+And then, and try and get a high score,
+
+145
+00:11:05,064 --> 00:11:08,850
+and engage in it in the same way that I've
+talked about for other examples of
+
+146
+00:11:08,850 --> 00:11:12,878
+Gameification The point of this though for
+the company setting this up, is improving
+
+147
+00:11:12,878 --> 00:11:16,262
+image search.
+Very hard for a computer to look at this
+
+148
+00:11:16,262 --> 00:11:21,231
+and know that this is sheep.
+We've got lots of great research on visual
+
+149
+00:11:21,231 --> 00:11:26,602
+recognition and computer vision, but it's
+still not as good as a person doing it.
+
+150
+00:11:26,602 --> 00:11:32,108
+So, this is a way of improving the quality
+of image search and meta-tagging images
+
+151
+00:11:32,108 --> 00:11:34,190
+for search engines.
+And in fact.
+
+152
+00:11:34,190 --> 00:11:38,298
+Google bought the company, bought the
+technology, that von Ahn had developed for
+
+153
+00:11:38,298 --> 00:11:41,090
+this ESP game in order to improve their
+image search.
+
+154
+00:11:41,090 --> 00:11:45,514
+Now here again, this is not something like
+the prior examples, where people are being
+
+155
+00:11:45,514 --> 00:11:47,727
+told, you're participating in image
+search.
+
+156
+00:11:47,727 --> 00:11:51,730
+People are just being told, here's
+something fun, and they're doing it to the
+
+157
+00:11:51,730 --> 00:11:54,732
+extent that it's fun.
+So Gameification can be used both in
+
+158
+00:11:54,732 --> 00:11:58,999
+situations were people explicitly know
+what they're doing or in situations where
+
+159
+00:11:58,999 --> 00:12:02,949
+they're just being encouraged to
+participate in some way in what turns out
+
+160
+00:12:02,949 --> 00:12:06,786
+to be a crowdsourced activity.
+So, what kinds of situations lend
+
+161
+00:12:06,786 --> 00:12:10,137
+themselves?
+Well, well, there need to be tasks that
+
+162
+00:12:10,137 --> 00:12:13,724
+can be split up easily.
+Fairly obvious, it needs to be a task that
+
+163
+00:12:13,724 --> 00:12:17,916
+lot's of people can work on in parallel.
+Either that means each person gets a
+
+164
+00:12:17,916 --> 00:12:22,326
+little segment of the task or many people
+are simultaneously trying to solve the
+
+165
+00:12:22,326 --> 00:12:24,776
+task.
+And needs to be a task, as I've talked
+
+166
+00:12:24,776 --> 00:12:27,716
+about before.
+That people are good at doing because if
+
+167
+00:12:27,716 --> 00:12:32,072
+either it's to hard for people to do or
+it's too easy for computers to do those,
+
+168
+00:12:32,072 --> 00:12:34,576
+the people are not the best possible
+solution.
+
+169
+00:12:34,576 --> 00:12:37,680
+The second major element is it has to be
+something where,
+
+170
+00:12:37,680 --> 00:12:40,727
+A gamified system is a good motivational
+technique.
+
+171
+00:12:40,727 --> 00:12:45,328
+There are three basic ways people can be
+motivated to do something crowd-source.
+
+172
+00:12:45,328 --> 00:12:47,300
+One is for money.
+One is for love.
+
+173
+00:12:47,300 --> 00:12:50,945
+It's something that they care about,
+that's important to them.
+
+174
+00:12:50,945 --> 00:12:54,052
+The Finnish library example might be a
+good example.
+
+175
+00:12:54,052 --> 00:12:58,354
+That people in that country want to
+promote the preservation of Finnish
+
+176
+00:12:58,354 --> 00:13:01,521
+literature.
+Another example was when Jim Gray who was
+
+177
+00:13:01,521 --> 00:13:05,943
+a famous computer science researcher
+disappeared on his boat in the ocean.
+
+178
+00:13:05,943 --> 00:13:10,962
+People volunteered to scour satellite maps
+to try and figure out if they could find
+
+179
+00:13:10,962 --> 00:13:14,054
+evidence of.
+His ship, because they cared a lot about
+
+180
+00:13:14,054 --> 00:13:18,030
+trying to save this guy who was a very
+revered figure in the field.
+
+181
+00:13:18,030 --> 00:13:22,778
+So they did it not for money, or because
+the task was fun, but because they cared
+
+182
+00:13:22,778 --> 00:13:26,280
+about the result.
+So that's another situation and the third
+
+183
+00:13:26,280 --> 00:13:30,791
+is people being motivated for fun, and,
+and this one is really the one that we're
+
+184
+00:13:30,791 --> 00:13:35,361
+most concerned about in Gameification but
+as I talked about with the earlier
+
+185
+00:13:35,361 --> 00:13:39,693
+examples, more than one of these can be
+present and the same time, and fun,
+
+186
+00:13:39,693 --> 00:13:44,620
+game-like approaches tend to be something
+that can magnify the level of engagement.
+
+187
+00:13:44,620 --> 00:13:48,620
+Even if it's already there and being
+re-enforced by some other mechanism.
+
+188
+00:13:48,620 --> 00:13:53,031
+So.
+Inducement prices, virtual economies,
+
+189
+00:13:53,031 --> 00:13:58,754
+crowd sourcing, are three different
+techniques for expanding the scope of
+
+190
+00:13:58,754 --> 00:14:05,338
+Gameification Going beyond dealing with a
+specific objective within a company or for
+
+191
+00:14:05,338 --> 00:14:11,923
+company visa-vi it's customer base, and as
+I've talked about, they can relate to each
+
+192
+00:14:11,923 --> 00:14:17,802
+other in different ways, but they all rely
+upon the same basic motivational
+
+193
+00:14:17,802 --> 00:14:23,760
+techniques and lessons that we've been
+seeing throughout this entire course.

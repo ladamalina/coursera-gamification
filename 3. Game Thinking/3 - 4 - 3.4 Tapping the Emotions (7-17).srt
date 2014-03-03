@@ -1,0 +1,390 @@
+
+1
+00:00:00,000 --> 00:00:07,012
+I've been talking about game thinking and
+very clinical or structural terms, very
+
+2
+00:00:07,012 --> 00:00:14,025
+process oriented. It's important though,
+as you're doing that, not to lose sight of
+
+3
+00:00:14,025 --> 00:00:20,666
+what really makes games engaging, the
+emotional component of the experience.
+
+4
+00:00:20,666 --> 00:00:27,099
+And, we can represent in one very short
+word what it is that makes games engaging.
+
+5
+00:00:27,099 --> 00:00:35,706
+Games are engaging because they are fun.
+Fun is a word that we use to represent
+
+6
+00:00:35,706 --> 00:00:41,007
+what it is about things like games that
+makes them good, makes them wonderful that
+
+7
+00:00:41,007 --> 00:00:45,883
+engages us that makes us want start to
+playing them and want to keep playing
+
+8
+00:00:45,883 --> 00:00:51,055
+them. Fun is a hard word to get your arms
+around kind of like games. But, as we are
+
+9
+00:00:51,055 --> 00:00:56,753
+able to define games we will be able to
+define fun at least define some aspects of
+
+10
+00:00:56,753 --> 00:01:01,950
+what makes things fun. The starting point
+is a quote from the great philosopher,
+
+11
+00:01:01,950 --> 00:01:07,904
+Mary Poppins who noted that in every job
+there is to be done, there is an element
+
+12
+00:01:07,904 --> 00:01:13,839
+of fun. You find the fun and snap, the
+job's a game. Important point here, notice
+
+13
+00:01:13,839 --> 00:01:19,084
+what she's talking about. She's talking
+about, jobs. She's not talking about
+
+14
+00:01:19,084 --> 00:01:24,714
+playtime. She's talking about how to make
+things that you have to do fun. And, of
+
+15
+00:01:24,714 --> 00:01:29,006
+course, in the context of the play, that's
+an important lesson that she's teaching,
+
+16
+00:01:29,006 --> 00:01:33,088
+but it points up something very
+significant. Fun is not limited to
+
+17
+00:01:33,088 --> 00:01:39,026
+recreation, fun is not limited to
+entertainment, fun is something that we
+
+18
+00:01:39,026 --> 00:01:45,024
+can enjoy at work. It's something that we
+can enjoy in all sorts of contacts and
+
+19
+00:01:45,024 --> 00:01:50,015
+therefore when we think about
+gamification, think about making work or
+
+20
+00:01:50,015 --> 00:01:56,129
+social impact or behavior change seem more
+engaging in game like it's essential to
+
+21
+00:01:56,129 --> 00:02:01,945
+think about how to make it fun. But the
+question is what's fun. So think of it
+
+22
+00:02:01,945 --> 00:02:06,869
+yourself. What are some of the kinds of
+things that you feel are fun? I'm not
+
+23
+00:02:06,869 --> 00:02:11,973
+saying an activity, I'm not saying that
+you think it's fun to jump out of
+
+24
+00:02:11,973 --> 00:02:16,932
+airplanes or something like that. What are
+the categories of emotions or the
+
+25
+00:02:16,932 --> 00:02:22,191
+categories of experiences that you would
+think of as fun? Try to think about as
+
+26
+00:02:22,191 --> 00:02:27,451
+many different possible ones as you can
+and think about how th ey relate to
+
+27
+00:02:27,451 --> 00:02:32,093
+different kinds of fun. Here are some
+things that I've come up with that are
+
+28
+00:02:32,093 --> 00:02:36,184
+fun. Winning. All right, that's an easy
+one. Many games have the idea of winners
+
+29
+00:02:36,184 --> 00:02:40,496
+and losers, and certainly winning is
+something that we think of as fun, but
+
+30
+00:02:40,496 --> 00:02:45,621
+it's not the only thing. Problem-solving.
+Sometimes the fun comes in overcoming
+
+31
+00:02:45,621 --> 00:02:50,446
+obstacles. In surmounting challenges,
+whether we win or not, even if the
+
+32
+00:02:50,446 --> 00:02:55,801
+activity doesn't have the notion of a
+winner. Just solving the problem,
+
+33
+00:02:55,801 --> 00:03:01,442
+achieving something that, in itself is
+fun. Or sometimes just exploring, just
+
+34
+00:03:01,442 --> 00:03:07,476
+finding something new feels like fun to us
+whether or not it's embedded in some kind
+
+35
+00:03:07,476 --> 00:03:13,490
+of challenge or some kind of game that has
+winners or losers. Or what about just
+
+36
+00:03:13,490 --> 00:03:19,569
+chilling out. Lying on a beautiful beach
+in the sun relaxing, at least for me, is
+
+37
+00:03:19,569 --> 00:03:26,186
+fun. Even though it doesn't have any of
+those other attributes. Teamwork. We are
+
+38
+00:03:26,186 --> 00:03:32,621
+hardwired as a species to enjoy
+collaborating and cooperating with others.
+
+39
+00:03:32,621 --> 00:03:38,285
+Working together as a team to achieve a
+goal independently feels like fun.
+
+40
+00:03:38,285 --> 00:03:43,848
+Recognition. Now recognition is little bit
+like winning, but it's not some objective
+
+41
+00:03:43,848 --> 00:03:49,209
+standard that says you have been
+victorious in the game, it's someone else
+
+42
+00:03:49,209 --> 00:03:54,672
+has told you that you did a good job.
+That's fun, that's feel good, whether or
+
+43
+00:03:54,672 --> 00:03:59,937
+not it means you have won the game.
+Triumphing. Now here I'm talking about
+
+44
+00:03:59,937 --> 00:04:05,985
+something that is similar to winning, but
+that has a particular aspect of it of
+
+45
+00:04:05,985 --> 00:04:12,060
+which is you win, and someone else loses,
+vanquishing your opponent. Some people
+
+46
+00:04:12,060 --> 00:04:18,682
+find that independently fun, above and
+beyond the joy of winning, the notion that
+
+47
+00:04:18,682 --> 00:04:24,656
+you've crushed someone else. Collecting We
+find it fun to assemble things together
+
+48
+00:04:24,656 --> 00:04:29,474
+into collections. That's why some people
+love to collect antiques or certain
+
+49
+00:04:29,474 --> 00:04:34,580
+categories of objects, and we find this
+more generally in games when [inaudible]
+
+50
+00:04:34,580 --> 00:04:39,530
+people have an opportunity to assemble a
+bunch of things, even if that's not an
+
+51
+00:04:39,530 --> 00:04:45,170
+express objective of the game, people do
+it voluntarily because they find it fun.
+
+52
+00:04:45,170 --> 00:04:50,896
+Surprise. There's something fun about
+being surprised. Why [laugh] do we love
+
+53
+00:04:50,896 --> 00:04:56,603
+[laugh] surprise parties? Because the idea
+of surprise, of some novelty, something we
+
+54
+00:04:56,603 --> 00:05:02,194
+didn't expect, is independently fun. And
+this will tie in later on when I start to
+
+55
+00:05:02,194 --> 00:05:07,884
+talk about psychology, the way that our
+brain actually releases the chemical
+
+56
+00:05:07,884 --> 00:05:13,999
+dopamine when something is unexpected. And
+the reward that we get is one that we
+
+57
+00:05:13,999 --> 00:05:19,442
+didn't anticipate, more so than if it's
+the same reward that we expected.
+
+58
+00:05:19,442 --> 00:05:25,312
+Imagination. Daydreaming is fun. Just
+thinking about ideas and imagining
+
+59
+00:05:25,312 --> 00:05:32,324
+something in your head has an element of
+fun in and of itself. Sharing. Being
+
+60
+00:05:32,324 --> 00:05:37,836
+altruistic is fun. People feel good when
+they give money to charity, again,
+
+61
+00:05:37,836 --> 00:05:42,622
+something that we are hardwired to think
+about as a species. Now, it doesn't mean
+
+62
+00:05:42,622 --> 00:05:47,621
+that every time we share, it's fun, and
+everyone shares everything all the time.
+
+63
+00:05:47,621 --> 00:05:53,032
+Anyone who has kids knows that getting
+them to share is not always an easy task.
+
+64
+00:05:53,032 --> 00:05:58,768
+But there is an element of fun in the act
+of altruism or sharing or giving someone a
+
+65
+00:05:58,768 --> 00:06:03,359
+gift. Role playing. We love trying on
+roles. We love pretending that we're
+
+66
+00:06:03,359 --> 00:06:08,635
+someone else inhabiting another character,
+whether that's all the way at the level of
+
+67
+00:06:08,635 --> 00:06:14,022
+a role playing game, where we are playing
+a night elf druid or something to that
+
+68
+00:06:14,022 --> 00:06:19,456
+effect to the more lightweight ideas of
+imagining ourselves in someone else's
+
+69
+00:06:19,456 --> 00:06:24,503
+shoes. Customization. It's fun to be able
+to make something our own. It's fun to be
+
+70
+00:06:24,503 --> 00:06:29,702
+able to decide exactly the color that you
+want for every aspect of the Nike shoes
+
+71
+00:06:29,702 --> 00:06:34,978
+that you buy. We love to be able to
+personalize and customize things. And
+
+72
+00:06:34,978 --> 00:06:41,963
+finally, goofing off. There's something
+fun about just letting it all hang out
+
+73
+00:06:41,963 --> 00:06:49,055
+about exploring the opportunity to just be
+silly. All right. So, think about, for a
+
+74
+00:06:49,055 --> 00:06:54,449
+game or for a business process, or some
+objective that you can imagine, or
+
+75
+00:06:54,449 --> 00:06:59,866
+perhaps, some of the ones that we've
+already covered in the course, how you
+
+76
+00:06:59,866 --> 00:07:05,802
+might use the different kinds of fun that
+we've identified, to produce an emotional
+
+77
+00:07:05,802 --> 00:07:11,725
+response to engage people in the activity.
+And then next, we'll look a little more
+
+78
+00:07:11,725 --> 00:07:17,011
+systematically about how game designers
+understand the concept of fun.

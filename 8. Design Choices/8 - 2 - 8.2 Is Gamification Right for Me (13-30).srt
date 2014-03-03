@@ -1,0 +1,765 @@
+
+1
+00:00:00,000 --> 00:00:06,069
+How do you decide if gamification is right
+for your organization or the business
+
+2
+00:00:06,069 --> 00:00:12,088
+problem or other kind of challenge that
+you have to address? There are four
+
+3
+00:00:12,088 --> 00:00:18,092
+questions to ask to determine if
+gamification is a good approach to take.
+
+4
+00:00:18,092 --> 00:00:25,024
+And these are, first of all, motivation.
+Gamification is about motivation so you
+
+5
+00:00:25,024 --> 00:00:31,033
+need to first say, would you derive value
+from encouraging certain behavior if
+
+6
+00:00:31,033 --> 00:00:36,096
+motivation matters to the business
+problem, it's likely the gamification
+
+7
+00:00:36,096 --> 00:00:42,657
+would be a good approach. Second is
+meaningful choices. Are the tasks involved
+
+8
+00:00:42,657 --> 00:00:48,116
+potentially, sufficiently interesting?
+Meaningful choices is one definition of
+
+9
+00:00:48,116 --> 00:00:53,803
+the very nature of games. And it's
+implicit in many aspects of the intrinsic
+
+10
+00:00:53,803 --> 00:00:59,358
+motivation description that I gave you
+under self-determination theory. The
+
+11
+00:00:59,358 --> 00:01:05,437
+notion of competence and autonomy is
+basically the same as saying the user has
+
+12
+00:01:05,437 --> 00:01:12,036
+to feel like there are choices and those
+choices are meaningful. Third is
+
+13
+00:01:12,036 --> 00:01:19,047
+structure. And this basically says, can we
+effectively gamify the system by using
+
+14
+00:01:19,047 --> 00:01:26,582
+rules or algorithms? So, is this a problem
+that will lend itself to a digital system,
+
+15
+00:01:26,582 --> 00:01:32,906
+which is what gamification typically is,
+that encodes the basic rules for this
+
+16
+00:01:32,906 --> 00:01:39,093
+problem set? If it's not, if it's
+something that's too vague or too
+
+17
+00:01:39,093 --> 00:01:45,059
+subjective or where the rules or the
+objectives aren't sufficiently clear, then
+
+18
+00:01:45,059 --> 00:01:51,018
+gamification may not work even if this is
+a problem that would benefit from
+
+19
+00:01:51,018 --> 00:01:56,026
+motivation and that's sufficiently
+interesting. And finally, potential
+
+20
+00:01:56,026 --> 00:02:01,077
+conflicts. What other motivational
+structures are there in the organization?
+
+21
+00:02:01,077 --> 00:02:06,724
+And, will the gamified system potentially
+come into tension with them? So, let's
+
+22
+00:02:06,724 --> 00:02:12,301
+look at all four of those questions in a
+little bit more detail. The first is
+
+23
+00:02:12,301 --> 00:02:18,740
+motivation. So, what are the situations
+where motivation is important? Typically
+
+24
+00:02:18,740 --> 00:02:25,585
+two broad categories which is you see are
+very different. The first is situations
+
+25
+00:02:25,585 --> 00:02:33,037
+that involve real deep creativity or
+situations that involve unique skills and
+
+26
+00:02:33,037 --> 00:02:40,005
+connections and teamwork. Situations where
+it's not just rote work. It's not
+
+27
+00:02:40,005 --> 00:02:45,622
+necessaril y something simple and
+familiar. It's something complex and deep
+
+28
+00:02:45,622 --> 00:02:51,653
+that requires people to go the extra mile.
+And motivation is the secret ingredient
+
+29
+00:02:51,653 --> 00:02:57,484
+that gets them to do that. So, these are
+the high value add kinds of tasks, the
+
+30
+00:02:57,484 --> 00:03:03,052
+desire for innovation, the desire for more
+productivity, the desire for lasting
+
+31
+00:03:03,052 --> 00:03:09,025
+consumer engagement. The things that
+require more than just a simple push of
+
+32
+00:03:09,025 --> 00:03:15,031
+the button. The second broad category
+where motivation is valuable, though, is
+
+33
+00:03:15,031 --> 00:03:21,026
+exactly that kind of situation. The
+situation where the task at hand seems
+
+34
+00:03:21,026 --> 00:03:27,033
+very dull, boring, and repetitive. Because
+those are the kinds of task where, if you
+
+35
+00:03:27,033 --> 00:03:33,038
+can find some motivation, if you can find
+some meaning and some interest level in
+
+36
+00:03:33,038 --> 00:03:38,982
+the task and some challenge that motivates
+people, the impact is quite significant
+
+37
+00:03:38,982 --> 00:03:44,797
+because without those things, there's no
+way except for the external, extrinsic
+
+38
+00:03:44,797 --> 00:03:50,931
+kinds of approaches to get people involved
+in the task. And a wonderful example comes
+
+39
+00:03:50,931 --> 00:03:56,953
+from the book Reamde, a recent science
+fiction book by Neal Stephenson. If you
+
+40
+00:03:56,953 --> 00:04:02,625
+haven't read it, I'd encourage you to read
+the first 200 pages, they're great. The
+
+41
+00:04:02,625 --> 00:04:08,211
+next 800 pages, not so good. But it's a
+delightful book, like many of his books,
+
+42
+00:04:08,211 --> 00:04:14,068
+in terms of getting us to think about a
+potential future that in many ways is
+
+43
+00:04:14,068 --> 00:04:19,362
+already here. And the example for
+gamification is that one of the characters
+
+44
+00:04:19,362 --> 00:04:24,468
+in the game, excuse me, in the book, is
+the CEO of a massively multiplayer online
+
+45
+00:04:24,468 --> 00:04:30,490
+games company vaguely like the company
+that makes World of Warcraft. Only, the
+
+46
+00:04:30,490 --> 00:04:35,552
+business model for this game is using
+gamification. Specifically the game
+
+47
+00:04:35,758 --> 00:04:41,983
+applies itself generates revenue by going
+to organizations that have dull tasks. The
+
+48
+00:04:41,983 --> 00:04:47,943
+first example that they give is airports
+dealing with security and having people
+
+49
+00:04:47,943 --> 00:04:54,079
+having to sit there and insure that no one
+walks in the wrong way through the door
+
+50
+00:04:54,079 --> 00:04:59,635
+that goes to the baggage claim area.
+Because there has to be an opening going
+
+51
+00:04:59,635 --> 00:05:04,379
+through there. And so therefore, you have
+to check to make sure people aren't coming
+
+52
+00:05:04,379 --> 00:05:08,746
+through the wro ng way because they don't
+go through security. And so, someone has
+
+53
+00:05:08,746 --> 00:05:12,709
+to sit there, but it's the most boring
+thing in the world, to have to watch
+
+54
+00:05:12,709 --> 00:05:16,739
+person after person after person go out
+the door on the off chance that some idiot
+
+55
+00:05:16,739 --> 00:05:20,963
+will wander in the other way by accident.
+Much more likely to be that idiot than an
+
+56
+00:05:20,963 --> 00:05:25,242
+actual terrorist, but if that idiot gets
+through because the person sitting at the
+
+57
+00:05:25,242 --> 00:05:29,128
+door fell asleep or wasn't paying
+attention in their mind numbingly boring
+
+58
+00:05:29,128 --> 00:05:33,002
+task, then we've had lots of examples
+where whole terminals have to get shut
+
+59
+00:05:33,002 --> 00:05:37,187
+down because someone is in the terminal
+without having to gone through security
+
+60
+00:05:37,187 --> 00:05:41,759
+screening. So, the idea in Reamde, is that
+this company comes up with the great idea.
+
+61
+00:05:41,759 --> 00:05:46,269
+They will use 3D motion capture to
+represent the people walking through the
+
+62
+00:05:46,450 --> 00:05:51,325
+passage way in the terminal as creatures
+in the game. So now, there's a castle in
+
+63
+00:05:51,325 --> 00:05:56,518
+the game and the people are walking down a
+certain passage way in the castle, all in
+
+64
+00:05:56,518 --> 00:06:01,159
+one direction. But the game says, in the
+game, that there is a goblin trying to
+
+65
+00:06:01,159 --> 00:06:06,153
+sneak in. And if you catch the goblin
+trying to sneak in, you get a big reward,
+
+66
+00:06:06,153 --> 00:06:11,690
+lots of experience points for you in the
+game. And the result is lots of players of
+
+67
+00:06:11,690 --> 00:06:17,275
+the game sit there and try to catch the
+goblin. They try to find the goblin even
+
+68
+00:06:17,275 --> 00:06:22,078
+though it involves the same thing that the
+security guard had to do at the airport,
+
+69
+00:06:22,078 --> 00:06:26,487
+sitting and watching person after person
+going through the right way in the hope
+
+70
+00:06:26,487 --> 00:06:31,670
+that you might find someone going through
+the wrong way. Putting it into the game
+
+71
+00:06:31,670 --> 00:06:36,752
+suddenly makes that fun and engaging for
+people. And in the book, this becomes a
+
+72
+00:06:36,752 --> 00:06:41,529
+huge business opportunity for this company
+because they're able to leverage the
+
+73
+00:06:41,529 --> 00:06:46,468
+engagement of the game players to do tasks
+that otherwise would be deadly boring. So,
+
+74
+00:06:46,468 --> 00:06:51,427
+that's an example of one kind of task that
+might lend itself to gamified motivation
+
+75
+00:06:51,427 --> 00:06:56,127
+that's very different from the kinds of
+tasks that we might at first think of.
+
+76
+00:06:56,127 --> 00:07:01,102
+Second question to decide whether
+gamification is right for you is whether
+
+77
+00:07:01,102 --> 00:07:06,266
+it involves meaningful choic es. And here,
+we can think about a number of different
+
+78
+00:07:06,266 --> 00:07:11,954
+kinds of situations that we talked about
+that make choices meaningful. Are there
+
+79
+00:07:11,954 --> 00:07:17,334
+options for the user? Do they connect up
+with things that are meaningful for the
+
+80
+00:07:17,334 --> 00:07:23,260
+user? Does the gamified system do things
+in a way that seem interesting where the
+
+81
+00:07:23,260 --> 00:07:28,044
+user has to make choices, that they care
+about the outcome? But there are many
+
+82
+00:07:28,044 --> 00:07:33,278
+gamified systems out there today, that
+don't seem to focus on this as much.
+
+83
+00:07:33,278 --> 00:07:38,808
+Here's one example here which is Google
+News Badges which I believe I've already
+
+84
+00:07:38,808 --> 00:07:43,976
+mention. And Google News Badges gives you
+badges just for reading stories on a
+
+85
+00:07:43,976 --> 00:07:48,417
+particular area. There's no choice
+involved except for the choice of what
+
+86
+00:07:48,417 --> 00:07:52,728
+stories you're reading. But that's not
+really a meaningful choice. Here you see
+
+87
+00:07:52,728 --> 00:07:57,593
+that this person started reading stories
+about Syria and it says keep reading about
+
+88
+00:07:57,593 --> 00:08:02,058
+Syria and you'll earn a bronze badge. But
+the question is, what's meaningful about
+
+89
+00:08:02,058 --> 00:08:06,050
+that? If you read a little bit about
+Syria, do you want to start reading much
+
+90
+00:08:06,050 --> 00:08:10,687
+more about Syria to become an expert on
+Syria? Or, do you want to read some about
+
+91
+00:08:10,687 --> 00:08:15,167
+Syria and then go read something about the
+Olympics, or some other topic because
+
+92
+00:08:15,167 --> 00:08:19,886
+that's what a news site or a newspaper
+does, it lets you find out about many
+
+93
+00:08:19,886 --> 00:08:24,822
+different things, as opposed to one thing
+to the exclusion of all others. That's not
+
+94
+00:08:24,822 --> 00:08:28,939
+really a meaningful choice, deciding to
+write, to read a few more articles about
+
+95
+00:08:28,939 --> 00:08:33,279
+something just because you're going to get
+a badge. So, I don't wanna cast
+
+96
+00:08:33,279 --> 00:08:38,710
+dispersions at Google News badges. I'm not
+sure what the design criteria were for it
+
+97
+00:08:38,710 --> 00:08:43,345
+and what it's trying to accomplish but
+from a perspective of thinking about
+
+98
+00:08:43,345 --> 00:08:47,817
+whether this is a situation where
+gamification is a logical or natural
+
+99
+00:08:47,817 --> 00:08:53,242
+solution, not so clear. Third one is
+structure. Is about can we use rules,
+
+100
+00:08:53,242 --> 00:08:59,453
+algorithms, hard-edged decisions to
+implement a gamified system. And so, here
+
+101
+00:08:59,453 --> 00:09:06,766
+is the Samsung Nation site that I referred
+to a number of times. And you can see the
+
+102
+00:09:06,766 --> 00:09:13,089
+points in the leader boards, but the
+question is un derlying that. What does it
+
+103
+00:09:13,089 --> 00:09:18,647
+take to get the points? What things are
+worth more? So, two of the tasks that Sam
+
+104
+00:09:18,647 --> 00:09:23,692
+Sung Nation let's you address are sharing
+things on Twitter, tweeting about
+
+105
+00:09:23,692 --> 00:09:29,019
+something you've done on the site or
+registering your product that you bought,
+
+106
+00:09:29,019 --> 00:09:34,052
+your Samsung product that you bought in a
+real store, do you go on the site and
+
+107
+00:09:34,052 --> 00:09:39,396
+register it? Samsung Nation gives you 500
+points for registering the product and a
+
+108
+00:09:39,396 --> 00:09:44,367
+100 points for tweeting about something
+that you did on the site. Now, I don't
+
+109
+00:09:44,367 --> 00:09:48,818
+know again from Samsung's business
+criteria, why they picked one or the
+
+110
+00:09:48,818 --> 00:09:53,752
+other. But the point is a system that lets
+you make those choices in trade-offs in a
+
+111
+00:09:53,752 --> 00:09:58,459
+coherent way, tends to be one that will
+lends itself well towards gamification
+
+112
+00:09:58,459 --> 00:10:03,828
+because you can build in these different
+kinds of motivators and then think about
+
+113
+00:10:03,828 --> 00:10:08,664
+different ways to encourage people to
+chose between them and to make their own
+
+114
+00:10:08,664 --> 00:10:13,647
+trade-off as to what's more meaningful to
+them. Again, this ties back in to the
+
+115
+00:10:13,647 --> 00:10:18,888
+notion of meaningful choices. The points
+are just guides and people in playing need
+
+116
+00:10:18,888 --> 00:10:24,574
+to decide, how they personally value the
+activity, vis-a-vis what the point system
+
+117
+00:10:24,574 --> 00:10:29,473
+is telling them. And finally, conflicts.
+What other motivational structures are
+
+118
+00:10:29,473 --> 00:10:34,253
+there out there? So, this is particularly
+important, say, in a company, there is a
+
+119
+00:10:34,253 --> 00:10:39,160
+motivational structure for employees. It's
+called their salary. It's called their
+
+120
+00:10:39,160 --> 00:10:43,431
+desire not to get fired from their job.
+That's not necessarily in conflict with
+
+121
+00:10:43,431 --> 00:10:47,901
+some system that says go do this because
+it's fun and because it's going to
+
+122
+00:10:47,901 --> 00:10:52,511
+motivate you to be part of a community to
+have some achievement or accomplishment.
+
+123
+00:10:52,511 --> 00:10:57,476
+But, there might be some tension if those
+things pull in opposite directions or if
+
+124
+00:10:57,476 --> 00:11:01,643
+the user starts to wonder, well, should I
+be doing this for the salary or should I
+
+125
+00:11:01,643 --> 00:11:06,788
+be doing this for the fun, what's the
+trade off between the two? Another context
+
+126
+00:11:06,788 --> 00:11:11,909
+for illustrative purposes where this comes
+up a lot is, school. So, we have all kinds
+
+127
+00:11:11,909 --> 00:11:17,086
+of motivators in school, including very
+extrinsic ones, as well as increasingly
+
+128
+00:11:17,086 --> 00:11:22,084
+intrinsic ones trying to get students to
+authentically care about and enjoy
+
+129
+00:11:22,084 --> 00:11:27,075
+learning. So , when gamification gets
+applied to learning, it's very important
+
+130
+00:11:27,075 --> 00:11:32,047
+to try to understand the potential
+conflicts. So, this here is a gamified
+
+131
+00:11:32,047 --> 00:11:37,084
+leader board or gamified experience point
+system that was developed by Lee Sheldon
+
+132
+00:11:37,084 --> 00:11:43,012
+who's a professor at Rensselaer
+Polytechnic Institute, he teaches game
+
+133
+00:11:43,012 --> 00:11:49,048
+design, and he gamified his courses. And
+this was the system that he used for
+
+134
+00:11:49,282 --> 00:11:55,367
+giving students points instead of saying,
+you get an A+ for a perfect score, and
+
+135
+00:11:55,367 --> 00:12:01,338
+then it goes down from there A, B, C, D, F
+and the idea being you start at a 100
+
+136
+00:12:01,338 --> 00:12:06,086
+percent and every mistake you get, you go
+down till you settle on your final grade.
+
+137
+00:12:06,086 --> 00:12:12,050
+What Sheldon realized was that games don't
+work that way, games work by building up,
+
+138
+00:12:12,050 --> 00:12:17,087
+you start at zero experience points and
+grow and grow and grow until you reach
+
+139
+00:12:17,087 --> 00:12:23,018
+your final level. So, he said, why don't
+we do school like this, why don't we say
+
+140
+00:12:23,018 --> 00:12:28,024
+you start here at zero, you start with an
+F? And based on what you do, based on
+
+141
+00:12:28,024 --> 00:12:33,039
+every assignment that you turn in, every
+achievement you get within the course, you
+
+142
+00:12:33,039 --> 00:12:38,080
+move up and up and up until you ultimately
+settle at your final level and that's your
+
+143
+00:12:38,080 --> 00:12:43,032
+grade. Very cool idea. Very powerful if
+designed right. But, it needs to be
+
+144
+00:12:43,032 --> 00:12:48,023
+designed consciously around the existing
+sets of incentives. So, if this system
+
+145
+00:12:48,023 --> 00:12:52,075
+were done in parallel to traditional
+grading, that would cause some real
+
+146
+00:12:52,075 --> 00:12:57,078
+tension and some real dissonance for the
+students. In Sheldon's class, as he uses
+
+147
+00:12:57,078 --> 00:13:02,058
+this as the entire grading structure. But
+even so, it needs to be designed in an
+
+148
+00:13:02,058 --> 00:13:07,013
+effective way that doesn't create
+conflicts between different other kinds of
+
+149
+00:13:07,013 --> 00:13:11,091
+motivations that students might have. So,
+that's an example to illustrate the need
+
+150
+00:13:11,091 --> 00:13:16,047
+to think about different tensions that
+might occur among different motivators. If
+
+151
+00:13:16,047 --> 00:13:21,006
+you think about all four of these
+questions systematically and come up with
+
+152
+00:13:21,006 --> 00:13:25,055
+good answers for them, you can be fairly
+confident that gamification is a
+
+153
+00:13:25,055 --> 00:13:30,035
+worthwhile approach to use to tackle a par
+ticular business or other challenge.

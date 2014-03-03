@@ -1,0 +1,724 @@
+
+1
+00:00:00,000 --> 00:00:06,512
+What happens when we add money or things
+that work like money to a gamified system?
+
+2
+00:00:06,512 --> 00:00:10,043
+Then we're in a realm of virtual
+economics.
+
+3
+00:00:10,043 --> 00:00:14,830
+And it's possible to get there in a number
+of different ways..
+
+4
+00:00:15,480 --> 00:00:19,426
+Many gamified systems have rewards,
+Things that the players get.
+
+5
+00:00:19,426 --> 00:00:22,621
+And their often virtual rewards, things
+like badges.
+
+6
+00:00:22,621 --> 00:00:27,382
+Well, if those rewards are persistent, if
+their things that endure throughout
+
+7
+00:00:27,382 --> 00:00:31,830
+participating in the activities,
+Especially if the player goes away and
+
+8
+00:00:31,830 --> 00:00:34,964
+comes back,
+Then, they can start to function as
+
+9
+00:00:34,964 --> 00:00:40,482
+virtual goods. If the system is designed
+in a way that gives them some scarcity
+
+10
+00:00:40,482 --> 00:00:43,415
+value,
+Some of them are harder to get than
+
+11
+00:00:43,415 --> 00:00:48,793
+others, some of them are less widely
+available than others, then those virtual
+
+12
+00:00:48,793 --> 00:00:54,241
+goods can appear to have value to the
+players just like a real world physical
+
+13
+00:00:54,241 --> 00:00:57,332
+good does.
+The second way to bring in virtual
+
+14
+00:00:57,332 --> 00:01:02,528
+economics is to have point systems that
+involve points that are tradable or
+
+15
+00:01:02,528 --> 00:01:06,493
+redeemable i.e.,
+You can get the points and use them to buy
+
+16
+00:01:06,493 --> 00:01:11,552
+a variety of different things in the
+gamified system, which themselves are
+
+17
+00:01:11,552 --> 00:01:17,568
+virtual goods then. Or you can redeem the
+points for things in the physical world,
+
+18
+00:01:17,568 --> 00:01:21,191
+for a coupon or even for money in the
+physical world.
+
+19
+00:01:21,191 --> 00:01:25,293
+In that case we're starting to deal with a
+virtual currency.
+
+20
+00:01:25,293 --> 00:01:29,425
+The points now operate like real money.
+They're a currency.
+
+21
+00:01:29,425 --> 00:01:34,823
+They're a medium of exchange.
+What is a dollar or a euro or a renminbi?
+
+22
+00:01:34,823 --> 00:01:40,608
+It's not a thing in and of itself.
+It's just an accounting mechanism that's
+
+23
+00:01:40,608 --> 00:01:46,932
+tradeable for other real world things that
+we want because people in that society
+
+24
+00:01:46,932 --> 00:01:52,360
+with the backing of governments are
+willing to make that exchange. And say, if
+
+25
+00:01:52,360 --> 00:01:57,756
+you give me a certain amount of money, I
+will recognize it and give you some other
+
+26
+00:01:57,756 --> 00:02:01,309
+kinds of goods.
+So, the same thing can be true, of, point
+
+27
+00:02:01,309 --> 00:02:05,915
+systems in gamified systems.
+If they are, exchangeable for other things
+
+28
+00:02:05,915 --> 00:02:09,600
+that people value, then they can operate
+like a currency.
+
+29
+00:02:09,600 --> 00:02:14,004
+And finally, if the system allows
+transactions, if participants in the
+
+30
+00:02:14,004 --> 00:02:19,303
+virtual system can trade with each other
+directly or through some marketplace, then
+
+31
+00:02:19,303 --> 00:02:23,325
+potentially we're in the realm of a
+full-blown virtual economy.
+
+32
+00:02:23,325 --> 00:02:27,858
+And we've seen this in a variety of
+massively multiplayer online games.
+
+33
+00:02:27,858 --> 00:02:32,965
+Things like EVE Online, as well as some
+virtual worlds like Second Life that are
+
+34
+00:02:32,965 --> 00:02:35,965
+designed to have functioning virtual
+economies.
+
+35
+00:02:35,965 --> 00:02:40,690
+And all these can exist to a greater or
+lesser extent in gamified systems.
+
+36
+00:02:40,690 --> 00:02:47,343
+So, a couple of examples, virtual goods
+are a widespread phenomenon in many social
+
+37
+00:02:47,343 --> 00:02:50,300
+games today.
+So games like Farmville.
+
+38
+00:02:50,300 --> 00:02:54,417
+One of the ways that they were so
+successful as businesses, was they
+
+39
+00:02:54,417 --> 00:02:59,139
+recognized that virtual goods could be
+unlocked as a way to monetize the game.
+
+40
+00:02:59,139 --> 00:03:03,922
+Doesn't cost anything to play, but in
+order to achieve certain things easily in
+
+41
+00:03:03,922 --> 00:03:08,706
+the game, or to get certain rare goods in
+the game, you've got to start to spend
+
+42
+00:03:08,706 --> 00:03:11,915
+real money.
+So people think of those virtual goods as
+
+43
+00:03:11,915 --> 00:03:16,274
+being really worth something, either
+because they had to pay for them or
+
+44
+00:03:16,274 --> 00:03:19,120
+because they had to work very hard to get
+them.
+
+45
+00:03:19,440 --> 00:03:25,246
+This has been so successful that overall
+the virtual goods market is estimated at
+
+46
+00:03:25,246 --> 00:03:29,990
+$7,000,000,000 world-wide in 2010, growing
+to $13,000,000,000 by 2016.
+
+47
+00:03:29,990 --> 00:03:34,310
+But it's not just games.
+Gamified systems can have aspects of
+
+48
+00:03:34,310 --> 00:03:39,904
+virtual goods and virtual currencies and,
+potentially, even virtual economies as
+
+49
+00:03:39,904 --> 00:03:43,020
+well.
+Think, in particular, about the gamified
+
+50
+00:03:43,020 --> 00:03:46,348
+systems that are derived from loyalty
+programs.
+
+51
+00:03:46,348 --> 00:03:51,710
+So here's an example that I picked out.
+Almost at random from Nescafe Australia,
+
+52
+00:03:51,710 --> 00:03:56,001
+it's something called Cup Of Rewards.
+Typical loyalty type program.
+
+53
+00:03:56,001 --> 00:04:01,267
+You get points for going to the site and
+putting in a code because you've bought
+
+54
+00:04:01,267 --> 00:04:05,688
+certain Nescafe products.
+And you accumulate the points and then you
+
+55
+00:04:05,688 --> 00:04:10,954
+can exchange them for discounts and for
+coupons to use on various other sorts of
+
+56
+00:04:10,954 --> 00:04:13,230
+products.
+That's a virtual currency.
+
+57
+00:04:13,230 --> 00:04:19,967
+It's making those points tradeable and
+redeemable for real world benefits, and
+
+58
+00:04:19,967 --> 00:04:26,360
+therefore, it works like a virtual good or
+like a currency in another case.
+
+59
+00:04:26,360 --> 00:04:30,909
+The issue with a lot of these virtual
+currencies though, as with many other
+
+60
+00:04:30,909 --> 00:04:35,520
+examples of gamefication in many other
+examples of loyalty programs, is that
+
+61
+00:04:35,520 --> 00:04:38,917
+they're typically not built today with the
+focus on fun.
+
+62
+00:04:38,917 --> 00:04:42,739
+With the focus on the design aspects of
+effective gamification.
+
+63
+00:04:42,739 --> 00:04:47,774
+They assume that just the fact that you
+can redeem these points for tangible goods
+
+64
+00:04:47,774 --> 00:04:52,627
+will be enough to motivate you to come
+back and participate, and buy the desired
+
+65
+00:04:52,627 --> 00:04:55,600
+products.
+But, as we've seen throughout this class.
+
+66
+00:04:55,600 --> 00:05:01,317
+Tangible rewards have serious limitations.
+And to the extent that a virtual currency
+
+67
+00:05:01,317 --> 00:05:06,286
+is just a way to harness a gamified system
+to tangible extrinsic rewards.
+
+68
+00:05:06,286 --> 00:05:10,234
+It has all the limitations that I've
+already talked about,
+
+69
+00:05:10,234 --> 00:05:15,543
+B\ut it doesn't have to be that way.
+These systems can be designed in ways that
+
+70
+00:05:15,543 --> 00:05:21,057
+focus on fun and that systematically are
+designed to unlock intrinsic motivation
+
+71
+00:05:21,057 --> 00:05:25,890
+and that can also feed into the virtual
+economic aspects of the system.
+
+72
+00:05:25,890 --> 00:05:32,679
+If designed well, these systems can have
+the attributes of both gamification and
+
+73
+00:05:32,679 --> 00:05:36,329
+economics,
+So, what does it take to design a
+
+74
+00:05:36,329 --> 00:05:39,300
+successful virtual economy?
+The key.
+
+75
+00:05:39,300 --> 00:05:43,717
+Skill is balance.
+I've talked about balance as one of the
+
+76
+00:05:43,717 --> 00:05:47,831
+attributes of game design.
+It's ensuring the game is not too hard,
+
+77
+00:05:47,831 --> 00:05:51,312
+too easy, too fast, too slow, one side
+doesn't always win.
+
+78
+00:05:51,312 --> 00:05:55,680
+But balance is also critical in economics,
+because economics is about,
+
+79
+00:05:55,680 --> 00:05:58,618
+Not necessarily money, it's about
+scarcity.
+
+80
+00:05:58,618 --> 00:06:03,654
+Anytime there is scarcity, people make
+choices under those conditions of
+
+81
+00:06:03,654 --> 00:06:08,621
+scarcity, they will tend to exhibit
+economic behavior. And scarcity is a
+
+82
+00:06:08,621 --> 00:06:13,867
+variable in a gamefied system that's
+defined, at least at some level,3 by the
+
+83
+00:06:13,867 --> 00:06:19,534
+designe. And in any syste, where people
+have the ability to use virtual goods or
+
+84
+00:06:19,534 --> 00:06:24,920
+virtual currencies, it's important to
+ensure that there is the right level of
+
+85
+00:06:24,920 --> 00:06:27,932
+scarcity.
+The designer has to constantly balance to
+
+86
+00:06:27,932 --> 00:06:32,470
+ensure that there's not too much money,
+which leads to inflation and effectively
+
+87
+00:06:32,470 --> 00:06:35,930
+devalues the currency, or too little,
+which is too hard to get.
+
+88
+00:06:35,930 --> 00:06:39,986
+This is a process that can be called using
+faucets and drains.
+
+89
+00:06:39,986 --> 00:06:45,808
+Faucets are things that put money into the
+economy and drains are things that take it
+
+90
+00:06:45,808 --> 00:06:49,668
+out of the economy.
+I guess if its a drain then I should
+
+91
+00:06:49,864 --> 00:06:53,593
+probably draw it this way, as you're going
+down the drain.
+
+92
+00:06:53,789 --> 00:06:58,434
+But there are ways of balancing how much
+money there is in the economy.
+
+93
+00:06:58,434 --> 00:07:02,556
+They can also be called and sometimes are,
+sources and sinks.
+
+94
+00:07:02,556 --> 00:07:06,186
+The design technique is to ensure that the
+balance is right.
+
+95
+00:07:06,186 --> 00:07:10,467
+If you've got too much money in the
+system, it won't be good or too little.
+
+96
+00:07:10,467 --> 00:07:14,807
+Recall when I talked about the game
+Monopoly, that when you pass go, you get
+
+97
+00:07:14,807 --> 00:07:17,179
+$200.
+That's putting money into the system.
+
+98
+00:07:17,179 --> 00:07:21,229
+When you want to buy houses and hotels,
+which are very valuable things,
+
+99
+00:07:21,229 --> 00:07:24,758
+You have to pay money, and that takes
+money out of the system.
+
+100
+00:07:24,758 --> 00:07:29,502
+And this is something that effective game
+designers building games around virtual
+
+101
+00:07:29,502 --> 00:07:33,090
+economies have learned to do.
+For example, in World of Warcraft,
+
+102
+00:07:33,090 --> 00:07:37,221
+Way back at the beginning of the class I
+showed you a little snippet of my
+
+103
+00:07:37,221 --> 00:07:41,407
+character, and at the end of that clip, he
+turned into a dragon and flew away.
+
+104
+00:07:41,407 --> 00:07:45,483
+Well, that dragon, something called the
+Sandstone Drake, is something that's
+
+105
+00:07:45,483 --> 00:07:50,000
+pretty hard to get in World of Warcraft or
+at least it was when it first came out.
+
+106
+00:07:50,000 --> 00:07:54,350
+But that's also, once you have the ability
+to make it, really expensive to make.
+
+107
+00:07:54,350 --> 00:07:59,041
+And the reason is that, the designers of
+the game were trying to balance with this
+
+108
+00:07:59,041 --> 00:08:01,844
+and other things the level of money in the
+world.
+
+109
+00:08:01,844 --> 00:08:06,420
+And by creating something that's really
+desirable, because it's rare and hard to
+
+110
+00:08:06,420 --> 00:08:10,825
+get, and therefore high-level players.
+Ones you typically have a lot money are
+
+111
+00:08:10,825 --> 00:08:15,627
+going to try and get it and making that
+thing really expensive, they create a way
+
+112
+00:08:15,627 --> 00:08:19,970
+of taking money out of the economy.
+And therefore, ensuring that people don't
+
+113
+00:08:19,970 --> 00:08:24,370
+just get richer and richer to the point
+where the system goes out of balance.
+
+114
+00:08:24,370 --> 00:08:28,370
+So, building a gamified system is about
+ensuring than level of balance,
+
+115
+00:08:28,370 --> 00:08:32,941
+Wanting people to be incentivized to take
+money out of the economy in the right
+
+116
+00:08:32,941 --> 00:08:36,770
+times and the right amounts,
+And also putting enough money into the
+
+117
+00:08:36,770 --> 00:08:40,770
+economy so, things don't get too expensive
+and too hard to purchase.
+
+118
+00:08:40,770 --> 00:08:45,163
+The final point I'll make is that there is
+some real dangers in building these
+
+119
+00:08:45,163 --> 00:08:48,890
+virtual economies, even though they have
+lots of potential benefits.
+
+120
+00:08:48,890 --> 00:08:54,016
+We're talking about systems that may
+involve real money or real tangible goods
+
+121
+00:08:54,016 --> 00:08:58,623
+as rewards and those are costly.
+And, so, organizations setting up gamified
+
+122
+00:08:58,623 --> 00:09:04,138
+systems that have these attributes need to
+make sure that they understand what kinds
+
+123
+00:09:04,138 --> 00:09:08,486
+of obligations they're taking on.
+Secondly, they tend to be tangible
+
+124
+00:09:08,486 --> 00:09:12,249
+extrinsic rewards.
+So all the concepts that I talked about
+
+125
+00:09:12,249 --> 00:09:15,040
+earlier, about the hedonic treadmill
+effect,
+
+126
+00:09:15,040 --> 00:09:19,877
+Where rewards start to become less and
+less desirable and the crowding out
+
+127
+00:09:19,877 --> 00:09:25,174
+effect, where people actually become less
+motivated for the activity itself, because
+
+128
+00:09:25,174 --> 00:09:30,532
+they think it's so tied up in the reward.
+All that's very relevant and an important
+
+129
+00:09:30,532 --> 00:09:35,438
+caution to think about when building
+systems that have virtual economics in
+
+130
+00:09:35,438 --> 00:09:38,472
+them.
+You don't wanna build a system that falls
+
+131
+00:09:38,472 --> 00:09:43,443
+into the trap of these tangible extrinsic
+rewards, demotivating the enjoyable
+
+132
+00:09:43,443 --> 00:09:46,541
+behaviour.
+In order to ensure that the intrinsic
+
+133
+00:09:46,541 --> 00:09:50,686
+motivation is still there,
+It's important to think about, the
+
+134
+00:09:50,686 --> 00:09:55,038
+scarcity and rarity and surprise value of
+the virtual goods.
+
+135
+00:09:55,038 --> 00:10:00,987
+If something feels cool, not necessarily,
+because it's valuable in a tangible sense,
+
+136
+00:10:00,987 --> 00:10:06,427
+but because it's something that's
+difficult to achieve, like that dragon in
+
+137
+00:10:06,427 --> 00:10:11,578
+World of Warcraf or it's really
+interesting, and, looks great within in
+
+138
+00:10:11,578 --> 00:10:15,884
+the gamified system.
+That might be something that still feels
+
+139
+00:10:15,884 --> 00:10:20,932
+valuable to the players, even though, or
+basically, independent of the tangible
+
+140
+00:10:20,932 --> 00:10:25,062
+value associated with it.
+So, there's much more that I could say
+
+141
+00:10:25,062 --> 00:10:29,847
+about designing virtual economies.
+I wanted to put this unit in though, just
+
+142
+00:10:29,847 --> 00:10:34,633
+to ensure that you think about the
+potential of this as one technique to
+
+143
+00:10:34,633 --> 00:10:38,763
+employ in gamefied systems or other kinds
+of game-like systems,
+
+144
+00:10:38,763 --> 00:10:44,007
+But always be sure to do it in a way
+that's cognizant of all of the points that
+
+145
+00:10:44,007 --> 00:10:46,040
+I made elsewhere in the course.

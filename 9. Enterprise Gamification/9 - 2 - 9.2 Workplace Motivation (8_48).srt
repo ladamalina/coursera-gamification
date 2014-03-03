@@ -1,0 +1,500 @@
+
+1
+00:00:00,000 --> 00:00:06,027
+An important question for enterprise
+gamification is, what actually motivates
+
+2
+00:00:06,027 --> 00:00:12,062
+people in the workplace? So, there are all
+of the standard kinds of things. Your
+
+3
+00:00:12,062 --> 00:00:18,082
+salary, bonuses, stock options, verbal
+praise from your supervisors, promotions,
+
+4
+00:00:18,082 --> 00:00:23,095
+more job responsibility. All the
+traditional kinds of levers of
+
+5
+00:00:23,095 --> 00:00:30,015
+compensation that get used in the
+workplace to encourage people to work. But
+
+6
+00:00:30,015 --> 00:00:37,029
+hopefully, if you've been listening to the
+course so far, you realized that these are
+
+7
+00:00:37,029 --> 00:00:43,850
+almost entirely extrinsic motivators. They
+are not things that are about the inherant
+
+8
+00:00:43,850 --> 00:00:50,688
+joy and pleasure and engagement of the
+work. They are external rewards that are
+
+9
+00:00:50,688 --> 00:00:56,440
+designed as compensation. Think about what
+the word compensation means. It's
+
+10
+00:00:56,440 --> 00:01:03,004
+something you'll have to get to compensate
+you. Before doing something that you don't
+
+11
+00:01:03,004 --> 00:01:08,462
+really want to do, i.e. Work. So, there is
+nothing wrong with that, of course, that's
+
+12
+00:01:08,462 --> 00:01:14,383
+how salaries work everywhere and they're
+going to be the core element of how
+
+13
+00:01:14,383 --> 00:01:20,603
+people, get motivated to do jobs for most
+people, but there's more to the story than
+
+14
+00:01:20,603 --> 00:01:26,359
+that. There's something beyond working for
+external rewards, and that's where
+
+15
+00:01:26,359 --> 00:01:31,602
+gamification has a real opportunity if
+it's designed in the ways I've talked
+
+16
+00:01:31,602 --> 00:01:37,265
+about to focus on producing engaging
+experience and at activating intrinsic
+
+17
+00:01:37,265 --> 00:01:43,137
+motivation. So, let's look at a few
+different ways that gamification can
+
+18
+00:01:43,137 --> 00:01:49,677
+motivate people at work outside of chasing
+rewards. One Is learning, or skill
+
+19
+00:01:49,677 --> 00:01:55,635
+development. That might be in order to
+obtain some of those extrinsic rewards. If
+
+20
+00:01:55,635 --> 00:02:01,007
+you had better skills you get a higher
+salary or you get promoted to a better job
+
+21
+00:02:01,007 --> 00:02:06,706
+or maybe you get a better job somewhere
+else. But learning as I've talked about is
+
+22
+00:02:06,706 --> 00:02:12,099
+also about problem solving and it's about
+engaging those parts of your brain that
+
+23
+00:02:12,099 --> 00:02:17,205
+love to figure out new things. So, skill
+development in the workplace can take
+
+24
+00:02:17,205 --> 00:02:22,673
+advantage of gamification in a way that is
+helpful for the employees and also
+
+25
+00:02:22,673 --> 00:02:27,106
+beneficial for the companies. What I've
+highlighted here is a screenshot from a
+
+26
+00:02:27,106 --> 00:02:31,615
+service by Live Ops, which is an
+out-source cal l center operator. What
+
+27
+00:02:31,615 --> 00:02:37,430
+Live Ops does is they essentially create
+virtual call centers by stitching together
+
+28
+00:02:37,430 --> 00:02:42,362
+people working at home using an
+application to act as though they're part
+
+29
+00:02:42,362 --> 00:02:47,541
+of a virtual part of a call center. And so
+Live Ops has lots of people working
+
+30
+00:02:47,541 --> 00:02:52,503
+part-time for them. Stay at home moms.
+People who are out of work. People who
+
+31
+00:02:52,503 --> 00:02:56,777
+pick up an hour here, an hour there.
+Answering calls or making outbound calls
+
+32
+00:02:56,777 --> 00:03:02,108
+for the call center from home and
+therefore people who are often eager to
+
+33
+00:03:02,108 --> 00:03:07,796
+develop new skills if it can be done in a
+flexible way that fits in with their
+
+34
+00:03:07,796 --> 00:03:13,427
+situation. So Live Ops has built their own
+gamified site. It's got the usual kinds of
+
+35
+00:03:13,427 --> 00:03:19,383
+trophies and badges, it's got the feedback
+metrics about what people are doing,
+
+36
+00:03:19,383 --> 00:03:24,317
+points, all of the usual things, but it's
+very much geared towards skill
+
+37
+00:03:24,317 --> 00:03:29,122
+development. It's geared not as much
+towards, we want you to get off this call
+
+38
+00:03:29,122 --> 00:03:33,768
+that you're on with a customer quickly and
+in a way that makes the customer happy
+
+39
+00:03:33,768 --> 00:03:38,475
+which was the other call center example I
+talked to you about. This is much more
+
+40
+00:03:38,475 --> 00:03:43,481
+about we want to help you learn how to be
+better at this job. How to learn different
+
+41
+00:03:43,481 --> 00:03:48,535
+aspects of the job and how to be effective
+in a way that will then move you up, in a
+
+42
+00:03:48,535 --> 00:03:53,076
+way that's recognized by the badges and
+achievements and so forth, and then
+
+43
+00:03:53,076 --> 00:03:59,100
+potentially help you on the path to your
+success in your career. So, that's one
+
+44
+00:03:59,100 --> 00:04:06,594
+motivator that lots of companies, have for
+their employees, the opportunity to learn
+
+45
+00:04:06,594 --> 00:04:13,010
+things and skill up. Next is information.
+So, what's the value of information to an
+
+46
+00:04:13,010 --> 00:04:18,479
+employee? Well, employees don't always
+know how they're doing. Performance review
+
+47
+00:04:18,479 --> 00:04:22,503
+every six months, every year, and that's
+very far removed from the day to day
+
+48
+00:04:22,503 --> 00:04:27,416
+process of your work. You get feedback
+from your coworkers, and your boss and so
+
+49
+00:04:27,416 --> 00:04:32,463
+forth, but many employees don't really
+have any sense about the quality of their
+
+50
+00:04:32,463 --> 00:04:36,935
+work and certainly no ability to directly
+turn that back around and take advantage
+
+51
+00:04:36,935 --> 00:04:42,081
+of situations where they are doing a good
+job. This is a screenshot fr om a company
+
+52
+00:04:42,081 --> 00:04:47,067
+called Objective Logistics which does
+gamification, initially targeted at the
+
+53
+00:04:47,067 --> 00:04:52,078
+restaurant industry. So, they provide a
+dashboard for restaurants to use for their
+
+54
+00:04:52,078 --> 00:04:57,414
+servers where they can track how the
+servers are doing. What tip, what check
+
+55
+00:04:57,414 --> 00:05:02,075
+size they're getting and what their
+performance is. And they can then provide
+
+56
+00:05:02,075 --> 00:05:07,898
+feedback to the employees about how
+they're doing in this weeks challenge is
+
+57
+00:05:07,898 --> 00:05:13,635
+sell a bunch of the dinner entrees and so
+forth. There are various metrics that are
+
+58
+00:05:13,635 --> 00:05:18,881
+put on here. There's summaries about your
+ranking on the leaderboard, and how much
+
+59
+00:05:18,881 --> 00:05:23,976
+you earned in extra tips. All of this
+provides information to the server and it
+
+60
+00:05:23,976 --> 00:05:28,561
+provides information to the company and
+the company can use this in order to
+
+61
+00:05:28,561 --> 00:05:33,610
+target the best shifts to the employees
+who are doing the best job which motivates
+
+62
+00:05:33,610 --> 00:05:38,591
+the employees to do a better job to get
+the better work opportunities and also
+
+63
+00:05:38,591 --> 00:05:43,627
+gives them a much more concrete sense of
+what their performance is. It activates
+
+64
+00:05:43,627 --> 00:05:48,387
+the competitive instinct and the desire to
+chase the reward but it also paints a
+
+65
+00:05:48,387 --> 00:05:53,581
+better picture for the employee, connects
+up very directly what they are doing via
+
+66
+00:05:53,581 --> 00:05:58,834
+feedback to the way that the company
+treats them. The next one is corporate
+
+67
+00:05:58,834 --> 00:06:04,182
+citizenship. So, this I'll talk about in
+more detail in a subsequent segment. But
+
+68
+00:06:04,182 --> 00:06:09,533
+there are things that you do sometimes in
+a company that are not necessarily about
+
+69
+00:06:09,533 --> 00:06:14,887
+your job. Great example is the language
+quality game from Microsoft that I used as
+
+70
+00:06:14,887 --> 00:06:19,543
+one of the early examples where they got
+employees to review all of these dialogue
+
+71
+00:06:19,543 --> 00:06:24,223
+boxes for Windows localization in
+different languages. And I told you that
+
+72
+00:06:24,223 --> 00:06:29,300
+thousands of Microsoft employees did this
+voluntarily. Why? Well part of it was just
+
+73
+00:06:29,300 --> 00:06:34,090
+the inherent fun of the game, part of it
+was competition to want to beat the other
+
+74
+00:06:34,090 --> 00:06:39,045
+offices. But part of it was a sense that
+they were doing something that was good
+
+75
+00:06:39,045 --> 00:06:43,082
+for the company. They were helping
+Microsoft make better products by removing
+
+76
+00:06:43,082 --> 00:06:48,034
+bugs and errors in the localization of
+windows. And that's something that peop le
+
+77
+00:06:48,036 --> 00:06:52,096
+who are part of an organization, part of a
+team, feel some resonance with. They are
+
+78
+00:06:52,096 --> 00:06:57,062
+not going to work as a volunteer for weeks
+on end just for the company's good but
+
+79
+00:06:57,062 --> 00:07:02,022
+they want to take pride in their work and
+their workplace and they want to be good
+
+80
+00:07:02,022 --> 00:07:06,048
+corporate citizens. So, that's a motivator
+that can be used for gamification.
+
+81
+00:07:06,048 --> 00:07:12,021
+Finally, last but certainly not least.
+What about fun? What's the role of fun in
+
+82
+00:07:12,021 --> 00:07:16,096
+the workplace? Well there're lots of
+benefits of fun in the workplace. Creating
+
+83
+00:07:16,096 --> 00:07:21,068
+a more congenial environment, promoting
+teamwork, so on, and so forth. But there
+
+84
+00:07:21,068 --> 00:07:27,000
+are opportunities to specifically use fun
+to achieve direct workplace benefits. This
+
+85
+00:07:27,000 --> 00:07:31,075
+is something called the Face Game at
+Zappos. And if you want to see more
+
+86
+00:07:31,075 --> 00:07:36,075
+details there's a little video here about
+this. Zappos is an online retailer
+
+87
+00:07:36,075 --> 00:07:41,025
+initially of shoes and now of other
+clothing-type items that's part of
+
+88
+00:07:41,025 --> 00:07:46,006
+amazon.com now Amazon bought it for
+roughly a billion dollars. And Zappos, as
+
+89
+00:07:46,006 --> 00:07:51,038
+we'll talk about, is a very fun workplace.
+This is something that they created called
+
+90
+00:07:51,038 --> 00:07:56,026
+the Face Game for their employees. When
+you log onto the company Internet, after
+
+91
+00:07:56,026 --> 00:08:01,371
+you type in your name and password, you
+get shown a picture of someone who's one
+
+92
+00:08:01,371 --> 00:08:07,221
+of your coworkers randomly selected. And
+you get to say, "Who is this?" And you can
+
+93
+00:08:07,221 --> 00:08:11,602
+fill in this is Ronda", or you can say "I
+have no clue, don't know who this is". And
+
+94
+00:08:11,602 --> 00:08:15,629
+what the game does is once you do that,
+either says "congratulations you got it
+
+95
+00:08:15,629 --> 00:08:20,440
+right, it is Ronda", or it says "Nope.
+That was actually Brenda" and we'll give
+
+96
+00:08:20,440 --> 00:08:26,471
+you Brenda's profile page in the company
+internet. So, what this does is creates a
+
+97
+00:08:26,471 --> 00:08:32,032
+little bit of fun and helps people get to
+know their coworkers, helps them find out
+
+98
+00:08:32,032 --> 00:08:37,435
+more about the people who work with, with
+them, what they do, where they work, what
+
+99
+00:08:37,435 --> 00:08:42,539
+their skills are which can be valuable in
+terms of promoting better collaboration
+
+100
+00:08:42,539 --> 00:08:48,000
+and teamwork within the organization. All
+based on leveraging off of fun.

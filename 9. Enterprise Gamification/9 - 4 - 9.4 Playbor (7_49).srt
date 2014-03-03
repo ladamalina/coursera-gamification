@@ -1,0 +1,425 @@
+
+1
+00:00:00,000 --> 00:00:06,062
+An important question that arises in
+enterprise gamification is whether the
+
+2
+00:00:06,062 --> 00:00:13,309
+game is truly voluntary. And one way to
+describe that is the word Playbor which is
+
+3
+00:00:13,309 --> 00:00:20,057
+the combination of play and labor. If
+it's, both play and work at the same time,
+
+4
+00:00:20,057 --> 00:00:26,026
+what is it? Is it a game? Well, under the
+definition of games that I gave you, it's
+
+5
+00:00:26,026 --> 00:00:31,659
+not. A game has to be voluntary. That's at
+the essence of what makes something game
+
+6
+00:00:31,659 --> 00:00:37,060
+like the fact that you choose to play and
+you choose to take the rules of the game
+
+7
+00:00:37,060 --> 00:00:42,988
+seriously. If someone says, go play this
+game right now, then you don't necessarily
+
+8
+00:00:42,988 --> 00:00:49,055
+have a choice. If you're forced to do it,
+you may be going through the same motions.
+
+9
+00:00:49,055 --> 00:00:54,058
+If, let's say, you're an actor hired to
+play a game of soccer in a movie, you're
+
+10
+00:00:54,058 --> 00:01:00,065
+not playing soccer when you're acting out
+your role, you're acting out your role.
+
+11
+00:01:00,065 --> 00:01:05,802
+So, what about someone who is forced to
+play a game at work, or more commonly, is
+
+12
+00:01:05,802 --> 00:01:11,283
+forced to engage in some gamified activity
+at work? What if they don't have agency
+
+13
+00:01:11,283 --> 00:01:17,097
+and choice over the matter but their
+employer puts into place a gamified system
+
+14
+00:01:17,097 --> 00:01:23,528
+to incentivize them to work harder and be
+more productive? What about, for example,
+
+15
+00:01:23,528 --> 00:01:29,710
+these checkout cashiers at Target who have
+the screen here that you see in front of
+
+16
+00:01:29,710 --> 00:01:36,645
+you when they are checking people out at
+the store. The screen has a system that
+
+17
+00:01:36,645 --> 00:01:43,620
+gives you either green, red or yellow
+based on how fast you check someone out.
+
+18
+00:01:43,620 --> 00:01:50,105
+So this person that just got checked out,
+they got a G. They did well, they did that
+
+19
+00:01:50,105 --> 00:01:55,952
+fast enough. You see your last ten scores,
+you see your total scores. This person has
+
+20
+00:01:55,952 --> 00:02:02,083
+88 percent G and other information. Now,
+you can look at that and say great. That's
+
+21
+00:02:02,083 --> 00:02:07,703
+incentivizing those target check out
+clerks to do a better job. It's making it
+
+22
+00:02:07,703 --> 00:02:13,306
+a little bit more fun for them. It's
+giving them some extra added incentive to
+
+23
+00:02:13,306 --> 00:02:19,591
+do a better performance on their task. Or
+you can look at it and say, wait a minute.
+
+24
+00:02:19,591 --> 00:02:24,615
+First of all, this is not about the
+cashiers at all. It's about the company
+
+25
+00:02:24,615 --> 00:02:30,571
+monitoring them down to the level of every
+individual checkout. So it's this kind of
+
+26
+00:02:30,571 --> 00:02:36,573
+private big brother looking over your
+shoulder constantly every second as you're
+
+27
+00:02:36,573 --> 00:02:42,130
+at work. And secondly, it's not at all
+about fun or about voluntariness Or about,
+
+28
+00:02:42,130 --> 00:02:47,679
+meaning or anything for the employee. It's
+purely about, external extrinsic controls.
+
+29
+00:02:47,679 --> 00:02:53,694
+It's purely about, we will reward you if
+you do well or maybe even more so, we will
+
+30
+00:02:53,694 --> 00:03:00,109
+punish you if you don't do as well. And
+where's the play, where's the game aspect
+
+31
+00:03:00,109 --> 00:03:06,241
+in that? So, there's a real question here.
+At the conceptual level about whether
+
+32
+00:03:06,241 --> 00:03:11,271
+these are gameification. But more, more
+importantly at the practical level, are
+
+33
+00:03:11,271 --> 00:03:17,173
+these a good idea? And are these mandatory
+systems truly fair and appropriate and
+
+34
+00:03:17,173 --> 00:03:23,031
+ethical for the workers? Here's another
+example to take a look at. This is an
+
+35
+00:03:23,031 --> 00:03:29,125
+article from the Los Angeles Times. If you
+want to read the actual article you can
+
+36
+00:03:29,125 --> 00:03:34,651
+get it here. It's a story about a group of
+laundry workers and housekeeping staff at
+
+37
+00:03:34,651 --> 00:03:40,097
+hotels at Disneyland. And Disney has put
+into place at these hotels a leader board
+
+38
+00:03:40,097 --> 00:03:46,068
+system. So, as they are doing the laundry
+in the basement of these hotel, they see
+
+39
+00:03:46,068 --> 00:03:51,083
+how quickly every member of the
+housekeeping staff is cleaning rooms, and
+
+40
+00:03:51,083 --> 00:03:57,081
+performing their other assigned duties and
+there's a leader board and a ranking that
+
+41
+00:03:57,081 --> 00:04:03,062
+shows them in that way. And the employees
+have a name for this system. They don't
+
+42
+00:04:03,062 --> 00:04:09,068
+call it a game, they don't call it a
+leader board, they call it the Electronic
+
+43
+00:04:09,068 --> 00:04:16,068
+Whip. It's something that they perceive as
+standing over them, threatening them with
+
+44
+00:04:16,068 --> 00:04:22,046
+punishment and goading them on to work
+harder. Here's a couple of quotes from the
+
+45
+00:04:22,046 --> 00:04:26,861
+story to get you thinking about whether
+this is the kind of practice that should
+
+46
+00:04:26,861 --> 00:04:31,459
+be encouraged or potentially if it's the
+kind of practice that necessarily will
+
+47
+00:04:31,459 --> 00:04:36,296
+follow as gamification takes hold in the
+enterprise. Here is a quote from one of
+
+48
+00:04:36,296 --> 00:04:41,674
+the workers saying, I was nervous and felt
+I was being controlled even more. So, this
+
+49
+00:04:41,674 --> 00:04:46,573
+ties in very directly to what I talked
+about with regard to self determination
+
+50
+00:04:46,573 --> 00:04:50,781
+theory. Part of what makes something intri
+nsically motivating is when the person
+
+51
+00:04:50,781 --> 00:04:56,071
+feels autonomy. They feel like they are in
+control of the situation. If the feedback
+
+52
+00:04:56,071 --> 00:05:00,077
+that they get doesn't promote that, that
+autonomy. If it's not purely
+
+53
+00:05:00,077 --> 00:05:05,025
+informational, but it's perceived as
+controlling, it's feedback saying, we are
+
+54
+00:05:05,025 --> 00:05:10,015
+using this to tell you what to do and to
+make you do what we want, then it does not
+
+55
+00:05:10,015 --> 00:05:14,069
+promote intrinsic motivation. And then,
+actually, it can demotivate. It can lead
+
+56
+00:05:14,069 --> 00:05:19,035
+to worse performance. Here's a couple more
+quotes. What were the effects of this
+
+57
+00:05:19,035 --> 00:05:23,084
+electronic whip system according to the
+workers? Well, it led to a sort of
+
+58
+00:05:23,084 --> 00:05:28,010
+competition. Great, competition. The
+workers see the leader-board, and without
+
+59
+00:05:28,010 --> 00:05:32,072
+being told anything more, they figure out
+that this is a game, and they try to play
+
+60
+00:05:32,072 --> 00:05:37,029
+the game, and try to score high. And some
+of the workers tried to race to the head
+
+61
+00:05:37,029 --> 00:05:41,057
+of the pack. So you might think, okay,
+great, this is working the way it should,
+
+62
+00:05:41,057 --> 00:05:47,012
+but here's the kicker. That lead to
+dissension and made other employees worry
+
+63
+00:05:47,012 --> 00:05:52,031
+that a reasonable pace wouldn't be enough
+to keep the boss happy. Is that really
+
+64
+00:05:52,031 --> 00:05:57,024
+what we want? Is that really even in the
+interest of the company in terms of
+
+65
+00:05:57,024 --> 00:06:02,029
+promoting a successful and effective
+workforce. And final quote here, according
+
+66
+00:06:02,029 --> 00:06:07,048
+to some of the workers, employees have
+been known to skip bathroom breaks, out of
+
+67
+00:06:07,048 --> 00:06:12,073
+fear that their production will fall and
+managers will demand an explanation. All
+
+68
+00:06:12,073 --> 00:06:18,087
+of this just from a leader board. So, it's
+important to think about, first of all,
+
+69
+00:06:18,087 --> 00:06:24,081
+how can gamified systems in the enterprise
+be designed to promote the beneficial
+
+70
+00:06:24,081 --> 00:06:30,032
+aspects of gamification but not lead to
+this kind of lord of the flies, all
+
+71
+00:06:30,032 --> 00:06:36,035
+against all competition that demoralizes
+workers and likely based on the research
+
+72
+00:06:36,035 --> 00:06:42,037
+about intrinsic motivation, likely will
+lead to worse performance than they had
+
+73
+00:06:42,037 --> 00:06:48,019
+before. How do companies avoid that and
+still get the benefits that we've talked
+
+74
+00:06:48,019 --> 00:06:53,096
+about from gamification in the enterprise?
+One aspect is the extent to which the
+
+75
+00:06:53,096 --> 00:06:59,005
+system is voluntary. And is perceived as
+voluntary by the workers, and is perceived
+
+76
+00:06:59,005 --> 00:07:03,057
+as transparent. What is this doing? Is
+this actually tracking me for something
+
+77
+00:07:03,057 --> 00:07:07,045
+that will be used in assessing my job
+performance? Or is this just
+
+78
+00:07:07,045 --> 00:07:11,095
+informational, to help encourage me to do
+a better job? And, what are the elements
+
+79
+00:07:11,095 --> 00:07:15,075
+of the gamified system that are being
+employed? As we talked about, a pure
+
+80
+00:07:15,075 --> 00:07:21,032
+leader board, a pure ranking and scoring
+system is probably the worst way to
+
+81
+00:07:21,032 --> 00:07:26,089
+promote the beneficial, cooperative,
+engaging aspects of gamification. And
+
+82
+00:07:26,089 --> 00:07:32,076
+instead, promote the more vicious and
+harmful kinds of gamification among
+
+83
+00:07:32,076 --> 00:07:38,062
+workers. Beyond that, I leave it you to
+think about this question but it's an
+
+84
+00:07:38,062 --> 00:07:44,049
+important one for any company to take into
+account when going down the path of
+
+85
+00:07:44,049 --> 00:07:50,017
+putting game-like systems into their
+workplace.

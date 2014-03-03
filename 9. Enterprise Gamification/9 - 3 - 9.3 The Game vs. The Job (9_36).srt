@@ -1,0 +1,515 @@
+
+1
+00:00:00,000 --> 00:00:07,057
+There is an interesting and important
+distinction that comes up in enterprise
+
+2
+00:00:07,057 --> 00:00:16,038
+gamification, which is the dividing line
+between the game on one side and the job
+
+3
+00:00:16,038 --> 00:00:23,029
+on the other. Why is this important? Well,
+it's important for a number of reasons.
+
+4
+00:00:23,029 --> 00:00:28,087
+But the core is that, if you're designing
+a gamified system in the enterprise, what
+
+5
+00:00:28,087 --> 00:00:34,011
+you hear about is ultimately the job. The
+goal is to motivate employees to do
+
+6
+00:00:34,011 --> 00:00:39,069
+something that's a business benefit. The
+game is a means to that end. But for the
+
+7
+00:00:39,069 --> 00:00:45,089
+players, for the employees, they may well
+be focused on the game. The game is the
+
+8
+00:00:45,089 --> 00:00:52,026
+thing that engages them. And to the extent
+that there's a diversion, to the extent
+
+9
+00:00:52,026 --> 00:00:58,050
+that the game is pushing them one way and
+the job is pushing them another way that
+
+10
+00:00:58,050 --> 00:01:04,034
+leads to real problems because again, the
+players have a strong tendency to go in
+
+11
+00:01:04,034 --> 00:01:10,254
+the direction that the game pushes them as
+opposed to what their job really should be
+
+12
+00:01:10,254 --> 00:01:16,068
+about. So, think about as an example, a
+call center. And the call center sets up a
+
+13
+00:01:16,068 --> 00:01:23,323
+game or a gamified system using points and
+badges and leader boards and so forth as
+
+14
+00:01:23,323 --> 00:01:30,512
+we, as we've seen. And then sets the rules
+of the game with something like, if you
+
+15
+00:01:30,849 --> 00:01:40,061
+get done with a call complete a call in
+less than 30 seconds, you get ten points.
+
+16
+00:01:40,061 --> 00:01:48,047
+And if you complete more than a certain
+number of calls in an hour, you get 50
+
+17
+00:01:48,047 --> 00:01:54,020
+points, and so on and so forth. And all of
+the structures in the game are around the
+
+18
+00:01:54,020 --> 00:01:59,059
+volume and the speed of the calls. What
+are people going to do? The call center
+
+19
+00:01:59,059 --> 00:02:05,012
+agents are going to try to get customers
+off the phone as fast as they possibly
+
+20
+00:02:05,012 --> 00:02:10,051
+can. Not to provide good service to them,
+but just to get them off the phone to
+
+21
+00:02:10,051 --> 00:02:15,062
+optimize against the game. On the other
+hand, if you have the same gamified
+
+22
+00:02:15,062 --> 00:02:27,015
+structure, but the points are for things
+like good customer satisfaction. So the
+
+23
+00:02:27,015 --> 00:02:33,062
+customer says that, you did a great job
+when they get surveyed afterwards, you get
+
+24
+00:02:33,062 --> 00:02:39,065
+100 points for that. And that's what the
+game rewards, or, you get a bonus reward
+
+25
+00:02:39,065 --> 00:02:45,039
+if you get a streak of customer sat, you
+got above a certain level in customer
+
+26
+00:02:45,039 --> 00:02:50,091
+satisfaction, five calls in a row, you get
+500 bonus points. Then the game is
+
+27
+00:02:50,091 --> 00:02:56,036
+encouraging people to optimize on
+satisfaction. Now, we still don't know in
+
+28
+00:02:56,036 --> 00:03:01,057
+this very general hypothetical whether
+this matches up perfectly with the job
+
+29
+00:03:01,057 --> 00:03:06,068
+requirements. So certainly, if the system
+is designed just to create call center
+
+30
+00:03:06,068 --> 00:03:11,047
+agents who want to get customers off the
+phone as fast as possible at any cost,
+
+31
+00:03:11,047 --> 00:03:16,020
+that's not likely to be something that
+companies are going to want. At least
+
+32
+00:03:16,020 --> 00:03:21,018
+companies that are thoughtful how their
+long term interest in their customer
+
+33
+00:03:21,018 --> 00:03:26,018
+perceptions. But the question about how
+important it is to optimize on customer
+
+34
+00:03:26,018 --> 00:03:30,068
+satisfaction versus something else is a
+busineness, business decision that the
+
+35
+00:03:30,068 --> 00:03:35,023
+company ultimately that, that is the
+customer of the call center or the company
+
+36
+00:03:35,023 --> 00:03:40,014
+operating the call center needs to figure
+out. And then the structures of the
+
+37
+00:03:40,014 --> 00:03:45,096
+gamified system have to be designed to
+motivate towards those business goals. So,
+
+38
+00:03:45,096 --> 00:03:51,086
+this ties back in to the element of the
+design framework that I gave you earlier
+
+39
+00:03:51,086 --> 00:03:57,054
+on to first figure out what the business
+goals are, and then go through the
+
+40
+00:03:57,054 --> 00:04:03,000
+gamification process. It's always
+important to focus on the job, or the task
+
+41
+00:04:03,000 --> 00:04:08,036
+at hand because otherwise, people will
+optimize themselves on the game. The
+
+42
+00:04:08,036 --> 00:04:13,067
+second dimension here is that sometimes
+people are motivated at work for things
+
+43
+00:04:13,067 --> 00:04:18,052
+outside the job in a good way. And that
+refers to corporate citizenship,
+
+44
+00:04:18,052 --> 00:04:23,099
+citizenship behaviors, situations where
+people will do things at work just to be
+
+45
+00:04:23,099 --> 00:04:28,067
+nice to colleagues or to be good for the
+company. So, some of the ones that get
+
+46
+00:04:28,067 --> 00:04:33,035
+mentioned here Altruism, people will do
+things just to be good to other people.
+
+47
+00:04:33,035 --> 00:04:38,262
+Consciousness, people will work hard and
+want to do good job just because they take
+
+48
+00:04:38,262 --> 00:04:42,069
+pride in what they do. Civic Virtue, a
+sense that you are part of a larger
+
+49
+00:04:42,069 --> 00:04:47,061
+community and you care about doing your
+part for the community, even though it's a
+
+50
+00:04:47,061 --> 00:04:51,588
+business community where you work as
+opposed to a social community at home.
+
+51
+00:04:51,588 --> 00:04:56,078
+Common Courtesy and Sportsmanship being
+fair to others. These are n ormal human
+
+52
+00:04:56,078 --> 00:05:02,026
+motivations, and they're true for people
+at work as well. And, they can be tapped
+
+53
+00:05:02,026 --> 00:05:07,070
+into for the benefit of the company. In
+various examples using gamification, the
+
+54
+00:05:07,070 --> 00:05:12,073
+one that I gave you before was the
+Microsoft Language Quality game, which
+
+55
+00:05:12,073 --> 00:05:18,003
+tapped into people's desire to make
+Windows a better product by volunteering
+
+56
+00:05:18,003 --> 00:05:24,010
+their time to find localization bugs. Ross
+Smith, who is the head of the test group
+
+57
+00:05:24,010 --> 00:05:29,090
+at Microsoft that implimented the language
+quality game and several other
+
+58
+00:05:29,090 --> 00:05:36,001
+productivity games, has developed a
+framework to understand which applications
+
+59
+00:05:36,001 --> 00:05:42,091
+lend themselves well to this approach. And
+his structure involves two different kinds
+
+60
+00:05:42,091 --> 00:05:51,087
+of behavior or tasks, and three different
+kinds of skills. So the two kinds of
+
+61
+00:05:51,087 --> 00:05:59,071
+behavior are first, what he calls In-Role
+behavior, i.e. What you're doing for your
+
+62
+00:05:59,071 --> 00:06:04,069
+job. It's something that's part of your
+normal job description. And then
+
+63
+00:06:04,069 --> 00:06:10,017
+Citizenship behaviors, things that you do
+at work to be a good employee, a good
+
+64
+00:06:10,017 --> 00:06:15,029
+citizen of the organization, not
+necessarily the specific things that you
+
+65
+00:06:15,029 --> 00:06:20,063
+are hired to do and compensated for. And
+then he talks about, three different
+
+66
+00:06:20,063 --> 00:06:26,024
+categories of skills. One set or what he
+calls Core Skills which are skills that
+
+67
+00:06:26,024 --> 00:06:33,062
+everyone in the organization has. The next
+are Unique Skills, skills that are limited
+
+68
+00:06:33,062 --> 00:06:39,056
+to a particular employee or group of, of
+employees. And next, Future Skills, skills
+
+69
+00:06:39,056 --> 00:06:45,088
+that an employee would like to obtain. And
+Smith says, these productivity games,
+
+70
+00:06:45,088 --> 00:06:51,068
+Things like the language quality game
+designed to improve productivity in the
+
+71
+00:06:51,068 --> 00:06:58,528
+workplace are best used in just two of the
+sections of this chart. The first one is
+
+72
+00:06:58,528 --> 00:07:04,128
+for core roles that involve citizenship
+behavior or core skills I should say, that
+
+73
+00:07:04,128 --> 00:07:09,492
+involve citizenship behavior. And this is
+where the language quality game fits. So,
+
+74
+00:07:09,492 --> 00:07:14,544
+this is a skill that everyone in the
+company has, the skill is speaking your
+
+75
+00:07:14,544 --> 00:07:19,839
+own language. It doesn't require anything
+unique to you, any particular training.
+
+76
+00:07:19,839 --> 00:07:25,336
+Anyone who is a native speaker of the
+language where the office is can easily
+
+77
+00:07:25,336 --> 00:07:30,229
+review dialogue boxes in their n ative
+language. And they're going to do it not
+
+78
+00:07:30,229 --> 00:07:35,131
+because it's their job but because it's
+part of being a good corporate citizen.
+
+79
+00:07:35,131 --> 00:07:40,019
+So, the fact that the language quality
+game is down here and not an in role kind
+
+80
+00:07:40,019 --> 00:07:44,764
+of task. Is what enables it. Because if
+it's a core skill and it's an in-role kind
+
+81
+00:07:44,764 --> 00:07:48,643
+of task is what enables it because if it's
+a core skill and it's an in-role kind of
+
+82
+00:07:48,643 --> 00:07:51,907
+task then there's not as good a fit for
+something that is designed to be fun and
+
+83
+00:07:51,907 --> 00:07:55,304
+game-like. The only reason to motivate you
+to do something that everyone in the
+
+84
+00:07:55,304 --> 00:08:00,181
+company can do is if it's part of this
+kind of collaborative activity. The other
+
+85
+00:08:00,181 --> 00:08:04,847
+category where he says gamification or
+productivity games work well is up here.
+
+86
+00:08:04,847 --> 00:08:08,926
+So, it's in-role. It's your actual job
+responsibilities but it's about future
+
+87
+00:08:08,926 --> 00:08:14,305
+skills. It's about things that you want to
+learn how to do. That's where gamification
+
+88
+00:08:14,305 --> 00:08:19,196
+and productivity games can help in terms
+of training and improving people's
+
+89
+00:08:19,196 --> 00:08:24,237
+behavior. Really what I think Smith is
+getting at here is that there are two big
+
+90
+00:08:24,237 --> 00:08:29,331
+categories of gamification application to
+the workplace. One involves groups, it
+
+91
+00:08:29,331 --> 00:08:33,575
+involves community. Trying to get
+participation from as many people as
+
+92
+00:08:33,575 --> 00:08:38,713
+possible within the organization. The
+other involves individuals and typically
+
+93
+00:08:38,713 --> 00:08:43,778
+involves improving their skills or
+improving their performance at work. Those
+
+94
+00:08:43,778 --> 00:08:49,291
+are very different and one is better done
+in an, an example that's focused on actual
+
+95
+00:08:49,291 --> 00:08:54,252
+job responsibilities, and one is better
+done outside of that environment. If it,
+
+96
+00:08:54,252 --> 00:08:59,287
+the situation though involves unique
+skills, people's unique capabilities but
+
+97
+00:08:59,287 --> 00:09:05,131
+it's skills they already have, a game-like
+structure may not be as effective because
+
+98
+00:09:05,131 --> 00:09:10,354
+it doesn't create a level playing field
+for people to interact on. If it's not
+
+99
+00:09:10,354 --> 00:09:15,297
+about training and problem solving but
+just showing what you can do, then there's
+
+100
+00:09:15,297 --> 00:09:20,601
+not really an environment for a game or
+for a proper application of gamification.
+
+101
+00:09:20,601 --> 00:09:25,530
+So, all of this goes to emphasize the
+point that enterprise gamification
+
+102
+00:09:25,530 --> 00:09:31,249
+requires a close attention to the nature
+of the game and how that match es up with
+
+103
+00:09:31,249 --> 00:09:37,086
+the different sorts of objectives and
+motivations in the workplace.

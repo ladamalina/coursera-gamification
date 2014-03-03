@@ -1,0 +1,540 @@
+
+1
+00:00:00,000 --> 00:00:07,086
+What is a game? Seems like a fairly
+obvious question, we all know what games
+
+2
+00:00:07,086 --> 00:00:16,013
+are, we all play games. So, it's easy to
+define, right? A game is a game. Turns out
+
+3
+00:00:16,013 --> 00:00:20,625
+that it's extraordinarily difficult when
+you think about it, to figure out what it
+
+4
+00:00:20,625 --> 00:00:26,339
+is that makes something a game. And we
+don't want to get too hung up on semantics
+
+5
+00:00:26,339 --> 00:00:31,295
+here. It's not that in order to do a
+gamification, you need to get some
+
+6
+00:00:31,295 --> 00:00:37,169
+approval by the official game board that
+what you're doing truly involves games.
+
+7
+00:00:37,169 --> 00:00:42,559
+But to understand how to tap into the
+power of games. And to understand how to
+
+8
+00:00:42,559 --> 00:00:48,387
+create things that are actually game-like,
+would help to have as a starting point an
+
+9
+00:00:48,387 --> 00:00:53,358
+understanding of what a game is. So, it
+turns out that this is a deep,
+
+10
+00:00:53,358 --> 00:00:59,169
+philosophical question. And there've been
+a number of works by major philosophers
+
+11
+00:00:59,169 --> 00:01:04,622
+that've taken on just this challenge,
+defining what a game is. And of course,
+
+12
+00:01:04,622 --> 00:01:09,885
+this is not a philosophy course, but it's
+helpful to understand some of those
+
+13
+00:01:09,885 --> 00:01:15,374
+perspectives because as we'll see, they
+teach lessons that are going to be very
+
+14
+00:01:15,374 --> 00:01:20,805
+valuable in understanding the power of
+games as used for gamification. The
+
+15
+00:01:20,805 --> 00:01:26,023
+starting point here is Ludwig
+Wittgenstein. Hello Ludwig. Famous
+
+16
+00:01:26,023 --> 00:01:32,460
+twentieth century philosopher and in his
+masterpiece philosophical investigations,
+
+17
+00:01:32,460 --> 00:01:39,540
+Wittgenstein used games as one of his core
+examples about the difficulty, in fact the
+
+18
+00:01:39,540 --> 00:01:46,044
+impossibility of using language to define
+things. The point that he made, or the
+
+19
+00:01:46,044 --> 00:01:51,979
+argument that he made, was that it is
+impossible to define what a game is. We
+
+20
+00:01:51,979 --> 00:01:58,122
+think that we know what games are and we
+have no trouble pointing to something in
+
+21
+00:01:58,122 --> 00:02:03,562
+the real world, and saying, aha, that's a
+game. Back here, I have Cranium, that's a
+
+22
+00:02:03,562 --> 00:02:09,068
+game. Back here, I have a bowling trophy,
+that's a trophy about someone playing a
+
+23
+00:02:09,068 --> 00:02:15,537
+game. We understand what games are, right?
+Well, it's gets harder to say what is the
+
+24
+00:02:15,537 --> 00:02:22,641
+framework that defines games? How can you
+give a concise definition of games that is
+
+25
+00:02:22,641 --> 00:02:29,083
+comprehensive? So, maybe think about it a
+little for yourself the question is, given
+
+26
+00:02:29,083 --> 00:02:35,684
+all the different kinds of games, what is
+it that ties together hopscotch, and Call
+
+27
+00:02:35,684 --> 00:02:41,535
+of Duty, and water polo and all of the
+different kinds of things that we talk
+
+28
+00:02:41,535 --> 00:02:47,037
+about as games, there is not one aspect
+that you can find in common. Many of them
+
+29
+00:02:47,037 --> 00:02:52,455
+have points or scoring, many of them have
+winning and loosing, many of them have
+
+30
+00:02:52,455 --> 00:02:57,474
+teams but, there's no one thing like that,
+that applies to all games. So,
+
+31
+00:02:57,474 --> 00:03:04,020
+Wittgenstein's point here in philosophical
+investigations, was you can't figure out,
+
+32
+00:03:04,020 --> 00:03:10,208
+as he says, how the concept of a game is
+bounded. What counts as a game and what no
+
+33
+00:03:10,208 --> 00:03:15,596
+longer does, he says, can you give the
+boundary, no. So, Wittgenstein's argument
+
+34
+00:03:15,596 --> 00:03:20,689
+is impossible to ask to define games.
+Well, fortunately that's not the endpoint
+
+35
+00:03:20,689 --> 00:03:26,064
+or we wouldn't have much to say here.
+Other philosophers took up this challenge.
+
+36
+00:03:26,064 --> 00:03:31,820
+One of the more interesting was a Candian
+philosopher named Bernard Suits, and Suits
+
+37
+00:03:31,820 --> 00:03:36,407
+took on Wittgenstein, Wittgenstein
+directly, and said, actually Ludwig, we
+
+38
+00:03:36,407 --> 00:03:41,471
+can define what a game is. Wittgenstein,
+of course, was really not trying to make a
+
+39
+00:03:41,471 --> 00:03:46,565
+point about games. He was trying to make a
+point about the indeterminacy of language,
+
+40
+00:03:46,565 --> 00:03:51,521
+and the nature of human thought. But Suits
+was focused specifically on games. And
+
+41
+00:03:51,521 --> 00:03:57,053
+what Suits says is, we can define every
+possible game based on three concepts. The
+
+42
+00:03:57,053 --> 00:04:03,580
+first is, that games have when he called a
+Pre-lusory Goal. Lusory here comes from
+
+43
+00:04:03,580 --> 00:04:10,067
+the Latin word ludus which means game.
+We'll see it again in a different context.
+
+44
+00:04:10,067 --> 00:04:16,491
+So the first thing Suits said was, in any
+game there's some objective of the game.
+
+45
+00:04:16,491 --> 00:04:23,465
+If you're playing ping pong, table tennis,
+the objective is to hit a ball over a net.
+
+46
+00:04:23,465 --> 00:04:30,036
+You can talk about a hitting a ball over a
+net without regard to the game of ping
+
+47
+00:04:30,036 --> 00:04:36,774
+pong. If the game is the 400-meter race,
+the goal is to get from the starting point
+
+48
+00:04:36,774 --> 00:04:43,445
+to the finish line of the race. If the
+game is checkers, the goal is to capture
+
+49
+00:04:43,445 --> 00:04:50,107
+all of your opponent's pieces. We can talk
+about that without necessarily referring
+
+50
+00:04:50,107 --> 00:04:55,621
+to all the rules of any of those games.
+So, first thing we need is a goal. We've
+
+51
+00:04:55,621 --> 00:05:01,017
+already talked about this, games have goal
+S. The second thing you need, is what
+
+52
+00:05:01,017 --> 00:05:06,811
+Suits called constitutive rules. A set of
+rules or limitations that make the
+
+53
+00:05:06,811 --> 00:05:12,785
+activity into a game. So if it's checkers,
+the rules include the fact that the pieces
+
+54
+00:05:12,785 --> 00:05:17,759
+can only move one space diagonally and
+only forward until they become a king. And
+
+55
+00:05:17,759 --> 00:05:22,136
+they can only capture by jumping over
+diagonally if there's an open square on
+
+56
+00:05:22,136 --> 00:05:26,621
+the other side. If it's Ping Pong, the
+rules include, the ball can't bounce twice
+
+57
+00:05:26,621 --> 00:05:31,704
+on your side, you have to hit it over the
+net, and it has to land on your opponents
+
+58
+00:05:31,704 --> 00:05:36,517
+side of the table. Any game has those
+rules, and those rules are what make it
+
+59
+00:05:36,517 --> 00:05:42,075
+game-like as supposed to just some work
+objective. The third element is what
+
+60
+00:05:42,075 --> 00:05:47,679
+Suits' called a lusory attitude. So,
+there's that word again lusory, a
+
+61
+00:05:47,679 --> 00:05:53,776
+game-like attitude. What that means is,
+the player follows the rules, and they do
+
+62
+00:05:53,776 --> 00:05:59,508
+so voluntarily. They do so because they
+have an attitude that says the game means
+
+63
+00:05:59,508 --> 00:06:04,838
+something. Sure, I could play ping pong
+with an air cannon and using a baseball
+
+64
+00:06:04,838 --> 00:06:11,309
+and fire it a hundred miles an hour across
+the table, not just at my opponent side of
+
+65
+00:06:11,309 --> 00:06:17,552
+the table, but directly at my opponents
+head. And I could do that and say ha, ha,
+
+66
+00:06:17,552 --> 00:06:23,145
+I had hit the ball over the net, I win the
+game, but that, whatever, that was,
+
+67
+00:06:23,145 --> 00:06:29,058
+[laugh] wouldn't be ping pong. And the
+point is, if I care about ping pong, then
+
+68
+00:06:29,058 --> 00:06:34,857
+I'm not going to do that, that's cheating.
+I can win the 400-meter race by racing
+
+69
+00:06:34,857 --> 00:06:40,507
+directly across the infield cutting across
+in a shortcut to the finish line but
+
+70
+00:06:40,507 --> 00:06:45,559
+that's cheating and that is doing
+something other than effectively playing
+
+71
+00:06:45,559 --> 00:06:51,067
+the game of a 400-meter race. So, the
+point here is if it's a game, it means
+
+72
+00:06:51,067 --> 00:06:56,852
+something to the players. They want to
+follow the rules of the game, even though
+
+73
+00:06:56,852 --> 00:07:01,973
+they limit the player's freedom. So,
+another way the Suits put this was the
+
+74
+00:07:01,973 --> 00:07:07,843
+game is voluntarily overcoming unnecessary
+obstacles. There are obstacles on our
+
+75
+00:07:07,843 --> 00:07:13,427
+path, we don't have to overcome them and
+yet we do. Voluntarily, a game must be
+
+76
+00:07:13,427 --> 00:07:17,916
+voluntary for to be a game. So, think
+about how this relates to gamification.
+
+77
+00:07:17,916 --> 00:07:23,346
+First of all , think about how it relates
+to every game you can think of. Try and
+
+78
+00:07:23,346 --> 00:07:28,251
+think about different games and how they
+might fit into Suits three part tasks. But
+
+79
+00:07:28,251 --> 00:07:33,714
+then think about what it means if a game
+something that's voluntary, something that
+
+80
+00:07:33,714 --> 00:07:38,177
+has an objective, something that has
+limitations and something that has the
+
+81
+00:07:38,177 --> 00:07:42,549
+player thinking that the game has
+meaningful so that they follow the rules
+
+82
+00:07:42,549 --> 00:07:48,142
+of the game. The final piece of the puzzle
+comes from the work of an early to mid
+
+83
+00:07:48,142 --> 00:07:53,669
+twentieth century dutch philosopher named
+Johan Huizinga and he wrote a book that
+
+84
+00:07:53,669 --> 00:07:58,337
+became very influential called Homo
+Ludens. Ludens from that same Latin word
+
+85
+00:07:58,337 --> 00:08:03,334
+ludus as the lusory attitude that Bernard
+Suits talks about. And the book is an
+
+86
+00:08:03,334 --> 00:08:09,524
+extended argument that games and play are
+essential to what makes us human even to
+
+87
+00:08:09,524 --> 00:08:15,716
+the serious things in life like religion
+and government and the legal system. But
+
+88
+00:08:15,716 --> 00:08:21,933
+the point that I want to emphasize here is
+a concept that Huizinga developed in the
+
+89
+00:08:21,933 --> 00:08:28,525
+book called the Magic Circle. And his idea
+was that in a game there is a physical or
+
+90
+00:08:28,525 --> 00:08:36,663
+a virtual boundary that divides the world
+of the game from, what we could call, the
+
+91
+00:08:36,663 --> 00:08:43,935
+real world. In other words the game is
+different. It might be a traditional
+
+92
+00:08:43,935 --> 00:08:49,684
+physical boundary, like for example the
+lines around a soccer field. If you are on
+
+93
+00:08:49,684 --> 00:08:55,152
+the pitch, you are playing the game, if
+you are in the stands, you're not. But it
+
+94
+00:08:55,152 --> 00:09:01,019
+might also, might also be a conceptual
+boundary. When you sit down and started to
+
+95
+00:09:01,019 --> 00:09:06,423
+play a video game, you are in a virtual
+way embedding yourself in the game. And
+
+96
+00:09:06,423 --> 00:09:11,474
+the point is, when you are in the magic
+circle, the game rules matter, not the
+
+97
+00:09:11,474 --> 00:09:16,976
+rules of the real world. So, this ties in
+to Suit's notion of voluntariness and a
+
+98
+00:09:16,976 --> 00:09:22,458
+lusory attitude, but the notion is that we
+are essentially in a virtual environment.
+
+99
+00:09:22,458 --> 00:09:27,465
+Whether we are, again , on a playing field
+or looking at a computer screen, we're
+
+100
+00:09:27,465 --> 00:09:32,966
+thinking that the game matters and we
+should follow the rules of the game, more
+
+101
+00:09:32,966 --> 00:09:38,641
+so than focusing on following the rules of
+the real world. Now, gamification as I've
+
+102
+00:09:38,641 --> 00:09:43,603
+said, involves elements of ga mes, and
+concepts, and techniques from games rather
+
+103
+00:09:43,603 --> 00:09:48,567
+than full blown games. So, the challenge
+and the opportunity for gamification is to
+
+104
+00:09:48,567 --> 00:09:53,584
+put the player as much as possible in the
+magic circle. If you feel like the game
+
+105
+00:09:53,584 --> 00:09:58,523
+matters, whether that's Club Psyche, or
+Kiss, or the Speed Camera Lottery, or any
+
+106
+00:09:58,523 --> 00:10:03,646
+of the examples I've given. If the player
+feels like that's important, those are
+
+107
+00:10:03,646 --> 00:10:08,390
+real constraints, then they will be
+motivated to play and to respond to the
+
+108
+00:10:08,390 --> 00:10:11,051
+incentives that the gamified system
+provides.

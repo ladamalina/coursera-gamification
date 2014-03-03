@@ -1,0 +1,445 @@
+
+1
+00:00:00,000 --> 00:00:05,023
+In this unit I'm going to talk about
+designing using game elements. Now that
+
+2
+00:00:05,023 --> 00:00:10,414
+you've oriented yourself to think like a
+game designer, how do you practically take
+
+3
+00:00:10,414 --> 00:00:16,019
+things out of games and apply them to
+business practices. As I mentioned in the
+
+4
+00:00:16,019 --> 00:00:21,057
+introductory unit, game elements are your
+toolbox for gamification. So think about
+
+5
+00:00:21,057 --> 00:00:27,009
+it, if you're trying to build a house, you
+wouldn't go out to the hardware store and
+
+6
+00:00:27,009 --> 00:00:32,054
+ask to buy a house gun, that somehow shot
+out completely formed houses. No, what you
+
+7
+00:00:32,054 --> 00:00:37,055
+do is you buy things like hammers, and
+nails, and screwdrivers. And two by 4's
+
+8
+00:00:37,055 --> 00:00:42,020
+and Sheep Rock. All the different
+components that you can put together in
+
+9
+00:00:42,020 --> 00:00:47,017
+different ways to make up a house. To make
+up any kind of house or any kind of
+
+10
+00:00:47,017 --> 00:00:51,088
+building that you want by recombining
+those elements in different ways. So
+
+11
+00:00:51,088 --> 00:00:56,092
+that's what we mean when we talk about
+game elements. They are regular patterns.
+
+12
+00:00:56,092 --> 00:01:02,023
+They are tools that we can extract from
+games that we find in the wild and then
+
+13
+00:01:02,023 --> 00:01:07,061
+use in different ways to make business
+practices more game-like. So you'll recall
+
+14
+00:01:07,061 --> 00:01:12,499
+I gave the example earlier on of Empires
+and Allies, the Zynga game, or I showed
+
+15
+00:01:12,499 --> 00:01:17,550
+you the game and then showed you some of
+the different kinds of elements. Things
+
+16
+00:01:17,550 --> 00:01:22,754
+like the points and the quests and the
+levels and so forth. This is a template
+
+17
+00:01:22,754 --> 00:01:28,824
+for what games elements might look like
+but let's step back and talk about what
+
+18
+00:01:28,824 --> 00:01:34,157
+game elements are initially. And then
+we'll build up a list of common game
+
+19
+00:01:34,157 --> 00:01:41,761
+elements that are used in gamification. So
+let me draw for you here something that
+
+20
+00:01:41,761 --> 00:01:56,313
+will probably be familiar to most of you.
+Starting to look familiar? How about this?
+
+21
+00:01:56,313 --> 00:02:06,803
+Okay. By now. You probably are recognizing
+that what I've drawn is the game
+
+22
+00:02:06,803 --> 00:02:13,117
+Tic-Tac-Toe or in the commonwealth world
+it's known as Knots and Crosses. One Of
+
+23
+00:02:13,117 --> 00:02:19,180
+the most popular games of all time played
+for many centuries. It's a game many of us
+
+24
+00:02:19,180 --> 00:02:24,827
+are familiar with but what if you think
+about this game Tic-tac-toe not through
+
+25
+00:02:24,827 --> 00:02:29,975
+the lens of the game itself. Not through
+the lens of the game play. Here I am
+
+26
+00:02:29,975 --> 00:02:34,970
+playing. Ahah, I've forked and now this
+guy's going to win but think about it
+
+27
+00:02:34,970 --> 00:02:39,758
+through the lens of elements. What are the
+elements of Tic-tac-toe? What are the
+
+28
+00:02:39,758 --> 00:02:43,980
+regular paterns? The pieces of this game
+that come together along with the
+
+29
+00:02:43,980 --> 00:02:48,754
+aesthetics and the overall experience to
+generate the game play. Stop and see if
+
+30
+00:02:48,754 --> 00:02:53,727
+you can think about some of the different
+elements that we make up the game call
+
+31
+00:02:53,727 --> 00:02:59,485
+Tic-tac-toe. There's no one universal list
+but you can probably come up with some of
+
+32
+00:02:59,485 --> 00:03:06,786
+them that are fairly easy to spot. Here's
+a list of elements in Tic-tac-toe that I
+
+33
+00:03:06,786 --> 00:03:14,210
+made. There is of course the game board
+that pattern of lines that create nine
+
+34
+00:03:14,210 --> 00:03:21,118
+spots that you can play in and there are
+the tokens as I call them, the X and the O
+
+35
+00:03:21,118 --> 00:03:26,513
+that you play with. There are also, there
+is also the fact that Tic-Tac-Toe is a
+
+36
+00:03:26,513 --> 00:03:31,011
+game played with two players. Now, that's
+not anywhere there on the board. It's part
+
+37
+00:03:31,011 --> 00:03:36,016
+of the rules of the game and it's part of
+the structures of the game. The rules are
+
+38
+00:03:36,016 --> 00:03:40,644
+things like you play an X and then the
+next player plays an O. You can only play
+
+39
+00:03:40,644 --> 00:03:45,789
+in one square and so forth. I'm talking
+about things that structure the game that
+
+40
+00:03:45,789 --> 00:03:50,110
+go to the essence of what makes it
+engaging or not. So one of them is
+
+41
+00:03:50,110 --> 00:03:55,309
+Tic-tac-toe is a game played between two
+players who are competitive i.e one person
+
+42
+00:03:55,309 --> 00:04:00,466
+wins, one person looses. It's not a bunch
+of people who are collaborating to find a
+
+43
+00:04:00,466 --> 00:04:05,542
+solution. It's one winner and one loser in
+every game or the games a draw. They take
+
+44
+00:04:05,542 --> 00:04:10,577
+turns, that's part of the structure of the
+game. That one player goes and then the
+
+45
+00:04:10,577 --> 00:04:16,307
+other player goes and the game defines
+certain situations where we say one player
+
+46
+00:04:16,307 --> 00:04:21,775
+wins. So, if in fact, I'm able to make
+three x's in a row here. I have won the
+
+47
+00:04:21,775 --> 00:04:27,096
+game. That is called a win state.
+Similarly if we get to a point where all
+
+48
+00:04:27,096 --> 00:04:32,536
+the boxes are filled up, and no one has
+three in a row, that's a draw. And if you
+
+49
+00:04:32,536 --> 00:04:36,982
+saw the movie War Games, the computer
+figured out somehow in its vast
+
+50
+00:04:36,982 --> 00:04:41,614
+intelligence that any two decently
+competent Tic-tac-toe players can generate
+
+51
+00:04:41,614 --> 00:04:46,511
+a draw in every single game, no way to win
+the gam E. Now, in that movie, that result
+
+52
+00:04:46,511 --> 00:04:51,024
+almost lead to nuclear war. We don't have
+to worry about that but the point that I
+
+53
+00:04:51,024 --> 00:04:55,469
+want to make here. Is that the structure
+of the game. The elements of what it takes
+
+54
+00:04:55,469 --> 00:04:59,847
+to win and what it takes to draw the game.
+Contributes to. The gameplay. And
+
+55
+00:04:59,847 --> 00:05:03,970
+contributes to the way people feel in
+playing Tic-Tac-Toe. How much fun it is.
+
+56
+00:05:03,970 --> 00:05:08,214
+How much people want to keep playing. How
+interesting it seems and so forth. And all
+
+57
+00:05:08,214 --> 00:05:12,732
+of this feeds in to gamification. We start
+to think about deploying these tools
+
+58
+00:05:12,732 --> 00:05:17,060
+systematically. There's no, one set of
+elements that's always good or always bad.
+
+59
+00:05:17,060 --> 00:05:21,643
+They have to be understood in context of
+the overall game. So a few other, there's,
+
+60
+00:05:21,643 --> 00:05:26,482
+there's no progression. Now this is a
+limitation on Tic-tac-toe. It doesn't
+
+61
+00:05:26,482 --> 00:05:31,628
+necessarily get better or change. As you
+play. There's no level one Tic-tac-toe and
+
+62
+00:05:31,628 --> 00:05:36,578
+then once you finish this board here you
+go on to level two. Nor is there any kind
+
+63
+00:05:36,578 --> 00:05:41,534
+of scoring less you just keep track of who
+wins each game. It's just you play the
+
+64
+00:05:41,534 --> 00:05:46,404
+game and you win or you lose. These are
+also elements about why when you think
+
+65
+00:05:46,404 --> 00:05:51,253
+about it, Tic-tac-toe is a pretty bad
+game. Incredibly popular for centuries of
+
+66
+00:05:51,253 --> 00:05:56,233
+human history and yet a game that is so
+simplistic and so easy to draw that it's
+
+67
+00:05:56,233 --> 00:06:01,402
+not going to hold any adult's interest for
+very long. And again you can see that from
+
+68
+00:06:01,402 --> 00:06:06,955
+the elements that are there and some of
+the elements that are missing. The ability
+
+69
+00:06:06,955 --> 00:06:12,088
+to progress and advance in a game and the
+ability to get feedback from scoring.
+
+70
+00:06:12,088 --> 00:06:17,106
+Certainly not necessary as I've said but
+things that tend to produce more engaging
+
+71
+00:06:17,106 --> 00:06:22,453
+games than games without them. So another
+way to think about this is, if we talk
+
+72
+00:06:22,453 --> 00:06:28,583
+about a game here in the middle. And we
+can think about that through the various
+
+73
+00:06:28,583 --> 00:06:33,814
+definitions that I gave you. At the top is
+the experience. The overall impact of the
+
+74
+00:06:33,814 --> 00:06:38,123
+game, what you feel like when you play the
+game, that's the experience. First point
+
+75
+00:06:38,123 --> 00:06:42,512
+here is that. This here, the game and this
+here the experience are not the same
+
+76
+00:06:42,512 --> 00:06:47,362
+thing. The game is the set of rules, the a
+esthetics, all of the game elements. The
+
+77
+00:06:47,362 --> 00:06:51,790
+experience is what the player feels when
+they're playing it. Those two are very
+
+78
+00:06:51,790 --> 00:06:57,027
+much related but they're different things
+and when you're doing game design what you
+
+79
+00:06:57,027 --> 00:07:01,088
+control is the game and what you try to
+produce is a certain kind of experience.
+
+80
+00:07:01,088 --> 00:07:06,026
+The other side to this is what's down here
+which are the elements. So if the
+
+81
+00:07:06,026 --> 00:07:10,087
+experience is the kind of gestalt, the
+overall impact or feeling of the game, the
+
+82
+00:07:10,087 --> 00:07:15,051
+elements are the piece parts. The bits and
+pieces if you build up the game from
+
+83
+00:07:15,051 --> 00:07:20,025
+smaller units. Than you're building up
+from elements if you think about the game
+
+84
+00:07:20,025 --> 00:07:25,024
+in terms of its general impact. How fun it
+feels and why it feels fun. You're talking
+
+85
+00:07:25,024 --> 00:07:29,039
+about the experience. And really both of
+these are ways to think about
+
+86
+00:07:29,039 --> 00:07:33,083
+gamification. We're going to focus mostly
+on going up from the elements but
+
+87
+00:07:33,083 --> 00:07:38,076
+gamification is also about. Again,
+thinking like a game designer and trying
+
+88
+00:07:38,076 --> 00:07:44,064
+to understand how overall experiences that
+we can understand from games. Can be put
+
+89
+00:07:44,064 --> 00:07:50,238
+into non-game context using things like
+elements but also using other kinds of

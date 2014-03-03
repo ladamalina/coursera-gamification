@@ -1,0 +1,635 @@
+
+1
+00:00:00,000 --> 00:00:05,087
+Up until now I've been talking about games
+in a very general, abstract sense, because
+
+2
+00:00:05,087 --> 00:00:11,074
+gamification draws upon basic principles
+that are common to all games. But it also
+
+3
+00:00:11,074 --> 00:00:17,241
+draws specifically upon a certain category
+of games namely, video games. And most of
+
+4
+00:00:17,241 --> 00:00:22,661
+the gamification examples that we're going
+to think about, involve online digital
+
+5
+00:00:22,661 --> 00:00:28,434
+systems which are directly related to what
+we see in video games. So, it's worth
+
+6
+00:00:28,434 --> 00:00:33,743
+understanding the video game industry.
+Also because the size of it and the scale
+
+7
+00:00:33,743 --> 00:00:40,604
+of it and the pervasiveness of it are part
+of why the motifs of gamification are so
+
+8
+00:00:40,604 --> 00:00:49,434
+familiar. So, we start 40 years ago, 1972
+or so with Pong. The first mass market
+
+9
+00:00:49,434 --> 00:00:55,308
+successful video game still gives me
+chills. Here it is. Pong was a revolution
+
+10
+00:00:55,826 --> 00:01:01,867
+play. There it is. Because it allowed
+people to interact with what was on their
+
+11
+00:01:01,867 --> 00:01:08,919
+screen. If, by today's standards of course
+was unbelievably primitive and it's hard
+
+12
+00:01:08,919 --> 00:01:16,025
+to imagine how anyone would get interested
+in what you see behind me on the screen
+
+13
+00:01:16,025 --> 00:01:22,544
+there. But Pong for the first time, gave
+people the power to interact with a
+
+14
+00:01:22,544 --> 00:01:28,531
+digital game at home. And since then, the
+video game industry has grown and grown,
+
+15
+00:01:28,531 --> 00:01:34,063
+and now as I said, It's 40 years old. It
+is both substantial as a business
+
+16
+00:01:34,063 --> 00:01:40,049
+phenomenon, pervasive in the experience of
+especially the younger generation of
+
+17
+00:01:40,049 --> 00:01:46,049
+people particularly in the west but in
+many other parts of the world as well. And
+
+18
+00:01:46,049 --> 00:01:52,005
+video games have developed a very
+sophisticated language of how to express
+
+19
+00:01:52,005 --> 00:01:57,085
+themselves, and entertain and engage
+people. Here's one example just to show
+
+20
+00:01:57,085 --> 00:02:03,058
+what I'm talking about here. This is
+Cityville, one of the casual social games
+
+21
+00:02:03,058 --> 00:02:09,046
+on Facebook made by Zinga. And Cityville
+as you can see is clearly a game and a
+
+22
+00:02:09,046 --> 00:02:15,049
+fairly graphically simple game. At least
+compare to some of the rich 3D immersive
+
+23
+00:02:15,049 --> 00:02:21,045
+games that we have on consoles and PCs
+today. Here's the interesting thing about
+
+24
+00:02:21,045 --> 00:02:29,189
+Cityville. Cityville was launched by Zynga
+in 2011. In 41 days, it hit a hundred
+
+25
+00:02:29,189 --> 00:02:36,738
+million registered users. Six Weeks. Zero
+to a, a hundred million registered users.
+
+26
+00:02:36,738 --> 00:02:41,854
+An extraor dinary rate of growth and it's
+not limited to just this one game or this
+
+27
+00:02:41,854 --> 00:02:47,749
+one company. This is a huge phenomenon.
+So, here's some statistics to capture just
+
+28
+00:02:47,749 --> 00:02:53,709
+how big the video game industry is today.
+The industry depending on who's numbers
+
+29
+00:02:53,709 --> 00:03:00,090
+you take is somewhere on the order of 60
+to 80 billion dollars a year in revenues.
+
+30
+00:03:00,090 --> 00:03:05,098
+Double the revenues of Hollywood from box
+office sales of films. Films make money
+
+31
+00:03:05,098 --> 00:03:11,001
+from other mechanism as well, including
+tie ins with games. But if you talk about
+
+32
+00:03:11,001 --> 00:03:16,004
+box office revenues games are already much
+bigger and their growing faster than
+
+33
+00:03:16,004 --> 00:03:21,006
+Hollywood. The second is that games are
+evolving to the point where online games,
+
+34
+00:03:21,006 --> 00:03:25,096
+games played or distributed online as
+opposed to on consoles like the Play
+
+35
+00:03:25,096 --> 00:03:30,074
+Station and XBox and Nintendo Wii. Or
+downloaded in a box and loaded on a PC.
+
+36
+00:03:30,074 --> 00:03:35,079
+The online games are growing faster and
+are poised. To become the biggest segment
+
+37
+00:03:35,079 --> 00:03:39,066
+of the games marketplace, and
+interestingly, already the biggest
+
+38
+00:03:39,066 --> 00:03:44,080
+component of the online games marketplace
+is China. So it's not just an American or
+
+39
+00:03:44,080 --> 00:03:49,064
+a Western phenomenon. The third is that
+games are becoming the foundation for
+
+40
+00:03:49,064 --> 00:03:54,050
+other industries. Virtual goods, I will
+talk about later in the class, but these
+
+41
+00:03:54,050 --> 00:03:59,047
+are things that you can buy within the
+game. Think about a brand new sword for a
+
+42
+00:03:59,047 --> 00:04:04,058
+player in a massively multi-player online
+game. Or some additional seeds and other
+
+43
+00:04:04,058 --> 00:04:09,056
+equipment that you might use in a Zynga
+game like Farmville. Things that you pay
+
+44
+00:04:09,056 --> 00:04:14,079
+real money for that appear in the game.
+This economy around virtual goods is
+
+45
+00:04:14,079 --> 00:04:20,062
+already many billions of dollars, 7.3
+billion globally and two billion in the
+
+46
+00:04:20,062 --> 00:04:26,045
+US, according to the latest statistics I
+could find. A very substantial market
+
+47
+00:04:26,045 --> 00:04:31,012
+which is not games themselves but
+something built on top of the great
+
+48
+00:04:31,012 --> 00:04:36,011
+success of games. And finally the other
+great evolution is the rise of mobile
+
+49
+00:04:36,011 --> 00:04:41,055
+games. This was a study early in 2012 that
+found that 44 percent of people, US and
+
+50
+00:04:41,055 --> 00:04:46,086
+UK, have played a mobile game something
+like an Angry Birds on their smartphone in
+
+51
+00:04:46,086 --> 00:04:52,010
+the last month. So, the games industry is
+big and it's developing. And I think it's
+
+52
+00:04:52,010 --> 00:04:57,054
+fair to talk about it as the mass medium
+of the twenty-first century. Here are just
+
+53
+00:04:57,054 --> 00:05:02,087
+a few statistics about usage numbers. If
+you look at things like the Zynga Games,
+
+54
+00:05:02,087 --> 00:05:07,664
+lots of people. I talked about a hundred
+million on Cityville 250 million, quarter
+
+55
+00:05:07,664 --> 00:05:12,787
+of a billion unique registered users, and
+that it was already probably a few months
+
+56
+00:05:12,787 --> 00:05:17,468
+old. They've surpassed that. Angry Birds
+alone over a hundred million. Xbox LIVE
+
+57
+00:05:17,468 --> 00:05:21,500
+games 35, World of Warcraft over ten
+million players. World of Warcraft, those
+
+58
+00:05:21,500 --> 00:05:26,128
+are paying players, so that's even more
+important in terms of monetization. The
+
+59
+00:05:26,128 --> 00:05:31,639
+other important piece though is how much
+time people are using these things. And so
+
+60
+00:05:31,639 --> 00:05:36,566
+those ten million World of Warcraft
+players up here, if you look at the amount
+
+61
+00:05:36,566 --> 00:05:42,098
+of time they spend, it's actually huge.
+It's 50 billion minutes a month because
+
+62
+00:05:42,098 --> 00:05:48,016
+they're playing for long periods of time.
+Where as something like Angry Birds, even
+
+63
+00:05:48,016 --> 00:05:53,066
+though it has a higher user base is only a
+mere twelve billion minutes a month that
+
+64
+00:05:53,066 --> 00:05:58,061
+people are playing because people use it
+less. Still a pretty big number. And if
+
+65
+00:05:58,061 --> 00:06:03,045
+you look at something like the Xbox Live
+games, which are the core console games so
+
+66
+00:06:03,045 --> 00:06:08,230
+therefore games people play more. 120
+billion minutes a month. So, figure out
+
+67
+00:06:08,230 --> 00:06:12,677
+how much that is across the player base,
+and figure out how much time that actually
+
+68
+00:06:12,677 --> 00:06:17,887
+represents relative to traditional media.
+It's not the same thing as people having
+
+69
+00:06:17,887 --> 00:06:22,113
+their television on for seven hours a day
+in the time, but this is interactive time
+
+70
+00:06:22,113 --> 00:06:26,803
+it's time when the player is directly
+engaged in playing the game. Big, big
+
+71
+00:06:26,803 --> 00:06:33,455
+numbers. So, the important thing here to
+take away is that games are a mass
+
+72
+00:06:33,455 --> 00:06:39,040
+phenomenon. And just to correct a
+misunderstanding that people sometimes
+
+73
+00:06:39,040 --> 00:06:45,013
+have, they are not just a mass phenomenon
+for teenage boys. It's true that the
+
+74
+00:06:45,013 --> 00:06:51,060
+highest percentage of gamers is teenagers
+and young adults, twelve to seventeen year
+
+75
+00:06:51,060 --> 00:06:56,095
+olds in the US. This study by the Peer
+Research Foundation found 97 percent play
+
+76
+00:06:56,095 --> 00:07:02,035
+some kind of video game. Virtually
+everyone. But it's not just them. And the
+
+77
+00:07:02,035 --> 00:07:07,213
+Entertainment Software Association has f
+ound that the average gamer is actually 30
+
+78
+00:07:07,213 --> 00:07:12,229
+years old. And if you know anything about
+averages, that means there's a whole lot
+
+79
+00:07:12,229 --> 00:07:16,603
+of them that are older than 30. Moreover
+it's not just boys or men. Almost half of
+
+80
+00:07:16,603 --> 00:07:21,454
+all video game players today are women.
+There are some skewing effects. Women
+
+81
+00:07:21,454 --> 00:07:26,392
+generally speaking tend to play more the
+social, casual games. Men tend to play
+
+82
+00:07:26,392 --> 00:07:31,801
+more of the first person shooter types of
+games. But overall if you talk about video
+
+83
+00:07:31,801 --> 00:07:36,969
+games as an experience, as a mass medium,
+as a phenomenon that people are conversant
+
+84
+00:07:36,969 --> 00:07:42,014
+with and familiar with, it cuts across all
+those boundaries. And the final point is
+
+85
+00:07:42,014 --> 00:07:47,173
+that video games are not just going in and
+guns blazing blowing something up and
+
+86
+00:07:47,173 --> 00:07:52,142
+shooting things. Sure, there are games
+that involve that. And some of them have
+
+87
+00:07:52,142 --> 00:07:56,891
+been very successful. But especially in
+recent years, we've seen the rise of many
+
+88
+00:07:56,891 --> 00:08:00,677
+different categories of games that are
+very different. So for example, the
+
+89
+00:08:00,677 --> 00:08:05,298
+Sandbox games things like Minecraft, which
+if you're not familiar with you should go
+
+90
+00:08:05,298 --> 00:08:09,933
+check out. Minecraft is a game that was
+written by a single developer that is
+
+91
+00:08:09,933 --> 00:08:13,853
+incredibly rudimentary in terms of its
+graphics, has no purpose. You go into
+
+92
+00:08:13,853 --> 00:08:18,802
+Minecraft, you're given a world. And you
+have to dig things up and find different
+
+93
+00:08:18,802 --> 00:08:23,187
+kinds of ore and chop down trees and do
+other things to create raw materials and
+
+94
+00:08:23,187 --> 00:08:28,398
+then put them together in different ways
+and build things. Why? Well, because it's
+
+95
+00:08:28,398 --> 00:08:34,522
+fun. And it turns out that Minecraft has
+been a sensation. Huge numbers of users
+
+96
+00:08:34,522 --> 00:08:40,729
+voluntarily pay money to play this game.
+Which or, and most of the time that they
+
+97
+00:08:40,729 --> 00:08:44,693
+were doing so was far from finish. It was
+expressly in alpha or beta form, people
+
+98
+00:08:44,693 --> 00:08:49,141
+found this incredibly compelling. In part
+because they could share their creations
+
+99
+00:08:49,141 --> 00:08:53,233
+with other people. It gave them a huge
+Sandbox. You could make anything you want
+
+100
+00:08:53,233 --> 00:08:57,029
+in Minecraft. Another category are the
+building games, or here I mentioned
+
+101
+00:08:57,029 --> 00:09:00,985
+already, Civilization by Sid Meier, the
+SimCity games by Will Wright, games that
+
+102
+00:09:00,985 --> 00:09:05,404
+let you create and build things. Again,
+not to kill them. But to figure out how
+
+103
+00:09:05,404 --> 00:09:11,677
+your actions in running a complex system
+like a city or like a nation state create
+
+104
+00:09:11,677 --> 00:09:17,421
+results as they interact with each other
+and with other parts of the system. A
+
+105
+00:09:17,421 --> 00:09:22,391
+derivative of those are what I'll call
+social building games. Here's where we see
+
+106
+00:09:22,391 --> 00:09:27,100
+things like Farmville and the Sims. Games
+that have that construction building
+
+107
+00:09:27,100 --> 00:09:31,186
+element, but also involve collaborating
+with and interacting with other players in
+
+108
+00:09:31,186 --> 00:09:35,106
+the game. Showing off what you're doing
+for other players, having a social
+
+109
+00:09:35,106 --> 00:09:39,961
+dimension in addition to that building
+dimension. Very popular, very successful.
+
+110
+00:09:39,961 --> 00:09:44,060
+Then we have the massively multiplayer
+online games, things like World of
+
+111
+00:09:44,060 --> 00:09:47,910
+Warcraft, which again have been quite
+successful and do have some measure of
+
+112
+00:09:47,910 --> 00:09:52,994
+running around and killing things but also
+have guilds and communities, and things
+
+113
+00:09:52,994 --> 00:09:59,376
+like auction houses and things like
+leveling up characters in different skill
+
+114
+00:09:59,376 --> 00:10:05,707
+areas and crafting and exploring worlds. A
+rich experience much more than just the
+
+115
+00:10:05,707 --> 00:10:11,394
+pure competitive, pure destruction element
+of games. And finally, puzzle games,
+
+116
+00:10:11,394 --> 00:10:17,023
+things like Angry Birds, where you have to
+figure out how do I pull this slingshot
+
+117
+00:10:17,023 --> 00:10:22,013
+just the right way to knock over the
+structure. Or Portal and Portal two, very
+
+118
+00:10:22,013 --> 00:10:28,078
+successful hit game in recent years, in
+which the player has to figure out how to
+
+119
+00:10:28,078 --> 00:10:33,672
+create holes in a wall that when you put
+them together solve a puzzle of how to get
+
+120
+00:10:33,672 --> 00:10:38,786
+out of a room. If you haven't played go
+and look at some YouTube videos or some
+
+121
+00:10:38,786 --> 00:10:43,859
+information on the game. Really
+successful, powerful game using simple
+
+122
+00:10:43,859 --> 00:10:49,298
+kinds of problem solving mechanics. And
+the point here is that these are not
+
+123
+00:10:49,506 --> 00:10:54,800
+outliers or exceptions. These in many
+cases are the most successful game
+
+124
+00:10:54,800 --> 00:11:00,810
+releases in recent years. So, games are,
+big. They are sophisticated. They are
+
+125
+00:11:00,810 --> 00:11:07,045
+pervasive across modern life, and they are
+diverse. They are not just as simple as
+
+126
+00:11:07,045 --> 00:11:13,153
+you might think and they are not just
+about graphics. They're about all these
+
+127
+00:11:13,153 --> 00:11:18,044
+different forms of interaction
+individually and socially.

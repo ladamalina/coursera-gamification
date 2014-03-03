@@ -1,0 +1,790 @@
+
+1
+00:00:00,067 --> 00:00:05,057
+The promise of gamification is to learn
+from games, to draw on what makes games so
+
+2
+00:00:05,057 --> 00:00:10,088
+powerful and apply it in other contexts.
+So it's a fair question to ask whether
+
+3
+00:00:10,088 --> 00:00:15,616
+gamification can or in fact does actually
+accomplish that? And there are many who
+
+4
+00:00:15,616 --> 00:00:20,590
+argue that it doesn't. This criticism goes
+by the name of pointsification. A term
+
+5
+00:00:20,590 --> 00:00:26,094
+that was coined by Margaret Robertson. A
+British game developer in her blog Hide
+
+6
+00:00:26,094 --> 00:00:32,183
+and Seek. And in her original post back in
+2010, what she argued and what many other
+
+7
+00:00:32,183 --> 00:00:38,080
+had since developed in other ways is that
+gamification is about taking the things
+
+8
+00:00:38,080 --> 00:00:43,424
+that is least essential from games and
+representing it as the core of the
+
+9
+00:00:43,424 --> 00:00:48,679
+experience. In other words gamification
+relies just on the surface aspects of
+
+10
+00:00:48,679 --> 00:00:54,076
+games. The mechanics. The other game
+elements. And what she says is that's not
+
+11
+00:00:54,076 --> 00:00:59,533
+the important stuff. That's not the part
+of games that makes them wonderful. That
+
+12
+00:00:59,533 --> 00:01:05,088
+gets people to play and that stimulates
+that powerful set of motivational aspects
+
+13
+00:01:05,088 --> 00:01:11,673
+that we've talked about in the course. So
+what she says is, as she goes on in the
+
+14
+00:01:11,673 --> 00:01:17,503
+post, effectively gamification is an
+inadvertent con. It's genuine. It's trying
+
+15
+00:01:17,503 --> 00:01:22,124
+to take something valuable from games but
+it's taking the wrong thing. And in so
+
+16
+00:01:22,124 --> 00:01:26,861
+doing it's inadvertently misleading
+people. It's suggesting to people that
+
+17
+00:01:26,861 --> 00:01:31,801
+what's great about games is that they have
+things like point systems and
+
+18
+00:01:31,801 --> 00:01:36,609
+leaderboards. When in fact that's not
+what's central or important about games at
+
+19
+00:01:36,609 --> 00:01:42,241
+all. And there's a great deal of bite to
+this criticism. As we've talked about many
+
+20
+00:01:42,241 --> 00:01:47,476
+gamified system rely principally on
+points, badges, leaderboards and a few
+
+21
+00:01:47,476 --> 00:01:53,274
+other surface level game mechanics. And,
+well may that have some valuable fact that
+
+22
+00:01:53,274 --> 00:01:59,048
+we can link them to other sorts of
+activities like loyalty programs. They
+
+23
+00:01:59,048 --> 00:02:05,655
+don't necessarily produce the sense of
+true engagement and the sense of intrinsic
+
+24
+00:02:05,655 --> 00:02:11,740
+motivation, that's so important to really
+changeing behavior and really producing
+
+25
+00:02:11,740 --> 00:02:16,760
+sustained results in ways that are
+beneficial for people involved in the
+
+26
+00:02:16,760 --> 00:02:21,807
+system. So there is a legitimate criticism
+here aro und pointsification. But to my
+
+27
+00:02:21,807 --> 00:02:26,644
+mind it's one that can be addressed by
+thinking about gamification more broadly.
+
+28
+00:02:26,644 --> 00:02:31,368
+As I've talked about, there really are two
+streams of work that feed into
+
+29
+00:02:31,368 --> 00:02:36,038
+gamification. The one that Robertson and
+the other critics are talking about when
+
+30
+00:02:36,038 --> 00:02:40,560
+they label it pointsification is entirely
+on the behavioral side. And it's the
+
+31
+00:02:40,560 --> 00:02:45,199
+shallower aspects of applying those
+behavioral techniques through
+
+32
+00:02:45,199 --> 00:02:49,961
+gamification. Again, predominately using
+simple mechanics like points and leader
+
+33
+00:02:49,961 --> 00:02:54,442
+boards, and thinking that they can just be
+slapped onto processes and produce
+
+34
+00:02:54,442 --> 00:02:59,357
+results. I would certainly agree that
+that's limiting, and that, that doesn't
+
+35
+00:02:59,357 --> 00:03:03,960
+produce the same kinds of powerful results
+that we can see from games, but...
+
+36
+00:03:03,960 --> 00:03:09,205
+Gamification at least appropriately
+thought of is much more than that. So part
+
+37
+00:03:09,205 --> 00:03:15,100
+of the criticism of pointification is
+focusing in on a limited set but a very
+
+38
+00:03:15,100 --> 00:03:21,070
+real set of gamification examples and
+practises. And I think that we can take it
+
+39
+00:03:21,070 --> 00:03:27,239
+to heart without necessarily writing off
+the entire practice of gamification. But
+
+40
+00:03:27,239 --> 00:03:33,431
+an important question this raises is
+whether gamification really is effective.
+
+41
+00:03:33,431 --> 00:03:40,010
+Robertson as a game designer was concerned
+about gamification having the effect of
+
+42
+00:03:40,010 --> 00:03:44,024
+belittling games. That if people started
+to think, "Oh wait. Games are just about
+
+43
+00:03:44,024 --> 00:03:48,092
+points and badges and stuff like that."
+And those really aren't that effective. So
+
+44
+00:03:48,092 --> 00:03:53,000
+therefore games must not be that
+interesting or powerful, either. As a game
+
+45
+00:03:53,000 --> 00:03:58,078
+designer, that was her concern. She wasn't
+particularly concerned about gamification
+
+46
+00:03:58,078 --> 00:04:03,053
+as a practice. But those of us who are in
+the gamification field certainly are. And
+
+47
+00:04:03,053 --> 00:04:09,050
+so it's worth asking whether if
+gamification reduces to pointsification,
+
+48
+00:04:09,050 --> 00:04:15,004
+then that means that it won't produce the
+kind of sustained, important, deep
+
+49
+00:04:15,004 --> 00:04:21,078
+engagement that's necessary to drive real
+business results and real behavior change.
+
+50
+00:04:21,078 --> 00:04:26,013
+And the challenge here is we don't have a
+tremendous amount of research. In this
+
+51
+00:04:26,013 --> 00:04:31,060
+course, I have given you many different
+examples, some anecdotal, some involving
+
+52
+00:04:31,060 --> 00:04:36,015
+data points. But we do n't hav e yet
+significant empirical research,
+
+53
+00:04:36,015 --> 00:04:41,096
+systematically looking at different forms
+of gamification and the results that it
+
+54
+00:04:41,096 --> 00:04:46,443
+can provide in the enterprise, in external
+marketing context, in behavior change
+
+55
+00:04:46,443 --> 00:04:50,733
+context. There are social scientists,
+people like my colleague, Ethan Mollick,
+
+56
+00:04:50,733 --> 00:04:55,124
+here at the Wharton School, who started to
+do research in this area. And I think that
+
+57
+00:04:55,124 --> 00:04:59,918
+we'll see research start to come about
+that informs gamification practice. But up
+
+58
+00:04:59,918 --> 00:05:04,121
+to this point, it's limited. I think
+there's enough examples. Again, we've seen
+
+59
+00:05:04,121 --> 00:05:09,186
+many of them in this course that suggest
+that these techniques are valid, and can
+
+60
+00:05:09,186 --> 00:05:13,814
+work if designed and applied
+appropriately. But we don't yet know as
+
+61
+00:05:13,814 --> 00:05:18,801
+much as we need to about what the data
+really show in large scale practical
+
+62
+00:05:18,801 --> 00:05:24,732
+deployments. The second issue that this
+comes to is that gamification if it does
+
+63
+00:05:24,732 --> 00:05:29,954
+reduce to pointsification, if most of the
+time or at least some of the time it turns
+
+64
+00:05:29,954 --> 00:05:35,193
+out to just be about using these shallow
+elements. There's a very real risk that
+
+65
+00:05:35,193 --> 00:05:41,397
+engagement may spike initially but will
+then decay. That people may feel that
+
+66
+00:05:41,397 --> 00:05:49,361
+initial boost from the surprise or the
+activity and engagement loops of feedback.
+
+67
+00:05:49,361 --> 00:05:54,772
+But ultimately if they're just driven by
+those behaviourist rewards or just driven
+
+68
+00:05:54,772 --> 00:05:59,191
+by the surface level mechanics they'll get
+bored. And that won't produce an induring
+
+69
+00:05:59,191 --> 00:06:04,483
+response. That's I think a fair criticism
+and something to be aware of in designing
+
+70
+00:06:04,483 --> 00:06:10,495
+gamified systems. And yet another reason.
+Not to just stop by thinking about these
+
+71
+00:06:10,495 --> 00:06:15,931
+simple points based mechanics. The third
+aspect of this is one that we've already
+
+72
+00:06:15,931 --> 00:06:21,359
+talked about, which is the potential for
+crowding out, or over justification. So,
+
+73
+00:06:21,359 --> 00:06:27,449
+if in fact gamification becomes just
+pointsification, then it falls victim to
+
+74
+00:06:27,449 --> 00:06:33,472
+all the dangers of extrinsic rewards that
+I described in some of the psychology
+
+75
+00:06:33,472 --> 00:06:40,355
+sections. All of this together is what is
+like Kathy Sierra, who is a noted author
+
+76
+00:06:40,355 --> 00:06:46,466
+and speaker around interaction design and
+programming in other areas. She has been a
+
+77
+00:06:46,466 --> 00:06:52,723
+frequent critic of gamifica tion and has
+labeled it, I think very powerfully as the
+
+78
+00:06:52,723 --> 00:06:59,007
+high fructose corn syrup of engagement and
+what I think she's saying there is first
+
+79
+00:06:59,007 --> 00:07:04,065
+of all that it takes the richness, the
+real organic value of games and of human
+
+80
+00:07:04,065 --> 00:07:09,062
+engagement, and reduces it down to
+something very simplistic and very shrill.
+
+81
+00:07:09,062 --> 00:07:13,409
+And that it's something like corn syrup
+high fructose corn syrup that seems great
+
+82
+00:07:13,409 --> 00:07:18,056
+because it's sweet and cheap. But that as
+we learn more turns out to potentially be
+
+83
+00:07:18,056 --> 00:07:23,366
+harmful for us. In the sense here, that if
+we rely too much on these simplistic,
+
+84
+00:07:23,366 --> 00:07:29,414
+external reward based systems, that it
+will push people away from the true
+
+85
+00:07:29,414 --> 00:07:36,278
+intrinsic motivation. Love of the
+activity, love of the task, love of the
+
+86
+00:07:36,278 --> 00:07:41,343
+process. That is what should ultimately be
+driving them. And as with the
+
+87
+00:07:41,343 --> 00:07:46,475
+pointsification critic more broadly, this
+is something worth taking into account.
+
+88
+00:07:46,475 --> 00:07:51,119
+Now, again I tend to think that its not a
+fatal critic of all of gamification for
+
+89
+00:07:51,119 --> 00:07:55,829
+the reason that are described in the
+course but its something that you should
+
+90
+00:07:55,829 --> 00:08:00,078
+always have in mind when designing
+systems. And always try to think about how
+
+91
+00:08:00,078 --> 00:08:05,274
+avoid sliding down that path where infact
+what you are doing is not gamafiying, but
+
+92
+00:08:05,274 --> 00:08:10,209
+just applying point systems or applying
+game mechanics and other game elements in
+
+93
+00:08:10,209 --> 00:08:14,194
+situations where they are not truely
+appropriate. So, let's turn back to the
+
+94
+00:08:14,194 --> 00:08:19,386
+Foursquare example. Foursquare, in many
+ways, was a tremendous success story for
+
+95
+00:08:19,386 --> 00:08:24,781
+gamification. The use of game elements,
+the badges, the points and so forth, on
+
+96
+00:08:24,781 --> 00:08:29,824
+top of the social location system that was
+pioneered by Dodgeball, helped power
+
+97
+00:08:29,824 --> 00:08:34,428
+Foursquare to tremendous success and
+tremendous adoption. But along the way
+
+98
+00:08:34,428 --> 00:08:38,461
+something interesting happened. Early in
+2012 Foursquare did a redesign. They
+
+99
+00:08:38,461 --> 00:08:44,039
+changed the interface of the system in a
+way that appeared to significantly
+
+100
+00:08:44,039 --> 00:08:49,023
+de-emphasize the game elements. So here
+you see some screen shots of the
+
+101
+00:08:49,023 --> 00:08:55,072
+Foursquare iPhone client. And you see
+here's one main screen that shows
+
+102
+00:08:55,072 --> 00:08:59,075
+information about your friends and where
+they are and information that yo u can
+
+103
+00:08:59,075 --> 00:09:04,028
+post. And you notice. Not a lot of game
+elements actu ally there. And here's the
+
+104
+00:09:04,028 --> 00:09:08,049
+screen showing your friends, where they've
+checked in on the map. Again, the game
+
+105
+00:09:08,049 --> 00:09:12,850
+elements aren't that prominent. It's only
+when you get to this third screen here
+
+106
+00:09:13,031 --> 00:09:18,082
+that we see. The stats with the crown we
+see the badges that you've accomplished,
+
+107
+00:09:18,082 --> 00:09:23,060
+that you've achieved and so forth. So the
+game elements are still there, but they
+
+108
+00:09:23,060 --> 00:09:28,042
+appear to much less prominent. So the
+question is what lesson to draw from this
+
+109
+00:09:28,042 --> 00:09:33,026
+and I think one can draw a couple of
+different lessons. One conclusion is..
+
+110
+00:09:33,026 --> 00:09:37,085
+Gamification didn't work. The game
+elements either didn't actually produce
+
+111
+00:09:37,085 --> 00:09:42,019
+business results or maybe they did for
+awhile but then people got bored. People
+
+112
+00:09:42,019 --> 00:09:46,069
+got tired of them. The badges just became
+something silly and not something that
+
+113
+00:09:46,069 --> 00:09:51,054
+really motivated people to want to check
+in and participate in the service. Or
+
+114
+00:09:51,054 --> 00:09:57,008
+maybe another conclusion one could draw is
+that the game elements are still there.
+
+115
+00:09:57,008 --> 00:10:01,031
+And still important to the service. But it
+was much more important to make them
+
+116
+00:10:01,031 --> 00:10:05,069
+prominent during the early days when
+Foursquare was trying to grow, trying to
+
+117
+00:10:05,069 --> 00:10:10,023
+get out of that trap that I described
+early on, where there was no reason for
+
+118
+00:10:10,023 --> 00:10:14,053
+people to check in if their friends were
+checking in. And there were no real
+
+119
+00:10:14,053 --> 00:10:19,033
+super-users who had a motivation to go and
+check in all the time at certain location
+
+120
+00:10:19,033 --> 00:10:23,073
+and post information. So perhaps the game
+elements were particularly important
+
+121
+00:10:23,073 --> 00:10:28,011
+during that growth phase for the company.
+And now that it reached the critical mass,
+
+122
+00:10:28,011 --> 00:10:33,931
+where the key is monetization and building
+out off of the large number of users to
+
+123
+00:10:33,931 --> 00:10:39,939
+real rich informational and social value
+that people can extract out, and that gets
+
+124
+00:10:39,939 --> 00:10:44,705
+people to put more deep information into
+the system. Maybe at that point. The
+
+125
+00:10:44,705 --> 00:10:49,783
+point, badge and leader board type game
+elements are less central. So you can
+
+126
+00:10:49,783 --> 00:10:54,819
+decide whichever of those stories you
+think persuades you or maybe some other
+
+127
+00:10:54,819 --> 00:10:59,663
+story. But again, in thinking about
+gamefication in practice , it behooves
+
+128
+00:10:59,663 --> 00:11:04,718
+everyone to try to keep questionin g
+whether this is a technique that's worth
+
+129
+00:11:04,718 --> 00:11:08,662
+using. I think it's one that can be
+extremely valuable in many different
+
+130
+00:11:08,662 --> 00:11:13,761
+areas. Going from very lightweight systems
+to much more sophisticated deployments.
+
+131
+00:11:13,958 --> 00:11:18,741
+But it's, again, not something that's
+useful for everyone, and not something
+
+132
+00:11:18,741 --> 00:11:23,118
+that's useful in every single case. So,
+what are some implications to take away
+
+133
+00:11:23,118 --> 00:11:27,385
+from this discussion? First, names are
+powerful. Much of the fire behind the
+
+134
+00:11:27,385 --> 00:11:32,577
+criticism of gamification from game
+designers hinges on the word,
+
+135
+00:11:32,577 --> 00:11:37,970
+gamification. Because it implies that this
+is about games. And I think, if you think
+
+136
+00:11:37,970 --> 00:11:43,106
+about it broadly as I have talked about,
+it is. It involves using many different
+
+137
+00:11:43,106 --> 00:11:47,343
+aspects of games and many different
+aspects of game design practice. But it is
+
+138
+00:11:47,343 --> 00:11:53,025
+true that if gamification is just pulling
+out points at the few other mechanics,
+
+139
+00:11:53,025 --> 00:11:59,445
+then it is something substantially less.
+Than the full panoply of richness that
+
+140
+00:11:59,445 --> 00:12:05,493
+games entail. So names matter. The problem
+is names are names, and gamification is
+
+141
+00:12:05,493 --> 00:12:10,087
+the name that has stuck. Maybe eventually
+it will go away or change into something
+
+142
+00:12:10,087 --> 00:12:15,020
+else, but for now it's the word that gets
+used for this practice. Second point is,
+
+143
+00:12:15,020 --> 00:12:20,012
+bad de-gamification is bad. So it's true
+that if gamification just uses points,
+
+144
+00:12:20,012 --> 00:12:23,941
+badges, and leader boards, especially if
+it does it in a very shallow way, and
+
+145
+00:12:23,941 --> 00:12:28,563
+certainly there are many examples of that
+today, that it's going to be limited. It's
+
+146
+00:12:28,563 --> 00:12:33,932
+not going to produce sustained engagement,
+and it may, in fact, be harmful. It may,
+
+147
+00:12:33,932 --> 00:12:40,861
+in fact, produce the kind of backlash, the
+crowding out effect that we described in
+
+148
+00:12:40,861 --> 00:12:47,430
+the discussion of behaviorism and
+psychology. Third point is that there's
+
+149
+00:12:47,430 --> 00:12:53,141
+more to games than gamification. So games
+do involve many other aspects beyond the
+
+150
+00:12:53,141 --> 00:12:57,468
+ones that we've talked about in this
+class. And there's more to gamification
+
+151
+00:12:57,468 --> 00:13:03,116
+than games. Gamification draws upon areas
+like phsychology and design and business
+
+152
+00:13:03,116 --> 00:13:07,922
+practice and social media in many ways
+that go beyond or go in different
+
+153
+00:13:07,922 --> 00:13:12,021
+directions than game design and that's
+fine. That's one reason it's important t o
+
+154
+00:13:12,021 --> 00:13:16,662
+keep straight whether we're talking about
+games including for example serio us game
+
+155
+00:13:16,662 --> 00:13:21,409
+design. Or talking about gamification
+where the goal is to apply to some
+
+156
+00:13:21,409 --> 00:13:27,530
+non-game context. And, final lesson here.
+Caveat Ludor, let the gamifier beware.
+
+157
+00:13:27,530 --> 00:13:33,321
+Make sure to always keep in mind. The
+difference between gamification and
+
+158
+00:13:33,321 --> 00:13:37,092
+pointsification and to recognize the bite
+that, that criticism has.

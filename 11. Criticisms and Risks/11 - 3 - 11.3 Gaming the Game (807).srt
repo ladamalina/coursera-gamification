@@ -1,0 +1,494 @@
+
+1
+00:00:00,000 --> 00:00:06,762
+There are many mistakes that you can make
+in designing a gamified system. But, one
+
+2
+00:00:06,762 --> 00:00:13,034
+of the most common and one of the most
+dangerous is to forget about who the
+
+3
+00:00:13,034 --> 00:00:19,016
+object at the system is, namely, the
+players. And to forget that players are
+
+4
+00:00:19,016 --> 00:00:23,404
+people, they're human beings. They're
+thinking, and feeling, and interacting
+
+5
+00:00:23,404 --> 00:00:29,247
+agents. And while you can anticipate in
+many ways how their going to behave, and
+
+6
+00:00:29,247 --> 00:00:35,026
+certainly anticipate the different kinds
+of motivational structures that might push
+
+7
+00:00:35,026 --> 00:00:39,898
+them in one direction or another, you can
+never be sure what their going to do. And,
+
+8
+00:00:39,898 --> 00:00:45,465
+in designing gamified systems, it's
+critical to recognize that one thing that
+
+9
+00:00:45,465 --> 00:00:50,662
+players may do is game the system. They
+may turn the tables on you and do
+
+10
+00:00:50,662 --> 00:00:55,767
+something that you never expected and
+never intended. Sometimes this can be
+
+11
+00:00:55,767 --> 00:01:01,224
+dangerous not just for you, but for them.
+Nicole Lazzaro, the game designer who
+
+12
+00:01:01,224 --> 00:01:06,107
+developed the concept of four types of
+fun, gives a great example in her
+
+13
+00:01:06,107 --> 00:01:11,216
+presentations, which she calls,
+Gamification Can Kill. And the example is
+
+14
+00:01:11,216 --> 00:01:17,276
+the on ramp to the San Francisco Bay
+bridge, maybe it's the Golden Gate bridge.
+
+15
+00:01:17,276 --> 00:01:23,107
+But, it's one of the bridges in San
+Francisco, California. And like many urban
+
+16
+00:01:23,107 --> 00:01:29,300
+transit systems, they have a system for
+pricing that's congestion based. The price
+
+17
+00:01:29,300 --> 00:01:35,133
+goes up during rush hour to try to
+encourage people to go across the bridge
+
+18
+00:01:35,133 --> 00:01:40,687
+at less busy times. So you see here at
+six:59, I think this must be PM it's six
+
+19
+00:01:40,687 --> 00:01:45,696
+bucks to go over the bridge but it's
+seven, a minute later it's only four bucks
+
+20
+00:01:45,696 --> 00:01:50,017
+to go over the bridge. Great, incentive
+systems, you call it a gamified system,
+
+21
+00:01:50,017 --> 00:01:54,636
+you can call it behavioral economics. It
+suddenly encourages people to drive during
+
+22
+00:01:54,636 --> 00:02:00,228
+off hours. What's the problem? The problem
+as points out, is if you drive towards the
+
+23
+00:02:00,228 --> 00:02:05,197
+bridge at six:59 p.m., you will see a
+whole bunch of people swerving off the
+
+24
+00:02:05,197 --> 00:02:10,429
+road. Trying to park on the side because
+they know that if they wait just a minute
+
+25
+00:02:10,429 --> 00:02:14,984
+or two more to go over the bridge it's
+$two less. And the problem is what this is
+
+26
+00:02:14,984 --> 00:02:19,551
+incentivizing people to do is to swerve
+dangerously off t h e road in ways that
+
+27
+00:02:19,551 --> 00:02:25,521
+might cause them to get in an accident.
+And so that's the point about gamification
+
+28
+00:02:25,521 --> 00:02:30,542
+can kill. We have to realize how people
+are going to respond to do these systems.
+
+29
+00:02:30,542 --> 00:02:34,674
+They may very well react to the prompts
+that are given not necessarily in the ways
+
+30
+00:02:34,674 --> 00:02:39,768
+that are anticipated or even too much in
+the way that they, that are, the ways that
+
+31
+00:02:39,768 --> 00:02:45,091
+are anticipated and that could be
+dangerous. Now, one dimension of this is a
+
+32
+00:02:45,091 --> 00:02:50,079
+recognition that sometimes people will
+cheat. That sometimes people will figure
+
+33
+00:02:50,079 --> 00:02:55,098
+out a way to achieve their own aims in the
+system that are not the aims of the game
+
+34
+00:02:55,098 --> 00:03:00,079
+designer. Maybe there's some flaw in the
+game that lets people accumulate vast
+
+35
+00:03:00,079 --> 00:03:05,061
+numbers of points for a small amount of
+work. And if that option is there, many
+
+36
+00:03:05,061 --> 00:03:10,007
+people will take it. Now, as I talked
+about, part of what makes a game a game is
+
+37
+00:03:10,007 --> 00:03:14,036
+that the players have to voluntarily
+accept the rules of the game. That often,
+
+38
+00:03:14,036 --> 00:03:18,081
+there are opportunities to cheat in the
+game but we don't do them, because if we
+
+39
+00:03:18,081 --> 00:03:23,005
+do, then we're not following the rules,
+we're not playing the game, we're just
+
+40
+00:03:23,005 --> 00:03:27,039
+doing something else entirely. And the
+people around us, our opponent, the other
+
+41
+00:03:27,039 --> 00:03:31,073
+participants, won't even recognize that
+we're playing the game. But in gamified
+
+42
+00:03:31,073 --> 00:03:36,024
+systems, where we're dealing with people
+interacting with computer based software
+
+43
+00:03:36,024 --> 00:03:41,018
+systems. Often even though they're in a
+social context, they're interacting
+
+44
+00:03:41,018 --> 00:03:46,014
+individually, it's often easy for people
+to feel like the game that they are
+
+45
+00:03:46,014 --> 00:03:51,049
+playing is one that allows them to. Bend
+the rules or make their own rules in ways
+
+46
+00:03:51,049 --> 00:03:56,267
+that the game designer would consider
+cheating. Interestingly enough well
+
+47
+00:03:56,267 --> 00:04:00,574
+designed games that have social elements
+tend to see this last because the social
+
+48
+00:04:00,574 --> 00:04:04,779
+pressure, whether explicit or implicit, is
+enough to get people not to cheat even in
+
+49
+00:04:04,779 --> 00:04:09,106
+ways that they could. But even there,
+there is the potential if the rewards are
+
+50
+00:04:09,106 --> 00:04:13,761
+great enough or the incentive is great
+enough that people may try to tackle
+
+51
+00:04:13,761 --> 00:04:17,593
+corners. And this is something that
+depending on the nature of the sys tem
+
+52
+00:04:17,598 --> 00:04:21,588
+maybe the game designer will just live
+with, or maybe it's something that the
+
+53
+00:04:21,588 --> 00:04:26,253
+game needs to be expressly built with the
+anticipation that people act that way.
+
+54
+00:04:26,253 --> 00:04:30,651
+This is a big reason why iteration and
+play testing is so critical in designing
+
+55
+00:04:30,651 --> 00:04:35,663
+games as well as in effective gamification
+design because you can never be sure what
+
+56
+00:04:35,663 --> 00:04:39,972
+exactly people are going to do until you
+get them in and see them actually doing
+
+57
+00:04:39,972 --> 00:04:45,113
+it. In some cases though, cheating may be
+a virtue. It may actually help achieve the
+
+58
+00:04:45,113 --> 00:04:50,352
+results that the game designer is thinking
+about. How can that be? Well, let me give
+
+59
+00:04:50,352 --> 00:04:55,793
+you one example. James Gardner is an
+innovation designer who now works for a
+
+60
+00:04:55,793 --> 00:05:01,645
+company called Spigot that makes a
+gamified prediction market system that can
+
+61
+00:05:01,645 --> 00:05:06,389
+be used in companies to develop
+innovations by creating contests where
+
+62
+00:05:06,389 --> 00:05:11,702
+people bet real money or virtual goods
+that potentially are translatable to real
+
+63
+00:05:11,702 --> 00:05:16,970
+money on new ideas. And, he's been part of
+teams that have developed these kinds of
+
+64
+00:05:16,970 --> 00:05:21,401
+systems in many different context,
+originally in England. He famously
+
+65
+00:05:21,401 --> 00:05:26,586
+developed the idea street program at the
+Department of Welfare and Pensions in the
+
+66
+00:05:26,586 --> 00:05:31,093
+UK. But before that, he did it for Loyd's
+Bank. And something interesting happened
+
+67
+00:05:31,093 --> 00:05:35,038
+at Loyd's Bank where they created the
+innovation market. So, this was a market
+
+68
+00:05:35,038 --> 00:05:39,238
+place where you came up with ideas that
+would be helpful innovations for the bank
+
+69
+00:05:39,238 --> 00:05:43,681
+and people could buy and sell those
+innovations. And people could get together
+
+70
+00:05:43,681 --> 00:05:47,928
+in teams to develop the innovations and
+the market we determine which were the
+
+71
+00:05:47,928 --> 00:05:52,393
+more popular and more successful ones and
+then the company would take the more
+
+72
+00:05:52,393 --> 00:05:56,460
+successful ones and try and implement
+them. And they found in this a lot of
+
+73
+00:05:56,460 --> 00:06:00,570
+cases, lots of amazing results in
+implementing the ideas that bubble to the
+
+74
+00:06:00,570 --> 00:06:05,022
+top through this production market place.
+But something interesting happened at
+
+75
+00:06:05,022 --> 00:06:09,929
+Loyd's when they applied this Gamified
+System Insider Trading. People realized
+
+76
+00:06:09,929 --> 00:06:16,082
+that they could find the good ideas and go
+and join up with those groups and be able
+
+77
+00:06:16,082 --> 00:06:21,522
+to buy and sell with th e ideas that were
+rising and successful in the syst 'em. In
+
+78
+00:06:21,522 --> 00:06:25,880
+financial markets, insider trading is a
+danger, it's cheating. It's a form of
+
+79
+00:06:25,880 --> 00:06:30,508
+fraud because it's using information that
+you have that other people don't have. It
+
+80
+00:06:30,508 --> 00:06:34,822
+undermines trust in the financial markets,
+that's a reason that it's often
+
+81
+00:06:34,822 --> 00:06:39,201
+prosecuted. But in this gamified system,
+this kinda virtual insider trading was not
+
+82
+00:06:39,201 --> 00:06:43,861
+a bug but actually a feature. Because it
+was a way of strengthening and growing the
+
+83
+00:06:43,861 --> 00:06:48,476
+teams around the great ideas. And it was a
+way of reinforcing, providing additional
+
+84
+00:06:48,476 --> 00:06:53,347
+signal value around the ideas that people
+thought had great potential which is what
+
+85
+00:06:53,347 --> 00:06:58,121
+the game applied system was about. It was
+not about making money for people or
+
+86
+00:06:58,121 --> 00:07:03,589
+making money for companies that were
+issuing securities, it was about finding
+
+87
+00:07:03,589 --> 00:07:09,260
+and developing great ideas and reinforcing
+them. So, the gaming of the game by the
+
+88
+00:07:09,260 --> 00:07:14,549
+participants as Gardner realized was
+actually something that helped achieve
+
+89
+00:07:14,549 --> 00:07:21,311
+that result. In all of these cases again,
+the critical piece is to recognize that
+
+90
+00:07:21,311 --> 00:07:26,389
+people will act in unpredictable,
+sometimes spontaneous ways in response to
+
+91
+00:07:26,389 --> 00:07:31,256
+the signals that the system produces. And
+so part of game design is building in
+
+92
+00:07:31,256 --> 00:07:36,053
+structures that first of all, ensure that
+those activities, if there aren't
+
+93
+00:07:36,053 --> 00:07:41,162
+anticipated, don't destroy the game. Don't
+create imbalances or otherwise make the
+
+94
+00:07:41,162 --> 00:07:46,062
+game unplayable or undesirable for a large
+segment of the players. And ideally,
+
+95
+00:07:46,253 --> 00:07:51,538
+create systems so that they help the game.
+So that even though people aren't doing
+
+96
+00:07:51,538 --> 00:07:56,916
+what the game designer expressly told them
+to, they're exercising their autonomy and
+
+97
+00:07:56,916 --> 00:08:01,997
+therefore, feeling more intrinsically
+motivated in the activity and doing things
+
+98
+00:08:01,997 --> 00:08:08,032
+that get to the same result that the
+gamification system was originally
+
+99
+00:08:08,032 --> 00:08:10,094
+designed to accomplish.

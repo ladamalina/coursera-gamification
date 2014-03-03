@@ -1,0 +1,510 @@
+
+1
+00:00:00,000 --> 00:00:05,037
+I've thrown a lot at you in the course so
+far. And truth be told, if this were say,
+
+2
+00:00:05,037 --> 00:00:10,088
+an enterprise workshop on gamification, I
+would have stopped after the last section.
+
+3
+00:00:10,088 --> 00:00:16,032
+You've got all the basic concepts. You've
+got a design framework. You've got all of
+
+4
+00:00:16,032 --> 00:00:21,014
+the components necessary to apply
+gamification successfully. But because
+
+5
+00:00:21,014 --> 00:00:26,066
+this is a course, I want to go deeper. I
+want to push you to think about some of
+
+6
+00:00:26,066 --> 00:00:32,045
+the conceptual issues around gamification
+and some of the big, deep questions about
+
+7
+00:00:32,045 --> 00:00:37,097
+its future and about different ways to
+implement it. And so, this is a good point
+
+8
+00:00:37,097 --> 00:00:43,047
+in the course to take stock. At a high
+level about just what gamification is.
+
+9
+00:00:43,047 --> 00:00:49,060
+Because it turns out that, for many of the
+reasons that I've talked about, there are
+
+10
+00:00:49,060 --> 00:00:54,067
+really two different kinds of
+gamification. Two different things that
+
+11
+00:00:54,067 --> 00:00:59,056
+people mean when they use that word. Both,
+to my mind, are true examples of
+
+12
+00:00:59,056 --> 00:01:04,085
+gamification and there certainly are
+plenty of places which where they overlap,
+
+13
+00:01:04,085 --> 00:01:10,041
+some of which I'll illustrate but there
+are very different answers that you get to
+
+14
+00:01:10,041 --> 00:01:15,094
+about gamification depending on which of
+these two models you adhere to and people
+
+15
+00:01:15,094 --> 00:01:21,017
+use the same word gamification for both of
+them and don't necessarily think about.
+
+16
+00:01:21,017 --> 00:01:26,033
+Which one they're following. The best way
+that I can think of to divide these two
+
+17
+00:01:26,033 --> 00:01:31,041
+camps is to ask you the following
+question. Is this a game? This slot
+
+18
+00:01:31,041 --> 00:01:38,015
+machine here which I've showed you before.
+Is it a game? Well, if you use the
+
+19
+00:01:38,015 --> 00:01:44,059
+definitions of games that I gave you early
+on in the in the course, probably not.
+
+20
+00:01:44,059 --> 00:01:50,063
+There's no sense of a game like or play
+like attitude. There is no sense of
+
+21
+00:01:50,063 --> 00:01:57,028
+meaningful choices here. The slot machine
+is just a big random number generator. You
+
+22
+00:01:57,028 --> 00:02:03,020
+pull the handle. That's it. And it either
+gives you money or it doesn't. And whether
+
+23
+00:02:03,020 --> 00:02:09,018
+it gives you money or not is not based on
+your skill and your play, it's just based
+
+24
+00:02:09,018 --> 00:02:14,074
+on a random, determination by the slot
+machine itself. So, fundamentally, the
+
+25
+00:02:14,074 --> 00:02:20,008
+slot machine is no different then just
+flipping a coin. Time after time after
+
+26
+00:02:20,008 --> 00:02:25,019
+time and seeing if you get heads or ta ils
+and that's not really a game, is it? On
+
+27
+00:02:25,019 --> 00:02:31,039
+the other hand. Many of the examples we
+have of social games, on social networks
+
+28
+00:02:31,039 --> 00:02:37,010
+online, as well as gamification, as I've
+talked about, look a lot like the slot
+
+29
+00:02:37,010 --> 00:02:43,004
+machine. They create engagement loops
+which pull in the user by the potential of
+
+30
+00:02:43,004 --> 00:02:48,082
+a reward. They involve surprise. They
+involve trying to find a pattern. And many
+
+31
+00:02:48,082 --> 00:02:54,098
+people find them powerfully engaging in
+many of the same ways that they find games
+
+32
+00:02:54,098 --> 00:03:00,080
+powerfully engaging. So there's something
+game like. About the slot machine, and we
+
+33
+00:03:00,080 --> 00:03:06,007
+call it a game of chance. But that's very
+different from most of the types of games
+
+34
+00:03:06,007 --> 00:03:11,131
+that I described early on in defining what
+makes something truly game-like. And I
+
+35
+00:03:11,131 --> 00:03:16,081
+think this is indicative of a broader
+split within the notion of gamification.
+
+36
+00:03:16,081 --> 00:03:23,002
+There really are two different things
+going on when we use the term. One, thing
+
+37
+00:03:23,002 --> 00:03:29,037
+could be summarized as being about doing.
+Gamification is about doing things using
+
+38
+00:03:29,037 --> 00:03:35,087
+games and game-like structures. The other
+approach, I can over-simplify by saying
+
+39
+00:03:35,087 --> 00:03:41,074
+it's about feeling. It's about not
+necessarily what you do, but how you feel
+
+40
+00:03:41,074 --> 00:03:47,023
+about it. What's going on inside you? And
+this leads to a variety of different,
+
+41
+00:03:47,042 --> 00:03:53,297
+decisions that get made. Implicitly in
+which camp you're in, so where do you draw
+
+42
+00:03:53,297 --> 00:03:58,055
+inspirations from if you're focussing on
+doing things or getting other people to do
+
+43
+00:03:58,055 --> 00:04:03,070
+things then you'll draw from disciplines
+like marketing and economics. Disciplines
+
+44
+00:04:03,070 --> 00:04:08,054
+that are about measuring behavior and
+thinking about craving structures that
+
+45
+00:04:08,054 --> 00:04:12,818
+encourage people to behave in certain
+ways. On the other hand if you come from
+
+46
+00:04:12,818 --> 00:04:16,972
+the feelings aren't we going to look more
+to the things like game design and
+
+47
+00:04:16,972 --> 00:04:21,634
+cognitive psychology. These disciplines
+that are about whats going on makes
+
+48
+00:04:21,634 --> 00:04:26,455
+someone interested in something, what is
+there more deeply then. A surface
+
+49
+00:04:26,455 --> 00:04:31,717
+phenomenon that they're experiencing. And,
+we've already talked about both of these
+
+50
+00:04:31,717 --> 00:04:36,549
+in the class, because the class is
+designed to give you both perspectives and
+
+51
+00:04:36,549 --> 00:04:41,320
+show where they overlap. Similarly, if
+you're thinking in the first cam p, you'll
+
+52
+00:04:41,320 --> 00:04:46,704
+talk about incentives, things that create
+some mechanism to pull someone to an
+
+53
+00:04:46,704 --> 00:04:51,506
+activity. The other camp, you'll talk
+about experiences. What the person
+
+54
+00:04:51,506 --> 00:04:56,171
+encounters, how they experience certain
+activities again, the incentive is
+
+55
+00:04:56,171 --> 00:05:02,606
+something outside of them. The experience
+is something inside them. The next one is
+
+56
+00:05:02,606 --> 00:05:09,088
+do we talk about satisfying people's
+needs, people's desires, people's wants,
+
+57
+00:05:09,088 --> 00:05:14,973
+or do we talk about fun? That term that,
+as we talked about, we can give meaning to
+
+58
+00:05:14,973 --> 00:05:20,411
+and we can think systematically about how
+to design for fun, but it's something more
+
+59
+00:05:20,411 --> 00:05:26,128
+than just meeting basic needs or even
+meeting higher level kinds of needs that
+
+60
+00:05:26,128 --> 00:05:30,978
+people have. There's something again
+experiential and indivisible what this
+
+61
+00:05:30,978 --> 00:05:36,396
+notion of fun. If you are in the first
+camp, you will gravitate more towards game
+
+62
+00:05:36,396 --> 00:05:41,649
+elements, which are talked about in great
+detail, and I say here inductive, in other
+
+63
+00:05:41,649 --> 00:05:46,716
+words, the idea is. Building up from the
+bottom, little bits and pieces of games to
+
+64
+00:05:46,716 --> 00:05:50,910
+move towards the more integrated
+experience. If you take the other
+
+65
+00:05:50,910 --> 00:05:55,355
+approach, you will start with game
+thinking which is more deductive. Starting
+
+66
+00:05:55,355 --> 00:06:00,216
+with general principals about how games
+work and using those to go down to the
+
+67
+00:06:00,216 --> 00:06:05,449
+more specific examples. If you are in the
+first camp you'll think more about status.
+
+68
+00:06:05,449 --> 00:06:10,588
+If you're in the second camp you'll think
+more about meaning. And I've talked about
+
+69
+00:06:10,588 --> 00:06:15,251
+both of these in the psychological
+section. The appeal of status but also
+
+70
+00:06:15,251 --> 00:06:20,816
+it's dangers. First camp is PBLs, points,
+badges, leader boards. Second camp is
+
+71
+00:06:20,816 --> 00:06:26,663
+gamification as puzzles, as learning, as
+challenges which can be represented in
+
+72
+00:06:26,663 --> 00:06:31,672
+systems involving game elements and
+points, badges and leader boards but
+
+73
+00:06:31,672 --> 00:06:36,388
+typically involve a different kind of
+approach. An approach that puts the
+
+74
+00:06:36,388 --> 00:06:41,753
+challenges and the puzzles and the
+creativity at the center rather than the
+
+75
+00:06:41,753 --> 00:06:47,645
+structural or visible elements. Rewards on
+the one hand, I've talked in great detail
+
+76
+00:06:47,645 --> 00:06:51,784
+about reward design. Especially in the
+behaviorist tradition of psychology.
+
+77
+00:06:51,784 --> 00:06:57,961
+Progression, on the other hand. Mastery.
+Competence. Not neces sarily about a
+
+78
+00:06:57,961 --> 00:07:03,946
+reward. More about the journey. And
+finally and in summary. The first camp is
+
+79
+00:07:03,946 --> 00:07:09,622
+about making users do things. The second
+camp is about making players awesome.
+
+80
+00:07:09,622 --> 00:07:15,721
+Making users do things should mean making
+them do things that they want to do on
+
+81
+00:07:15,721 --> 00:07:21,295
+their own. But, somehow don't get to.
+There are things that are beneficial for
+
+82
+00:07:21,295 --> 00:07:26,828
+the player but the player needs some
+motivational help. To push them along that
+
+83
+00:07:26,828 --> 00:07:31,417
+path. It doesn't mean, necessarily forcing
+someone or tricking someone into doing
+
+84
+00:07:31,417 --> 00:07:36,570
+something that they never really wanted to
+do in the first place. Making players
+
+85
+00:07:36,570 --> 00:07:42,300
+awesome is about figuring out in the first
+instance. What it is that will help that
+
+86
+00:07:42,300 --> 00:07:48,361
+someone achieve their full potential and
+focusing more on that, focusing on the
+
+87
+00:07:48,361 --> 00:07:54,241
+users goal than the external goals of some
+organization or company [inaudible] those
+
+88
+00:07:54,241 --> 00:08:00,761
+users. Now it should be evident by now.
+That I tend to feel. Much more comfortable
+
+89
+00:08:00,761 --> 00:08:07,528
+with this camp here on the right with the
+more game based approach to gamification.
+
+90
+00:08:07,528 --> 00:08:13,142
+But, I think it's important. And
+essential, really to also understand the
+
+91
+00:08:13,142 --> 00:08:18,215
+one on the left. Many game designers tend
+to be very dismissive or critical of
+
+92
+00:08:18,215 --> 00:08:23,230
+gamification. And we're going to look in
+detail at some of those critiques later on
+
+93
+00:08:23,230 --> 00:08:28,072
+in the course. And I tend to think that
+while their critiques do have some bite,
+
+94
+00:08:28,072 --> 00:08:32,342
+the notion that gamification is
+fundamentally flawed. And looking for
+
+95
+00:08:32,342 --> 00:08:37,438
+example at game elements as opposed to
+more integrative structures of game
+
+96
+00:08:37,438 --> 00:08:42,472
+thinking, is fundamentally misguided. I
+tend to take issue with that because, as
+
+97
+00:08:42,472 --> 00:08:47,239
+we've seen, there are lots of great
+examples of using the more doing based
+
+98
+00:08:47,239 --> 00:08:52,623
+approach to gamification to get to
+valuable results for companies and for
+
+99
+00:08:52,623 --> 00:08:58,364
+users or players of the gamified system.
+So, both perspectives tend to be valuable.
+
+100
+00:08:58,364 --> 00:09:03,949
+And, in a specific case, you may find one
+or the other is more helpful. But it's
+
+101
+00:09:03,949 --> 00:09:09,661
+important to, as a starting point, be
+aware of these two approaches and be aware
+
+102
+00:09:09,661 --> 00:09:13,091
+of where they come together and where they
+diverge.

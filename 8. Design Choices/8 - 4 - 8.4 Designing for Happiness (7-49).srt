@@ -1,0 +1,410 @@
+
+1
+00:00:00,000 --> 00:00:08,085
+How can gamification be applied in a way
+that makes people happy? Fulfilled?
+
+2
+00:00:08,085 --> 00:00:13,071
+Flourishing individuals? To answer that
+question, we need to look to the
+
+3
+00:00:13,071 --> 00:00:18,085
+discipline of positive psychology.
+Positive psychology was developed most
+
+4
+00:00:18,085 --> 00:00:24,028
+notably by Martin Seligman who's at the
+University of Pensylvania and also by
+
+5
+00:00:24,028 --> 00:00:30,025
+Mihaly Csikszentmihalyi. And I put his
+name up there on the slide because that's
+
+6
+00:00:30,025 --> 00:00:35,075
+the only way that you're going to be able
+to spell it. And, the idea of positive
+
+7
+00:00:35,075 --> 00:00:41,018
+psychology is that psychology generally is
+about pathology. Is about what happens
+
+8
+00:00:41,018 --> 00:00:46,014
+when something goes wrong. Someone has
+some abnormal mental situation that
+
+9
+00:00:46,014 --> 00:00:51,053
+doesn't allow them to think straight or
+they're depressed. Or they are psychotic
+
+10
+00:00:51,053 --> 00:00:56,054
+in some way. And the question that
+Seligman started asking was, well, why
+
+11
+00:00:56,054 --> 00:01:02,028
+don't we look at the opposite? Why don't
+we look at what makes people happy and
+
+12
+00:01:02,028 --> 00:01:08,006
+fulfilled? Why don't we look at what
+things it takes to make people feel better
+
+13
+00:01:08,006 --> 00:01:13,062
+about themselves and to feel like they
+have authentically happy, flourishing
+
+14
+00:01:13,062 --> 00:01:18,093
+lives, as opposed to just what happens
+when something goes wrong. And so that's
+
+15
+00:01:18,093 --> 00:01:24,385
+what the discipline of positive psychology
+looks at and it's the basis of large
+
+16
+00:01:24,385 --> 00:01:29,485
+volumes of research into many different
+areas. It turns out that much of this is
+
+17
+00:01:29,485 --> 00:01:34,080
+very relevant to understanding the
+implication of games and thus by extension
+
+18
+00:01:34,080 --> 00:01:39,096
+certain kinds of gamification. Jane
+McGonigal in her book, Reality is Broken,
+
+19
+00:01:39,096 --> 00:01:45,056
+points to Seligman's work and in some of
+her later presentations points to how
+
+20
+00:01:45,056 --> 00:01:50,080
+games directly can address all of the
+elements of his framework for human
+
+21
+00:01:50,080 --> 00:01:56,040
+flourishing, which he calls PERMA, which
+stands for Positive emotions, Engagement,
+
+22
+00:01:56,040 --> 00:02:01,085
+Relationships, Meaning, and Achievement.
+And I won't go through each of them in
+
+23
+00:02:01,085 --> 00:02:07,073
+detail, but it should be obvious how each
+of these elements, which Seligman says are
+
+24
+00:02:07,073 --> 00:02:13,101
+the five core aspects of being a
+fulfilled, flourishing individual. Not
+
+25
+00:02:13,101 --> 00:02:18,299
+just happy in a kind of light short term
+sense but truly successful as an
+
+26
+00:02:18,299 --> 00:02:24,337
+individual. It turns out that all five of
+these elements clearly tie i nto things
+
+27
+00:02:24,337 --> 00:02:30,302
+that we've discussed as core elements of
+games. Most of which, gamification, if
+
+28
+00:02:30,302 --> 00:02:36,307
+it's done right and thoughtfully, has some
+opportunity to tap into. So, that's the
+
+29
+00:02:36,307 --> 00:02:42,045
+high level way that gamification and games
+can actually promote human flourishing.
+
+30
+00:02:42,045 --> 00:02:47,733
+But I want to specifically talk about the
+concept of flow, which is what the
+
+31
+00:02:47,733 --> 00:02:53,611
+Csikszentmihalyi's major contribution
+because that ties in even more directly to
+
+32
+00:02:53,611 --> 00:02:59,154
+some of the game design concepts that I
+have discussed around gamification. The
+
+33
+00:02:59,154 --> 00:03:04,948
+idea of flow is that there's a state that
+we sometimes get into where we are so
+
+34
+00:03:04,948 --> 00:03:11,784
+engaged in what we are doing. That, time
+seems to lose its meaning. We lose our
+
+35
+00:03:11,784 --> 00:03:18,503
+self in the activity. We are fully and
+completely engaged to the fullest our of
+
+36
+00:03:18,503 --> 00:03:24,613
+our abilities. It's a state that is
+wonderful. And it's a state, interestingly
+
+37
+00:03:24,613 --> 00:03:29,991
+enough, that occurs at least as often, in
+work activities as it does in
+
+38
+00:03:29,991 --> 00:03:35,211
+entertainment or play activities. And
+Csikszentmihalyi started many years ago to
+
+39
+00:03:35,211 --> 00:03:40,173
+investigate this kind of flow, they did
+all sorts of situations. In musicians and
+
+40
+00:03:40,173 --> 00:03:45,431
+rock climbers, and financial analysts,
+lots of people who have the same
+
+41
+00:03:45,431 --> 00:03:50,921
+characteristic kind of experience. And he
+developed a set of theories around what it
+
+42
+00:03:50,921 --> 00:03:55,797
+takes to get into the flow state. Now,
+it's not something that you can do
+
+43
+00:03:55,797 --> 00:04:01,095
+automatically and directly. You can't say,
+all right, I'm going to go into flow now.
+
+44
+00:04:01,095 --> 00:04:06,523
+It's something that happens organically
+when an activity has certain
+
+45
+00:04:06,523 --> 00:04:12,501
+characteristics that are at a sufficient
+level for that individual. But we can
+
+46
+00:04:12,501 --> 00:04:18,540
+think about what the characteristics are
+of allowing flow to occur in a way that's
+
+47
+00:04:18,540 --> 00:04:26,100
+useful for games and gamification. So,
+Csikszentmihalyi presents a chart that
+
+48
+00:04:26,100 --> 00:04:33,588
+looks at over time. What is the difficulty
+level of a certain activity? How
+
+49
+00:04:33,588 --> 00:04:40,926
+challenging is it? And the idea here is
+that, if the activity is too difficult up
+
+50
+00:04:40,926 --> 00:04:48,615
+here, it creates anxiety. It's too tough,
+we can't succeed at it, it scares us off.
+
+51
+00:04:48,615 --> 00:04:54,929
+We get anxious about the activity. On the
+other hand, if it's too easy, we get
+
+52
+00:04:54,929 --> 00:05:01,909
+bored. Something that is way below o ur
+activities is a sure recipe for boredom.
+
+53
+00:05:01,909 --> 00:05:08,340
+In the middle is what Csikszentmihalyi
+talks about as the flow channel. So, if we
+
+54
+00:05:08,340 --> 00:05:15,263
+stay between these two boundaries and have
+an activity that over time is constantly
+
+55
+00:05:15,263 --> 00:05:21,677
+not too easy, not too hard, that's where
+we have the opportunity for flow.
+
+56
+00:05:21,677 --> 00:05:27,688
+Specially if our movement through this
+channel is variable. If it's an
+
+57
+00:05:27,688 --> 00:05:34,175
+interesting activity that maintains its
+challenge, it's not something that we just
+
+58
+00:05:34,175 --> 00:05:40,054
+get on autopilot and do. The challenge
+ramps up as we move along but the system
+
+59
+00:05:40,054 --> 00:05:46,143
+is designed to keep adapting so we never
+go either too hard or too easy. So, that's
+
+60
+00:05:46,143 --> 00:05:51,409
+a key to achieving this notion of flow.
+And therefore in game design, game
+
+61
+00:05:51,409 --> 00:05:57,121
+designers think a lot about tuning the
+system so that for players it's neither
+
+62
+00:05:57,121 --> 00:06:03,811
+too hard nor too easy and yet it keeps
+inter it remains interesting and variable
+
+63
+00:06:03,811 --> 00:06:09,648
+throughout the process. To get to a few
+more aspects of flow that Csikszentmihalyi
+
+64
+00:06:09,648 --> 00:06:13,964
+talks about, that are relevant here for
+games and gamification, he says, flow
+
+65
+00:06:13,964 --> 00:06:18,476
+occurs when there are clear goals. And
+we've talked about this in terms of the
+
+66
+00:06:18,476 --> 00:06:23,430
+fundamental definition of games and we've
+talked about it in terms of the first
+
+67
+00:06:23,430 --> 00:06:28,452
+design criteria for designing a gamified
+system. He, second he says, there needs to
+
+68
+00:06:28,452 --> 00:06:32,966
+be a balance between perceived challenges
+and skills. That's the essence of the
+
+69
+00:06:32,966 --> 00:06:37,550
+chart I just gave you. But the important
+thing here is to remember that these are
+
+70
+00:06:37,550 --> 00:06:42,899
+perceived challenges and perceived skills.
+The game feels like it's just hard enough.
+
+71
+00:06:42,899 --> 00:06:47,538
+Whether it is in some objective way,
+there's really no way to tell. The
+
+72
+00:06:47,538 --> 00:06:52,693
+question is, how do you feel about the
+experience? And is it tuned in a way that
+
+73
+00:06:52,693 --> 00:06:57,539
+you feel like it remains habitually
+interesting. And third, I've talked about
+
+74
+00:06:57,539 --> 00:07:02,655
+this a lot, feedback. Clear and immediate
+feedback. And this is not feedback in the
+
+75
+00:07:02,655 --> 00:07:07,773
+pure behaviorist sense of you're just
+learning from the experience and moving
+
+76
+00:07:07,773 --> 00:07:12,558
+along and creating an association,
+creating some reinforcement. This is
+
+77
+00:07:12,558 --> 00:07:17,879
+feedback allowing you to get to the point
+where you feel totally immersed in the
+
+78
+00:07:17,879 --> 00:07:22,819
+experie nce and have that wonderful
+experience of flow. So, if you can
+
+79
+00:07:22,819 --> 00:07:29,375
+gamified systems to push more in this
+direction, to activate the five areas of
+
+80
+00:07:29,375 --> 00:07:36,429
+flourishing that Seligman talks about and
+to maintain the requirements for flow that
+
+81
+00:07:36,429 --> 00:07:42,871
+Csikszentmihalyi talks about, you will
+create a system that is deeper and more
+
+82
+00:07:42,871 --> 00:07:50,070
+rewarding than any kind of extrinsic
+external motivator can ever be.

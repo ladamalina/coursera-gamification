@@ -1,0 +1,470 @@
+
+1
+00:00:00,680 --> 00:00:04,520
+Now that I've introduced the concept of 
+fun, let's look more systematically 
+
+2
+00:00:04,520 --> 00:00:08,240
+because knowing that there are many 
+different things that can produce fun 
+
+3
+00:00:08,240 --> 00:00:12,140
+doesn't necessarily mean tell us as much 
+as we need to know to apply the concept 
+
+4
+00:00:12,140 --> 00:00:18,410
+of fun in either game design or 
+gamification. 
+
+5
+00:00:18,410 --> 00:00:23,301
+Nicole Lazzaro is a researcher and game 
+designer who has a firm called XEOesign, 
+
+6
+00:00:23,301 --> 00:00:27,550
+and she has specialized in emotion in 
+games. 
+
+7
+00:00:27,550 --> 00:00:33,17
+She's actually done foundational research 
+tracking people's eyes and faces and 
+
+8
+00:00:33,17 --> 00:00:37,637
+looking at what in games actually 
+produces fun, and you can find out more 
+
+9
+00:00:37,637 --> 00:00:44,80
+of her research on her website. 
+I put a link here to an image file that 
+
+10
+00:00:44,80 --> 00:00:48,636
+provides much more detail, as well as the 
+original white paper that describes her 
+
+11
+00:00:48,636 --> 00:00:53,546
+findings. 
+Lazzaro talks about four keys to fun, 
+
+12
+00:00:53,546 --> 00:00:58,878
+four different kinds of fun that are 
+general categories that appear in any 
+
+13
+00:00:58,878 --> 00:01:03,670
+kind of game-like context. 
+So, what are they? 
+
+14
+00:01:03,670 --> 00:01:08,749
+The first is easy fun. 
+Fun that's about blowing off steam. 
+
+15
+00:01:08,749 --> 00:01:13,321
+Just chilling out, goofing off, hanging 
+out with your friends. 
+
+16
+00:01:13,321 --> 00:01:18,40
+It doesn't have to be taxing. 
+In fact, you don't want it to be taxing. 
+
+17
+00:01:18,40 --> 00:01:23,10
+It's fun just because it's casual, it's 
+light, it's nice. 
+
+18
+00:01:23,10 --> 00:01:28,110
+It's fun because it's easy. 
+Second category is just the opposite. 
+
+19
+00:01:28,110 --> 00:01:32,730
+It's hard fun. 
+So, how can fun be hard? 
+
+20
+00:01:32,730 --> 00:01:38,358
+Well, as I've talked about challenges, 
+problem solving, mastery, completion, 
+
+21
+00:01:38,358 --> 00:01:45,80
+overcoming obstacles, all of these things 
+are fun in their own right. 
+
+22
+00:01:45,80 --> 00:01:47,528
+So, we think of those things as fun 
+because the fun represents 
+
+23
+00:01:47,528 --> 00:01:51,782
+accomplishment. 
+It represents overcoming something and 
+
+24
+00:01:51,782 --> 00:01:57,410
+that's what makes the activity fun if 
+we're able to reach that plateau. 
+
+25
+00:01:57,410 --> 00:02:02,980
+So, second category is hard fun. 
+Third category is people fun. 
+
+26
+00:02:02,980 --> 00:02:05,900
+I guess I underlined the other one so I 
+underline easy as well. 
+
+27
+00:02:05,900 --> 00:02:11,997
+The fun of interacting with others, the 
+fun of working together on a team. 
+
+28
+00:02:11,997 --> 00:02:16,536
+The fun of socializing, fun that requires 
+other people. 
+
+29
+00:02:16,536 --> 00:02:20,956
+Now, that could wind up being hard fun or 
+easy fun as well, but this differentiates 
+
+30
+00:02:20,956 --> 00:02:26,440
+out the aspect of that fun that comes 
+from the social interaction. 
+
+31
+00:02:26,440 --> 00:02:30,160
+And finally, there is what she calls 
+serious fun. 
+
+32
+00:02:30,160 --> 00:02:32,700
+Well, fun can be hard. 
+How can fun be serious? 
+
+33
+00:02:32,700 --> 00:02:34,840
+I thought serious was the opposite of 
+fun. 
+
+34
+00:02:34,840 --> 00:02:38,594
+Not really. 
+First of all, some kinds of fun tie into 
+
+35
+00:02:38,594 --> 00:02:42,957
+serious real objectives. 
+So, I talked about the fun of giving to 
+
+36
+00:02:42,957 --> 00:02:46,870
+others, there's a fun in doing things 
+that are meaningful. 
+
+37
+00:02:46,870 --> 00:02:50,250
+There's a fun in doing things that are 
+good for the planet, good for the family, 
+
+38
+00:02:50,250 --> 00:02:54,788
+good for your community. 
+There is also a fun in doing things that 
+
+39
+00:02:54,788 --> 00:02:58,922
+have a meaning for you. 
+So, you recall that when I talked about 
+
+40
+00:02:58,922 --> 00:03:03,732
+some of the aspects of games, the magic 
+circle, and so forth, part of what makes 
+
+41
+00:03:03,732 --> 00:03:07,950
+something game-like is that some 
+objective that has no real outside 
+
+42
+00:03:07,950 --> 00:03:15,298
+purpose has a purpose within the game. 
+And it becomes engaging because, in the 
+
+43
+00:03:15,298 --> 00:03:19,620
+game, that's meaningful to you. 
+So, this relates to fun as well. 
+
+44
+00:03:19,620 --> 00:03:24,306
+In particular, when we're talking about 
+things like collections, pulling together 
+
+45
+00:03:24,306 --> 00:03:28,596
+something, getting a whole bunch of 
+badges to unlock some sort of award, is 
+
+46
+00:03:28,596 --> 00:03:34,870
+fun because it's meaningful in some 
+serious way for you at that time. 
+
+47
+00:03:34,870 --> 00:03:38,882
+It may not be something that someone else 
+finds fun or meaningful but for you there 
+
+48
+00:03:38,882 --> 00:03:42,780
+is some objective involved, some meaning 
+involved. 
+
+49
+00:03:42,780 --> 00:03:45,492
+And so, Lazzaro would call that serious 
+fun. 
+
+50
+00:03:45,492 --> 00:03:52,764
+Four different kinds of fun. 
+All different and not necessarily 
+
+51
+00:03:52,764 --> 00:03:57,364
+mutually exclusive. 
+So, the same game may be one or more of 
+
+52
+00:03:57,364 --> 00:04:01,252
+these things. 
+The point is, when we think about fun, we 
+
+53
+00:04:01,252 --> 00:04:05,800
+can't limit ourself to just focusing on 
+one aspect or another. 
+
+54
+00:04:05,800 --> 00:04:09,448
+If we think that fun is just something 
+easy and casual, we'll miss the 
+
+55
+00:04:09,448 --> 00:04:13,416
+opportunity to engage people and make 
+things fun using some of these other 
+
+56
+00:04:13,416 --> 00:04:17,810
+categories. 
+Now, other game designers that come up 
+
+57
+00:04:17,810 --> 00:04:21,812
+with their own frameworks, one of them, 
+that's fairly well-known is from a game 
+
+58
+00:04:21,812 --> 00:04:25,582
+designer named Marc LeBlanc who developed 
+a framework, that I'll talk about a 
+
+59
+00:04:25,582 --> 00:04:30,170
+little bit later, for conceptualizing 
+games. 
+
+60
+00:04:30,170 --> 00:04:33,533
+And as part of that, he came up with 8 
+different kinds of fun, slightly 
+
+61
+00:04:33,533 --> 00:04:37,420
+different template than what Lazarro 
+talked about. 
+
+62
+00:04:37,420 --> 00:04:40,720
+I won't go into these in detail but just 
+to get you thinking about different ways 
+
+63
+00:04:40,720 --> 00:04:46,368
+to structure, thinking about fun. 
+LeBlanc talks about the 8 as sensation, 
+
+64
+00:04:46,368 --> 00:04:52,416
+fantasy, narrative, challenge, 
+fellowship, discovery, expression, and 
+
+65
+00:04:52,416 --> 00:04:57,468
+submission. 
+That last one, submission, is just the 
+
+66
+00:04:57,468 --> 00:05:01,870
+casual kind of fun, just something as a 
+pastime. 
+
+67
+00:05:01,870 --> 00:05:05,835
+And if you really want to dig into what 
+fun means for game design, I recommend to 
+
+68
+00:05:05,835 --> 00:05:10,516
+you a book by Raph Koster, A Theory of 
+Fun for Game Design. 
+
+69
+00:05:10,516 --> 00:05:15,956
+A classic book talking about how game 
+designers can think about fun and apply 
+
+70
+00:05:15,956 --> 00:05:19,530
+it. 
+It's very conversational, gets you 
+
+71
+00:05:19,530 --> 00:05:22,290
+thinking. 
+So, if you're looking for something else 
+
+72
+00:05:22,290 --> 00:05:25,184
+to dig deeper, that would be a good place 
+to go. 
+
+73
+00:05:25,184 --> 00:05:27,993
+Alright, so some takeaways. 
+What do we learn from this extended 
+
+74
+00:05:27,993 --> 00:05:31,866
+discussion about fun? 
+Three things that I would have you take 
+
+75
+00:05:31,866 --> 00:05:36,60
+away from this. 
+So, first is should go without saying, 
+
+76
+00:05:36,60 --> 00:05:40,710
+fun doesn't just happen, it has to be 
+designed. 
+
+77
+00:05:40,710 --> 00:05:44,901
+I'm going to talk later in the course 
+about design frameworks for gamification. 
+
+78
+00:05:44,901 --> 00:05:48,641
+And it's really important to understand 
+that fun is not just something that's out 
+
+79
+00:05:48,641 --> 00:05:52,769
+there in the world. 
+Sometimes, things just happen to be fun. 
+
+80
+00:05:52,769 --> 00:05:56,985
+But if we're talking about making 
+something game-like, about motivating 
+
+81
+00:05:56,985 --> 00:06:01,541
+people to go and use less electricity,or 
+to go and spend more time on your website 
+
+82
+00:06:01,541 --> 00:06:05,961
+or to go and work together on a team to 
+solve a problem on a project at work, we 
+
+83
+00:06:05,961 --> 00:06:10,313
+have to build systems that are expressly 
+designed to unlock these different 
+
+84
+00:06:10,313 --> 00:06:19,83
+aspects of fun. 
+Second is, fun isn't always easy, fun 
+
+85
+00:06:19,83 --> 00:06:26,530
+isn't always simple, fun isn't always a 
+purely happy positive experience. 
+
+86
+00:06:26,530 --> 00:06:31,230
+Fun can be hard, fun can be challenging, 
+fun can be serious. 
+
+87
+00:06:31,230 --> 00:06:34,144
+And we tend to ignore that when we're 
+thinking about fun, we shouldn't when 
+
+88
+00:06:34,144 --> 00:06:38,552
+we're designing gamified systems. 
+Finally, there are different kinds of 
+
+89
+00:06:38,552 --> 00:06:41,586
+fun. 
+Whether you take Lazzaro's four or 
+
+90
+00:06:41,586 --> 00:06:46,39
+LaBlanc's eight or some other template, 
+the point is fun is a very nuanced 
+
+91
+00:06:46,39 --> 00:06:50,260
+concept. 
+And we should look to exploit as many 
+
+92
+00:06:50,260 --> 00:06:54,510
+kinds of fun as possible. 
+It's not always the right answer or the 
+
+93
+00:06:54,510 --> 00:06:58,410
+best answer to focus in on one kind of 
+fun because we're missing opportunities 
+
+94
+00:06:58,410 --> 00:07:01,993
+to make things fun in different ways. 
+

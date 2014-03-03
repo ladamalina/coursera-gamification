@@ -1,0 +1,889 @@
+
+1
+00:00:00,000 --> 00:00:05,011
+This week, we're going to work at some
+specific applications of gamefication.
+
+2
+00:00:05,011 --> 00:00:10,030
+Many of the examples I've given you are in
+the external gamefication bucket. They're
+
+3
+00:00:10,030 --> 00:00:15,061
+about customer facing types of uses. In
+this unit I'm going to look at internal
+
+4
+00:00:15,061 --> 00:00:20,046
+gamefication and specifically,
+gamefication in the enterprise. In a large
+
+5
+00:00:20,046 --> 00:00:25,031
+business organization. Many major
+enterprises are starting to experiment
+
+6
+00:00:25,031 --> 00:00:30,063
+with gamefication and to apply it in
+concrete situations. Sometimes consciously
+
+7
+00:00:30,063 --> 00:00:36,003
+thinking that they are trying to gamify a
+process, sometimes just using a technique
+
+8
+00:00:36,003 --> 00:00:40,082
+that seems to work that when we look at
+it, we would identify as being part of
+
+9
+00:00:40,082 --> 00:00:45,427
+gamification. The research firm
+Constellation Research, put out a report
+
+10
+00:00:45,427 --> 00:00:50,028
+at the end of last year, where they talked
+to 55 different early adopters of
+
+11
+00:00:50,028 --> 00:00:55,040
+enterprise gamification and found a wide
+range of different kinds of uses within
+
+12
+00:00:55,040 --> 00:01:00,369
+the enterprise. I'd like to highlight few
+examples for you, major areas where I see
+
+13
+00:01:00,369 --> 00:01:06,419
+potential take up by enterprises and give
+you an example for each of them. The first
+
+14
+00:01:06,419 --> 00:01:11,029
+is intranets or extranets, online
+collaboration systems that companies
+
+15
+00:01:11,029 --> 00:01:16,046
+operate for their employees or their
+extended networks. And gamification works
+
+16
+00:01:16,046 --> 00:01:21,025
+here just like it does in external setting
+with a discussion forum like
+
+17
+00:01:21,025 --> 00:01:26,062
+StackOverflow. The game elements can be
+used to encourage people to contribute, to
+
+18
+00:01:26,062 --> 00:01:31,025
+encourage people to comment and respond,
+to enhance the quality of the
+
+19
+00:01:31,025 --> 00:01:36,034
+participation that people engage in, and
+to develop leader boards to identify
+
+20
+00:01:36,034 --> 00:01:41,064
+people who have the most expertise or the
+most involvement in certain topics. So,
+
+21
+00:01:41,064 --> 00:01:46,408
+here you see a set of leader boards for
+the SAP Community network, which is the
+
+22
+00:01:46,408 --> 00:01:52,002
+extra net for the Enterprise software
+company, SAP and their network of
+
+23
+00:01:52,002 --> 00:01:57,018
+developers that interact with SAP software
+at other companies. And they very
+
+24
+00:01:57,018 --> 00:02:02,049
+actively, use gamification techniques to
+enhance the quality of the discussion in
+
+25
+00:02:02,049 --> 00:02:07,067
+that forum. So, that's an enterprise case
+because it is being used internally by an
+
+26
+00:02:07,067 --> 00:02:12,059
+enterprise, but the same basic dynamics
+that we saw in StackOverflow and re ally
+
+27
+00:02:12,062 --> 00:02:17,002
+any other discussion forum kind of
+application. The next one though is
+
+28
+00:02:17,002 --> 00:02:21,097
+different. This is about productivity, and
+when I say productivity enhancement, I
+
+29
+00:02:21,097 --> 00:02:27,012
+mean, helping or encouraging employees to
+do their core job better. There are many
+
+30
+00:02:27,012 --> 00:02:32,055
+different examples of this and there are
+many different kinds of jobs. So, what it
+
+31
+00:02:32,055 --> 00:02:37,092
+takes to motivate a sales person maybe
+different from what it takes to motivate
+
+32
+00:02:37,092 --> 00:02:43,001
+an accountant or a financial analyst. But,
+in almost every case, gamification can
+
+33
+00:02:43,001 --> 00:02:48,018
+produce motivation and can provide
+information and feedback that is valuable
+
+34
+00:02:48,018 --> 00:02:53,041
+to employees and helps them improve their
+job performance. Here's one concrete
+
+35
+00:02:53,041 --> 00:02:58,097
+example which comes from call centers. So,
+call centers have large numbers of agents
+
+36
+00:02:58,097 --> 00:03:03,093
+and they have to encourage those agents
+to, first of all, deal with calls quickly
+
+37
+00:03:03,093 --> 00:03:08,078
+because the longer they're on the phone,
+the more cost there is for the customer.
+
+38
+00:03:08,078 --> 00:03:13,003
+And at the same time they want to
+encourage the agents to deal with
+
+39
+00:03:13,003 --> 00:03:17,066
+customers well because the ultimate
+customers, the customers of the people
+
+40
+00:03:17,066 --> 00:03:22,072
+using the call center business will tend
+to be upset if the agent is clueless or
+
+41
+00:03:22,072 --> 00:03:27,079
+surly or anything like that. So, the call
+center operators are starting to look to
+
+42
+00:03:27,079 --> 00:03:32,066
+gamification as a technique to help them
+manage these customer service agents
+
+43
+00:03:32,066 --> 00:03:37,060
+better. This is an example from a start-up
+called Arcarus which is specifically
+
+44
+00:03:37,060 --> 00:03:42,049
+focused on this call center enterprise
+market. And you see here on the right, a
+
+45
+00:03:42,049 --> 00:03:47,050
+screen that would come up for an agent and
+it's got a leader board, she's number one.
+
+46
+00:03:47,050 --> 00:03:51,083
+It's got a set of levels that she can
+achieve by virtue of her various
+
+47
+00:03:51,083 --> 00:03:56,082
+activities on dealing with calls. It's got
+some customer satisfaction numbers that
+
+48
+00:03:56,082 --> 00:04:01,062
+show some data on how she's doing and it's
+got achievement. So all the standard
+
+49
+00:04:01,062 --> 00:04:06,031
+gamification elements but here, focused in
+specifically on encouraging better
+
+50
+00:04:06,031 --> 00:04:11,012
+performance for a customer service agent
+and highlighting the key elements and
+
+51
+00:04:11,012 --> 00:04:15,099
+designed in an aesthetic way that works
+for that application. This here that you
+
+52
+00:04:15,099 --> 00:04:21,026
+see on the left is a screen that the
+company might ge t looking at key
+
+53
+00:04:21,026 --> 00:04:26,082
+performance indicators, that's what KPI
+stands for, and integrating in those
+
+54
+00:04:26,082 --> 00:04:32,016
+business metrics with the data coming out
+of the gamification engine allowing them
+
+55
+00:04:32,016 --> 00:04:37,041
+to monitor their employee performance and
+use the gamification system to improve the
+
+56
+00:04:37,041 --> 00:04:42,047
+level of productivity. Now, let me put a
+placeholder here which I'm going to expand
+
+57
+00:04:42,047 --> 00:04:47,023
+on later that there's a danger in this
+kind of application. That the gamified
+
+58
+00:04:47,023 --> 00:04:52,011
+system could actually rather than helping
+the call center agents be a tool for
+
+59
+00:04:52,011 --> 00:04:57,030
+oppressing them and constantly monitoring
+their work in a way that's not helpful to
+
+60
+00:04:57,030 --> 00:05:03,178
+them. So let's keep that in mind as a risk
+but it certainly can be done in a positive
+
+61
+00:05:03,178 --> 00:05:07,750
+way, which I think this is an example of.
+Next category I'll call efficiency
+
+62
+00:05:07,750 --> 00:05:12,304
+enhancement. The difference between
+productivity and efficiency here is
+
+63
+00:05:12,304 --> 00:05:18,032
+productivity is in someone's core job
+responsibility. Efficiency is just about
+
+64
+00:05:18,032 --> 00:05:23,019
+making them work better by doing
+everything they do at work efficiently,
+
+65
+00:05:23,019 --> 00:05:28,040
+and specifically, the example I want to
+talk about is e-mail. So lots and lots of
+
+66
+00:05:28,040 --> 00:05:33,068
+workers spend time in their e-mail. And
+it's not their job primarily to answer
+
+67
+00:05:33,068 --> 00:05:38,033
+e-mail, but they have to do it as part of
+their job. And people waste tons and tons
+
+68
+00:05:38,033 --> 00:05:42,099
+of time, countless hours answering e-mail,
+getting e-mail that's irrelevant, cleaning
+
+69
+00:05:42,099 --> 00:05:47,058
+out their mailbox, and so forth. And so,
+gamification is being used to improve the
+
+70
+00:05:47,058 --> 00:05:52,006
+efficiency of that process. The example
+that I show you here is the E-mail Game
+
+71
+00:05:52,006 --> 00:05:56,066
+from a company called Baden. And you see
+here they've got a timer so you see how
+
+72
+00:05:56,066 --> 00:06:01,014
+much time you're spending in your e-mail.
+You see this progress bar of how much
+
+73
+00:06:01,014 --> 00:06:05,050
+you've got left and you see a point
+system. And the way the E-mail Game works
+
+74
+00:06:05,050 --> 00:06:10,851
+is you get points for quickly disposing of
+your e-mail. For deleting it or responding
+
+75
+00:06:10,851 --> 00:06:15,976
+to it in a way that you can take it out of
+your inbox. It incentivizes and encourages
+
+76
+00:06:15,976 --> 00:06:20,784
+you to deal with e-mail efficiently. And
+that little nudge tends to give people
+
+77
+00:06:20,784 --> 00:06:25,509
+enough reason to deal with their e-mail in
+a more efficient way. Saving lots and lot
+
+78
+00:06:25,509 --> 00:06:30,253
+s of time that gets freed up for other
+things. Another interesting approach to
+
+79
+00:06:30,253 --> 00:06:34,668
+e-mail is being taken by a company called,
+Seriosity, that has a system called a Tent
+
+80
+00:06:34,668 --> 00:06:39,081
+and their idea was to create a virtual
+currency around e-mail. So they created a
+
+81
+00:06:39,081 --> 00:06:43,612
+set of tokens that you attach to e-mail
+and it cost you this virtual currency to
+
+82
+00:06:43,612 --> 00:06:47,836
+send and receive e-mail. And the idea is
+by creating this kind of virtual economy,
+
+83
+00:06:47,836 --> 00:06:52,672
+people will start to think about whether
+it's worth sending an e-mail. Well, if it
+
+84
+00:06:52,672 --> 00:06:57,068
+actually cost something, only got so many
+resources and I have to use some of them
+
+85
+00:06:57,068 --> 00:07:01,629
+to send this e-mail, do I really want to
+send all to the whole company about this
+
+86
+00:07:01,629 --> 00:07:06,514
+particular irrelevant thing or not? And so
+the idea here is that by creating a
+
+87
+00:07:06,514 --> 00:07:12,393
+structure that provides feedback and the
+ability to manipulate the activity around
+
+88
+00:07:12,393 --> 00:07:17,644
+e-mail in a game-like way, people will
+start to see their effects on the overall
+
+89
+00:07:17,644 --> 00:07:22,513
+system. That kind of system's thinking
+that games can encourage and therefore be
+
+90
+00:07:22,513 --> 00:07:27,601
+more responsible about the email that they
+send and receive. So a different approach
+
+91
+00:07:27,787 --> 00:07:33,432
+tackling a similar problem and there other
+problems in the efficiency domain as well.
+
+92
+00:07:33,432 --> 00:07:38,560
+Situations where gamification can be used
+to encourage people to waste less time and
+
+93
+00:07:38,560 --> 00:07:43,269
+therefore have more time for their core
+jobs. The next one I don't have a
+
+94
+00:07:43,269 --> 00:07:48,537
+screenshot for but this is an example from
+Deloitte where they an application called
+
+95
+00:07:48,537 --> 00:07:53,321
+WhoWhatWhere, that is used to encourage
+their consultants to find out more about
+
+96
+00:07:53,321 --> 00:07:58,521
+each other. That's in the broad domain of
+knowledge management. Companies don't
+
+97
+00:07:58,521 --> 00:08:04,012
+necessarily collaborate internally that
+well. Especially a very knowledge oriented
+
+98
+00:08:04,012 --> 00:08:09,264
+company like a consulting firm has people
+all over the world with tremendous amounts
+
+99
+00:08:09,264 --> 00:08:14,044
+of knowledge about customers and about
+topics and yet, they don't necessarily
+
+100
+00:08:14,044 --> 00:08:19,104
+know about each other. And it would be
+really helpful for the company if when a
+
+101
+00:08:19,104 --> 00:08:23,051
+consultant in Cleveland had a question
+about say, supply chain process
+
+102
+00:08:23,051 --> 00:08:27,938
+improvements in the oil and gas industry,
+that they would be able to quickly see who
+
+103
+00:08:27,938 --> 00:08:33,052
+else in my company has worked on those
+engagements or who else has real knowledge
+
+104
+00:08:33,052 --> 00:08:38,063
+about that area. So, gamification can be a
+way of encouraging people to provide that
+
+105
+00:08:38,063 --> 00:08:42,091
+information into the system and
+facilitating a process that encourages
+
+106
+00:08:42,091 --> 00:08:47,060
+that kind of sharing. The WhoWhatWhere
+system at Deloitte does that by creating
+
+107
+00:08:47,060 --> 00:08:52,008
+game mechanics around the consultants
+sharing information about what they're
+
+108
+00:08:52,008 --> 00:08:56,051
+doing on their existing enterprise
+collaboration system. And other companies
+
+109
+00:08:56,051 --> 00:09:00,094
+are starting to use similar kinds of
+applications to encourage that kind of
+
+110
+00:09:00,094 --> 00:09:05,058
+lightweight knowledge sharing. There are a
+variety of applications in Human
+
+111
+00:09:05,058 --> 00:09:10,039
+Resources. Let me touch on a few of them
+really quickly. Companies are using
+
+112
+00:09:10,039 --> 00:09:15,066
+gamification for hiring. Just playing
+games sometimes tells you something about
+
+113
+00:09:15,066 --> 00:09:20,512
+people and gamified systems can be used to
+identify the best candidates and to review
+
+114
+00:09:20,512 --> 00:09:25,087
+candidates in the hiring process.
+Onboarding. Gamification is a way to get
+
+115
+00:09:25,087 --> 00:09:30,087
+people up and running at a company. Early
+on, we talked about onboarding as an
+
+116
+00:09:30,087 --> 00:09:35,090
+important technique in game design. So if
+you think about your HR process as a kind
+
+117
+00:09:35,090 --> 00:09:40,088
+of game, gamification and game techniques
+can be used to onboard employees quickly.
+
+118
+00:09:40,088 --> 00:09:46,028
+Beyond onboarding is Acculturation,
+getting people engaged in the culture of
+
+119
+00:09:46,028 --> 00:09:51,342
+the enterprise. And games, by creating a
+fun kind of collaborative environment, can
+
+120
+00:09:51,342 --> 00:09:56,026
+help people get a sense of their
+co-workers and the notion of working
+
+121
+00:09:56,026 --> 00:10:01,010
+together as a team and can be a way to
+reinforce the culture of the organization.
+
+122
+00:10:01,010 --> 00:10:06,005
+Now, if the culture of the organization is
+very formal and serious, then a game-like
+
+123
+00:10:06,005 --> 00:10:10,088
+system may not be the best way to do it.
+But if not, or in a wide variety of other
+
+124
+00:10:10,088 --> 00:10:15,053
+contexts, a game-like system may be a
+great way to ease people into a sense of
+
+125
+00:10:15,053 --> 00:10:20,363
+how we do things here and what the nature
+is of our culture. Corporate training easy
+
+126
+00:10:20,557 --> 00:10:25,000
+way to see that, that applies to
+gamification using game mechanics to
+
+127
+00:10:25,000 --> 00:10:29,028
+encourage people and reward people for the
+learning that they do within the
+
+128
+00:10:29,028 --> 00:10:34,027
+organization and various kinds of training
+programs. Performance review and employee
+
+129
+00:10:34,027 --> 00:10:38,097
+recognition. When we hear from Daniel
+Debow who I'll do an interview with later
+
+130
+00:10:38,097 --> 00:10:43,001
+in this segment, his company uses
+gamification for informal employee
+
+131
+00:10:43,001 --> 00:10:47,059
+rewards. Telling people you did a great
+job in the enterprise and providing a
+
+132
+00:10:47,059 --> 00:10:52,064
+structure around that activity and have it
+renowned to the benefit of the company. We
+
+133
+00:10:52,064 --> 00:10:57,776
+can also think of gamification being used
+in the more structured, formal process of
+
+134
+00:10:57,776 --> 00:11:02,960
+performance reviews, by expanding out to
+things like badges and achievements and
+
+135
+00:11:02,960 --> 00:11:07,580
+other forms of recognition. And by
+encouraging employees to contribute to 360
+
+136
+00:11:07,580 --> 00:11:12,760
+reviews of their co-workers. And finally
+T&E, travel and entertainment. Here's an
+
+137
+00:11:12,760 --> 00:11:17,676
+example from Google. For their travel and
+entertainment reimbursement they give
+
+138
+00:11:17,676 --> 00:11:22,686
+people a fixed amount that they can
+recover for a particular two city travel
+
+139
+00:11:22,686 --> 00:11:27,638
+pair they went, that they were traveling
+to. And then what they do is they create a
+
+140
+00:11:27,638 --> 00:11:33,010
+virtual economy. So if you don't use the
+full amount you're granted, you can bank
+
+141
+00:11:33,010 --> 00:11:38,431
+it, you can give it to charity or you can
+cash it out, though at a discount. And
+
+142
+00:11:38,431 --> 00:11:43,629
+this makes that kind of credit liquid in a
+way, which encourages people to think
+
+143
+00:11:43,629 --> 00:11:48,257
+about creatively using it. To be more
+efficient about their use of that travel
+
+144
+00:11:48,257 --> 00:11:52,683
+and entertainment currency which
+previously employees didn't think about as
+
+145
+00:11:52,683 --> 00:11:57,237
+a currency or a game at all. They just
+thought about it as a process of getting
+
+146
+00:11:57,237 --> 00:12:01,148
+reimbursement. Here employees are
+encouraged to think about how to spend
+
+147
+00:12:01,148 --> 00:12:05,019
+efficiently because then they bank
+additional currency that they can use
+
+148
+00:12:05,019 --> 00:12:09,052
+either for themselves or for charitable
+donations. Next one is innovation.
+
+149
+00:12:09,052 --> 00:12:14,073
+Companies want to encourage their
+employees to come up with great new ideas.
+
+150
+00:12:14,073 --> 00:12:19,971
+So this is an example from the Department
+of Work and Pensions in the UK, a public
+
+151
+00:12:19,971 --> 00:12:25,476
+governmental organization not necessarily
+the kind of organization known for great
+
+152
+00:12:25,476 --> 00:12:30,202
+innovation. What they've done is they
+built something called Idea Street which
+
+153
+00:12:30,202 --> 00:12:35,632
+is an idea market place. So, to encourage
+people within their organization to come
+
+154
+00:12:35,632 --> 00:12:40,867
+up w ith great ideas to improve their
+service, they created a virtual stock
+
+155
+00:12:40,867 --> 00:12:46,390
+market. So, employees come up with ideas
+and you can see some ideas here. And other
+
+156
+00:12:46,390 --> 00:12:51,590
+employees can essentially buy and sell
+shares in those ideas. There's a price,
+
+157
+00:12:51,590 --> 00:12:56,963
+daily change, volume, total market cap.
+And here's the link where you can buy and
+
+158
+00:12:56,963 --> 00:13:01,686
+sell it. And they've created a
+stock-market-like marketplace around these
+
+159
+00:13:01,686 --> 00:13:06,607
+ideas. So, great ideas start to float to
+the top. People can join in on teams that
+
+160
+00:13:06,607 --> 00:13:11,432
+have ideas that they think are cool and
+that are effective and that encourages
+
+161
+00:13:11,432 --> 00:13:16,536
+more activity on those ideas and what they
+found is they've generated a large number
+
+162
+00:13:16,536 --> 00:13:21,578
+of ideas that have actually been put into
+place in the organization saving millions
+
+163
+00:13:21,578 --> 00:13:26,071
+of dollars, or millions of pounds in the
+UK, and actually delivering better service
+
+164
+00:13:26,071 --> 00:13:30,669
+to their constituencies, using these game
+mechanics to make the process of coming up
+
+165
+00:13:30,669 --> 00:13:35,584
+with innovative ideas more game like as
+opposed to just the suggestion box that
+
+166
+00:13:35,584 --> 00:13:40,606
+you just drop an idea in. Finally, there
+are many examples of serious games in the
+
+167
+00:13:40,606 --> 00:13:45,111
+enterprise. So here's an example from
+Siemens. The electronics and
+
+168
+00:13:45,310 --> 00:13:51,004
+telecommunications company where they have
+created something called Plantville which
+
+169
+00:13:51,004 --> 00:13:55,567
+is a simulation of one of their
+manufacturing plants. And they've created
+
+170
+00:13:55,567 --> 00:14:00,456
+a game around operating a manufacturing
+plant. So this is something that can be
+
+171
+00:14:00,456 --> 00:14:05,545
+used for training. It's something that can
+be used for other purposes to help people
+
+172
+00:14:05,545 --> 00:14:11,011
+understand how to be more effective in the
+process of managing one of their plants.
+
+173
+00:14:11,011 --> 00:14:16,124
+That is I would call a, what I would call
+a serious game, because it's a full-blown
+
+174
+00:14:16,124 --> 00:14:21,391
+game, so worth talking about within this
+overall context, but worth putting, on to
+
+175
+00:14:21,391 --> 00:14:26,593
+the side for the moment because I want to
+focus most specifically on uses of game
+
+176
+00:14:26,593 --> 00:14:31,265
+elements and structures that get
+incorporated into existing businesses. So,
+
+177
+00:14:31,265 --> 00:14:37,624
+as we see a wide variety of different
+kinds of applications in different kinds
+
+178
+00:14:37,624 --> 00:14:41,026
+of enterprises all using gamification.

@@ -1,0 +1,840 @@
+
+1
+00:00:00,000 --> 00:00:05,096
+If you've decided that gamification is a
+good approach to use for your business
+
+2
+00:00:05,096 --> 00:00:11,018
+challenge, how do you ensure that you're
+doing it in a thoughtful, deep,
+
+3
+00:00:11,018 --> 00:00:17,823
+substantive, meaningful way? The best way
+I can think of to illustrate this is to
+
+4
+00:00:17,823 --> 00:00:23,710
+give you a detailed example of a service
+that uses all of the standard PBL type
+
+5
+00:00:23,710 --> 00:00:29,838
+game elements but pulls them together in a
+coherent and consistent way to address
+
+6
+00:00:29,838 --> 00:00:36,045
+some of the deeper aspects of game design
+and psychology and ultimately meaning. The
+
+7
+00:00:36,045 --> 00:00:42,294
+site is called Stack Overflow. It's part
+of a larger group of sites now called
+
+8
+00:00:42,294 --> 00:00:47,673
+Stack Exchange. And I'm going to
+intersperse screenshots of the site with
+
+9
+00:00:47,673 --> 00:00:53,179
+some quotes from Jeff Atwood who's one of
+the founders of the site from a blog post
+
+10
+00:00:53,179 --> 00:00:58,540
+that he put out trying to explain how and
+why he and his co-founder made design
+
+11
+00:00:58,540 --> 00:01:03,793
+decisions to implement gamification. Now,
+an important point he makes is that when
+
+12
+00:01:03,793 --> 00:01:09,026
+the site was setup, he had no idea what
+gamification was. And all these decisions
+
+13
+00:01:09,026 --> 00:01:14,488
+were not made based on gamification being
+an interesting or cool design practice.
+
+14
+00:01:14,488 --> 00:01:19,577
+They were ways that he and his co-founder
+trying to solve the challenges that they
+
+15
+00:01:19,577 --> 00:01:24,486
+had in front of them which just happened
+to be the kinds of things that we now
+
+16
+00:01:24,486 --> 00:01:29,660
+think about as gamification. So, Stack
+Overflow is a site for programmers. It's a
+
+17
+00:01:29,660 --> 00:01:34,462
+question and answer site where you can go
+to ask questions about how to write
+
+18
+00:01:34,462 --> 00:01:38,759
+software or problems that you're having
+with certain kinds of coding. And, other
+
+19
+00:01:38,759 --> 00:01:43,750
+people answer the questions. Well, that
+doesn't seem terribly interesting, does
+
+20
+00:01:43,750 --> 00:01:48,619
+it? Asking and answering questions about
+coding. In particular, how do you get
+
+21
+00:01:48,619 --> 00:01:53,303
+people to spend their own volunteer time
+answering other people's questions,
+
+22
+00:01:53,303 --> 00:01:58,622
+answering questions from total strangers
+about how to code certain things. Well, it
+
+23
+00:01:58,622 --> 00:02:04,402
+turns out that Stack Overflow has been
+tremendously successful at this very task.
+
+24
+00:02:04,402 --> 00:02:10,346
+The site or the collection of sites now
+that they've put together, have over two
+
+25
+00:02:10,348 --> 00:02:16,148
+million registered users. They average
+over 5,000 new questions per day and over
+
+26
+00:02:16,148 --> 00:02:22,256
+10,000 new answers per day on the si te.
+So, they've been able to motivate people
+
+27
+00:02:22,256 --> 00:02:28,965
+to engage in this practice. And the
+question is, how have they been able to do
+
+28
+00:02:28,965 --> 00:02:35,157
+that? Well, the first reason is by
+thinking about the problem in the right
+
+29
+00:02:35,157 --> 00:02:41,730
+way. What is programming? Well, you can
+look at programming as the example of
+
+30
+00:02:41,730 --> 00:02:49,010
+something very dull and rote. You can look
+at answering questions about programming
+
+31
+00:02:49,010 --> 00:02:56,148
+as something inherently boring, and
+difficult. Or you can look at it as
+
+32
+00:02:56,148 --> 00:03:01,672
+something cool and wonderful and magical
+and game-like. And that's the approach
+
+33
+00:03:01,672 --> 00:03:06,668
+that the designers of the site took. So
+Atwood says, "The field of programming is
+
+34
+00:03:06,668 --> 00:03:11,127
+almost definition, by definition one of
+constant learning." Learning as we talked
+
+35
+00:03:11,127 --> 00:03:16,401
+about has a great affinity for games. And
+he said, "Programming is, supposed to be
+
+36
+00:03:16,401 --> 00:03:21,292
+fun." Says who? Well, says them. And
+obviously says a lot of other programmers.
+
+37
+00:03:21,292 --> 00:03:25,723
+And to the extent that you can take this
+approach, and think of what you're doing
+
+38
+00:03:25,723 --> 00:03:31,399
+as fun, then it naturally leads towards a
+gamified approach that's authentic, that's
+
+39
+00:03:31,399 --> 00:03:36,716
+not just based on how do we make people do
+this thing which otherwise they wouldn't
+
+40
+00:03:36,716 --> 00:03:41,098
+want to do. How do we come up with a whole
+bunch of rewards that we'll dangle in
+
+41
+00:03:41,098 --> 00:03:47,018
+front of people, a bunch of big carrots or
+a bunch of bit sticks that will get them
+
+42
+00:03:47,018 --> 00:03:52,063
+to do the thing. This approach says, well,
+how do we think about the problem in a way
+
+43
+00:03:52,063 --> 00:03:58,007
+that makes the people feel like they want
+to do it themselves? If it is fun, if you
+
+44
+00:03:58,007 --> 00:04:03,031
+can find the fun in any problem as Mary
+Poppins says, then snap, it becomes a
+
+45
+00:04:03,031 --> 00:04:07,845
+game, and people will want to do it
+voluntarily. So, that's the first aspect
+
+46
+00:04:07,845 --> 00:04:12,361
+of what they've done. Second aspect of
+what they've done, is to implement a
+
+47
+00:04:12,361 --> 00:04:17,449
+system that is reflective of their
+community. Know your players. Understand
+
+48
+00:04:17,449 --> 00:04:23,083
+what the community is that's involved in
+the activity. And this is particularly
+
+49
+00:04:23,083 --> 00:04:28,098
+important because meaning is socially
+constructed in communities. What's
+
+50
+00:04:28,098 --> 00:04:34,070
+meaningful? What's important is not the
+same from every community to every other
+
+51
+00:04:34,070 --> 00:04:39,662
+community. It depends on the norms of
+those groups and communiti es and that
+
+52
+00:04:39,662 --> 00:04:45,085
+kind of activity they're involved in. So,
+take Foursquare's badges which we've seen
+
+53
+00:04:45,085 --> 00:04:51,708
+before. Very colorful. Very fun, if you
+will, creative, graphical lots of little
+
+54
+00:04:51,708 --> 00:04:59,259
+inside jokes here and things like pumpkin
+and so forth. These are badges that are
+
+55
+00:04:59,259 --> 00:05:05,624
+designed to be cool in their own, right?
+Which is part of, of the whole Foursquare
+
+56
+00:05:05,624 --> 00:05:12,265
+mantra when they implemented these
+gamified elements to get people to think
+
+57
+00:05:12,265 --> 00:05:18,830
+that checking in was somehow something fun
+that they'd want to do. The badges in
+
+58
+00:05:18,830 --> 00:05:26,243
+Stack overflow look quite different. So,
+here's a profile page of a user. This
+
+59
+00:05:26,243 --> 00:05:32,733
+happens to be a very high-level user. In
+fact, he's one of the moderators who have
+
+60
+00:05:32,733 --> 00:05:38,599
+the extreme privilege of helping to run
+the whole site. He's got 88,000
+
+61
+00:05:38,599 --> 00:05:44,712
+reputations points which is an awful lot.
+And here are his badges. Just that. 52
+
+62
+00:05:44,712 --> 00:05:51,196
+gold badges, 224 silver badges, 434 bronze
+badges. So you notice a very different
+
+63
+00:05:51,196 --> 00:05:56,860
+aesthetic here. This is a site for
+programers, for geeks. So, it's about lots
+
+64
+00:05:56,860 --> 00:06:02,837
+of numbers, lots of information and not
+lots of visual clutter. But just get to
+
+65
+00:06:02,837 --> 00:06:08,036
+the heart of the information right away.
+Gold, silver, bronze. What those badges
+
+66
+00:06:08,036 --> 00:06:13,775
+are and what they mean. So, at a glance
+you can see what this person's reputation
+
+67
+00:06:13,775 --> 00:06:19,196
+score looks like. So, two different ways
+to do badges. Each one is appropriate for
+
+68
+00:06:19,196 --> 00:06:24,534
+the situation at hand. So, this is an
+example of a stack overflow set of
+
+69
+00:06:24,534 --> 00:06:30,037
+questions and answers, there was a
+question above and here is an answer from
+
+70
+00:06:30,037 --> 00:06:35,947
+someone talking about how to do something,
+and here's the person who gave the answer.
+
+71
+00:06:36,179 --> 00:06:41,989
+This user Bahbu, and you can see this
+person has 204 points and nine bronze
+
+72
+00:06:41,989 --> 00:06:48,242
+badges, a pretty low level user. And then
+here, someone else has come in. This other
+
+73
+00:06:48,242 --> 00:06:53,204
+user, and that person has edited the
+answer. And you see this person is a much
+
+74
+00:06:53,204 --> 00:06:57,976
+higher level user. They've got 9,000
+points and a bunch of gold badges and so
+
+75
+00:06:57,976 --> 00:07:02,611
+forth. Not quite at the level of Bill the
+Lizard but a very much higher level user
+
+76
+00:07:02,611 --> 00:07:07,812
+and they have voluntarily edited the other
+person's post. So, not o nly did that
+
+77
+00:07:07,812 --> 00:07:12,880
+person voluntarily come up with an answer,
+they voluntarily modified and improved
+
+78
+00:07:12,880 --> 00:07:17,581
+upon someone else's answer. You see here
+there's a, a link to improve the answer.
+
+79
+00:07:17,581 --> 00:07:22,803
+Well, that's really great. If the system
+not only gets people to come up with their
+
+80
+00:07:22,803 --> 00:07:27,260
+own answers, but to improve that are
+there, it's a self-reinforcing,
+
+81
+00:07:27,260 --> 00:07:32,972
+self-improving system. And here you see
+another example of an answer that was done
+
+82
+00:07:32,972 --> 00:07:37,897
+by this person and then down below, some
+dialogue back and forth by the person
+
+83
+00:07:37,897 --> 00:07:42,914
+doing the answer and the person posting
+the question. Again, more information. The
+
+84
+00:07:42,914 --> 00:07:47,589
+question gets more precise. The answer
+gets precise. More activity actually
+
+85
+00:07:47,589 --> 00:07:52,999
+improves the system. So, that's a really
+great process. If you can design a system
+
+86
+00:07:52,999 --> 00:07:58,269
+that has those characteristics, it will be
+very powerful. And the question is then,
+
+87
+00:07:58,269 --> 00:08:03,298
+so how does gamification do that for stack
+overflow? Back to Atwood again. Stack
+
+88
+00:08:03,298 --> 00:08:08,652
+overflow, he says, is many ways my
+personal Counterstrike. Now, Counterstrike
+
+89
+00:08:08,652 --> 00:08:14,060
+is a game, it was a modification of a game
+called Half Life, which is an interesting
+
+90
+00:08:14,060 --> 00:08:19,098
+story in its own right. But the cool thing
+about Counterstrike was that it was
+
+91
+00:08:19,098 --> 00:08:24,060
+structured around groups coming together
+and having to fight as a team.
+
+92
+00:08:24,060 --> 00:08:29,007
+Counterstrike is a game where you're a
+commando unit that's fighting against
+
+93
+00:08:29,007 --> 00:08:33,072
+terrorists. It's all about shooting at
+things, using various different weapons.
+
+94
+00:08:33,072 --> 00:08:38,037
+But in Counterstrike, if you go off on
+your own you're almost certainly going to
+
+95
+00:08:38,037 --> 00:08:43,002
+die. You need to group up with a bunch of
+different people and some of them will
+
+96
+00:08:43,002 --> 00:08:47,073
+cover you as you move forward and will
+take out snipers and so forth. You have to
+
+97
+00:08:47,073 --> 00:08:52,014
+work together as a team. And, that
+activity is what made Counterstrike really
+
+98
+00:08:52,014 --> 00:08:56,079
+interesting and challenging for a lot of
+gamers. Because it's harder to group up
+
+99
+00:08:56,079 --> 00:09:02,011
+with people and all work together as a
+team than just to go off on your own. And
+
+100
+00:09:02,011 --> 00:09:07,088
+Counterstrike implemented this in a really
+interesting and compelling way so it was a
+
+101
+00:09:07,088 --> 00:09:13,058
+extremely successful game. And what Atwood
+says is that notion of working together as
+
+102
+00:09:13,058 --> 00:09:18,094
+a team. T hat to win the game you have to
+be effective, not just yourself but as a
+
+103
+00:09:18,094 --> 00:09:24,347
+teammate, as a part of a larger whole, was
+the lesson that he and his co-founder took
+
+104
+00:09:24,347 --> 00:09:29,071
+to apply to questions and answers for
+programming. So, the idea is, helping
+
+105
+00:09:29,071 --> 00:09:37,022
+fellow programmers is the way that you win
+at the game. You don't win by being
+
+106
+00:09:37,022 --> 00:09:43,038
+awesome by yourself. You win by helping
+other people. So, the gamified system is
+
+107
+00:09:43,038 --> 00:09:48,086
+structured in Stack Overflow relentlessly
+to incentivize pro-social behavior. To
+
+108
+00:09:48,086 --> 00:09:53,047
+incentivize things like, as we saw,
+improving on other people's answers as
+
+109
+00:09:53,047 --> 00:09:58,022
+opposed to just doing stuff purely
+yourself in a way that doesn't help the
+
+110
+00:09:58,022 --> 00:10:04,003
+group. So, let's look very quickly at some
+of the ways that Stack Overflow structures
+
+111
+00:10:04,003 --> 00:10:09,055
+its game elements, to produce that same
+Counterstrike like result, where people
+
+112
+00:10:09,055 --> 00:10:15,027
+are encouraged to work together in order
+to win in the game. The first is that the
+
+113
+00:10:15,027 --> 00:10:20,085
+points in the system are actually called
+reputation and the primary way you get
+
+114
+00:10:20,085 --> 00:10:26,009
+points is when your fellow users vote up
+your questions and answers. So, not for
+
+115
+00:10:26,009 --> 00:10:31,011
+your actions but for other people saying
+you did a good job. That's the core
+
+116
+00:10:31,011 --> 00:10:36,019
+definition of reputation in the system,
+you have to do something other people
+
+117
+00:10:36,019 --> 00:10:40,691
+think highly of in order to get points.
+Similarly, there is this structure in
+
+118
+00:10:40,691 --> 00:10:45,899
+Stack Overflow called bounties where you
+can give reputation to someone for coming
+
+119
+00:10:45,899 --> 00:10:51,064
+up with an answer or good answer to a
+question. That creates this notion of
+
+120
+00:10:51,064 --> 00:10:56,079
+exchange and gifting which is another very
+powerful pro-social norm, that gets
+
+121
+00:10:56,079 --> 00:11:02,008
+activated by this game mechanic. So, all
+of these game mechanics around the point
+
+122
+00:11:02,008 --> 00:11:06,068
+system are structured to reward not
+individual achievement but things that
+
+123
+00:11:06,068 --> 00:11:11,693
+serve the collective good. And Atwood
+talks about this as encouraging groups to
+
+124
+00:11:11,693 --> 00:11:16,970
+do what's best for the world rather than
+their own specific selfish needs. Here, he
+
+125
+00:11:16,970 --> 00:11:21,944
+eludes to a wonderful article by Clay
+Shirky called A Group Is Its Own Worst
+
+126
+00:11:21,944 --> 00:11:26,674
+Enemy, where Shirky points out that
+there's this, there's this real problem
+
+127
+00:11:26,674 --> 00:11:32,019
+online, that we have really easy group
+formation. You can form a g roup for
+
+128
+00:11:32,019 --> 00:11:37,392
+anything online, but the group tends to
+fall apart because the group may have some
+
+129
+00:11:37,392 --> 00:11:42,417
+set of goals, there may be some set of
+things that we can agree is in the group's
+
+130
+00:11:42,417 --> 00:11:46,089
+interest. But all the people who
+participate in the group aren't the group.
+
+131
+00:11:46,089 --> 00:11:51,047
+They're individuals. And so they pull in
+their own direction and the group, as it
+
+132
+00:11:51,047 --> 00:11:55,029
+grows, tends to fall apart and
+disintegrate because it doesn't have
+
+133
+00:11:55,029 --> 00:11:59,064
+hierarchy and structure. The lack of
+hierarchy and structure is what's great
+
+134
+00:11:59,064 --> 00:12:04,021
+about online activities and online groups.
+But they cause attention. And Atwood's
+
+135
+00:12:04,021 --> 00:12:08,075
+claim here is that game elements, game
+stack overflow are what pull against that
+
+136
+00:12:08,075 --> 00:12:13,074
+natural tendencies of groups to collapse
+into selfish interests. So, for example,
+
+137
+00:12:13,074 --> 00:12:18,092
+the reputation gives you certain powers,
+but they are not just powers to go off on
+
+138
+00:12:18,092 --> 00:12:24,004
+to different parts of the site and lord
+over people, they're powers that give you
+
+139
+00:12:24,004 --> 00:12:28,097
+abilities to be, essentially, a moderator
+of the site, to engage in more of this
+
+140
+00:12:28,097 --> 00:12:33,090
+beneficial behavior on the site. And
+that's cool, that's something you get with
+
+141
+00:12:33,090 --> 00:12:38,083
+reputation, but it's also something that
+helps others. Similarly, Stack Overflow
+
+142
+00:12:38,083 --> 00:12:43,082
+has a badge system. But again, it's not
+the Foursquare type of badge system where
+
+143
+00:12:43,082 --> 00:12:49,055
+the badges are about showing off your big
+cabinet with all of your cool badges in
+
+144
+00:12:49,055 --> 00:12:54,374
+them. The badges are about doing things.
+Some of them are just things that are good
+
+145
+00:12:54,374 --> 00:12:59,054
+for the site, visit every section of the
+FAQ. But some of them are about things
+
+146
+00:12:59,054 --> 00:13:04,333
+that are good for others. Edit 100 posts
+that have been inactive. Actively that,
+
+147
+00:13:04,333 --> 00:13:09,327
+that's not really one but here. Vote 300
+times. Leave ten comments and so forth,
+
+148
+00:13:09,327 --> 00:13:13,084
+all social behavior. And this is
+especially true of the gold badges, the
+
+149
+00:13:13,084 --> 00:13:18,089
+really cool badges that people are going
+to want, there you have to do things like
+
+150
+00:13:18,089 --> 00:13:23,069
+edit 500 posts. Remember, editing a post
+is the thing that's most beneficial in
+
+151
+00:13:23,069 --> 00:13:28,463
+terms of improving the quality of the site
+collectively. But the thing that people
+
+152
+00:13:28,463 --> 00:13:33,375
+are least likely to do on their own. So,
+use a badge to encourage people to do it.
+
+153
+00:13:33,548 --> 00:13:38,550
+Similarly g reat answers get you a gold
+badge but so do great questions and so do
+
+154
+00:13:38,550 --> 00:13:44,268
+questions that are famous that are viewed
+by lots of people. So, all of these are
+
+155
+00:13:44,268 --> 00:13:49,453
+different ways of incentivizing the very
+things that are in the interests of the
+
+156
+00:13:49,453 --> 00:13:54,876
+site, in the interests of the group as
+opposed to just incentivizing the things
+
+157
+00:13:54,876 --> 00:14:00,500
+that make, make people feel individually
+cool. And Attwood ultimately talks about
+
+158
+00:14:00,500 --> 00:14:05,955
+this as the game elements being in service
+of a higher purpose. He said it ultimately
+
+159
+00:14:05,955 --> 00:14:11,219
+helps him become more knowledgeable and a
+better communicator while improving the
+
+160
+00:14:11,219 --> 00:14:16,623
+very fabric of the web for everyone. Now,
+not every gamified site can credibly claim
+
+161
+00:14:16,623 --> 00:14:21,194
+to improve the fabric of the web for
+everyone. If it's purely a marketing site
+
+162
+00:14:21,194 --> 00:14:25,350
+that's trying to get more customers
+engaged, it's hard to see this as
+
+163
+00:14:25,350 --> 00:14:29,992
+something that is fundamentally making the
+internet a better place. It's not
+
+164
+00:14:29,992 --> 00:14:34,901
+necessarily in conflict with it. But as
+long as you can push in that direction.
+
+165
+00:14:34,901 --> 00:14:41,291
+Try to find things that are meaningful and
+fun for people, but also try to find ways
+
+166
+00:14:41,291 --> 00:14:46,964
+to have the gamification elements pushed
+towards cooperation, collaboration and
+
+167
+00:14:46,964 --> 00:14:52,380
+larger good, larger purpose, that notion
+of relatedness and self-determination
+
+168
+00:14:52,380 --> 00:14:58,359
+theory, the more likely is the gamified
+site will be deep and significant and

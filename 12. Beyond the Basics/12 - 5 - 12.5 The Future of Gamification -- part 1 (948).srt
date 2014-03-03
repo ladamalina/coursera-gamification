@@ -1,0 +1,444 @@
+
+1
+00:00:00,000 --> 00:00:03,732
+To conclude the class I want to focus on
+the future.
+
+2
+00:00:03,732 --> 00:00:09,763
+I've spent a great deal of time giving you
+the history and roots of gamification as
+
+3
+00:00:09,763 --> 00:00:13,783
+well as the current state of the art and
+best practices.
+
+4
+00:00:13,783 --> 00:00:18,521
+So where's it all going?
+What's gamification's going to be like in
+
+5
+00:00:18,521 --> 00:00:22,900
+two or five or ten or twenty years?
+What does the future hold?
+
+6
+00:00:22,900 --> 00:00:25,784
+I don't know.
+No one knows for certainty.
+
+7
+00:00:25,784 --> 00:00:30,226
+Gamification is still a fairly young field
+that's changing very fast even month by
+
+8
+00:00:30,226 --> 00:00:32,848
+month.
+So it would be foolish of me to say I know
+
+9
+00:00:32,848 --> 00:00:36,220
+exactly what the landscape is going to
+look like in the future.
+
+10
+00:00:36,220 --> 00:00:40,753
+But it's still worth thinking about where
+things are going.
+
+11
+00:00:40,753 --> 00:00:46,480
+And the best way I can conceive of to do
+that is to ask you to imagine what would
+
+12
+00:00:46,480 --> 00:00:52,137
+happen if gamification continued to grow
+and expand and become more important to
+
+13
+00:00:52,137 --> 00:00:55,420
+the point it truly became pervasive in
+society.
+
+14
+00:00:55,420 --> 00:00:58,372
+What would that mean.
+What would it be like, and what would it
+
+15
+00:00:58,372 --> 00:01:02,100
+say about the practice of gamification
+that might teach us lessons for today.
+
+16
+00:01:02,100 --> 00:01:07,678
+Well, the best way I can think of to get
+you thinking about those questions is to
+
+17
+00:01:07,678 --> 00:01:13,187
+show you a short film called Sight that
+was made by two Israeli filmmakers, Eran
+
+18
+00:01:13,187 --> 00:01:17,663
+May-raz and Daniel Lazo.
+They actually did it as their graduation
+
+19
+00:01:17,663 --> 00:01:20,625
+project from a leading Israeli film
+school.
+
+20
+00:01:20,625 --> 00:01:26,409
+And this video, which several people have
+already pointed out on the forums and have
+
+21
+00:01:26,409 --> 00:01:32,057
+had some discussions about is the best
+example that I've seen so far to press you
+
+22
+00:01:32,057 --> 00:01:36,799
+to think about What gamification could
+mean if it truly became universal?
+
+23
+00:01:36,799 --> 00:01:41,724
+And so I'm going to, with the permission
+of the filmmakers, have you watch the
+
+24
+00:01:41,724 --> 00:01:44,858
+video now.
+If you've already seen it you can feel
+
+25
+00:01:44,858 --> 00:01:48,312
+free to skip through it in this video
+lecture section.
+
+26
+00:01:48,312 --> 00:01:52,196
+But, keep in mind.
+The film will be the basis of several of
+
+27
+00:01:52,196 --> 00:01:57,108
+the questions on your final exam.
+So you might want to look at it before
+
+28
+00:01:57,108 --> 00:02:01,760
+during taking that as well.
+So without further ado, Sight.
+
+29
+00:02:16,524 --> 00:02:36,313
+Excellent.
+.
+
+30
+00:02:36,313 --> 00:02:38,980
+Perfect.
+.
+
+31
+00:02:38,980 --> 00:02:48,195
+Good job.
+Excellent.
+
+32
+00:02:48,195 --> 00:02:56,527
+Well done.
+Level complete.
+
+33
+00:02:57,220 --> 00:03:47,710
+, Welcome, .
+.
+
+34
+00:03:49,236 --> 00:03:57,840
+Snail zombies, from your, backyard.
+Life is a journey.
+
+35
+00:03:57,840 --> 00:04:07,971
+And in this journey, we all want to do
+more, experience more, feel more, and
+
+36
+00:04:07,971 --> 00:04:14,216
+live, with no boundaries.
+And why shouldn't we?
+
+37
+00:04:14,216 --> 00:04:21,710
+Sight System presents, SiteSync.
+Feel free, to go anywhere.
+
+38
+00:04:24,970 --> 00:04:35,216
+Okay, got you.
+Oh, hi, hi, Daphne how are you?
+
+39
+00:04:35,216 --> 00:04:39,641
+Sorry.
+It's okay.
+
+40
+00:04:40,340 --> 00:04:46,860
+You look great.
+Thank you.
+
+41
+00:04:49,422 --> 00:04:55,710
+Love your jacket.
+Thanks.
+
+42
+00:04:55,943 --> 00:05:01,467
+Actually it's, it's a sports jacket.
+So that's official than it looks.
+
+43
+00:05:01,700 --> 00:05:03,723
+What do you mean?
+Sorry.
+
+44
+00:05:03,957 --> 00:05:08,858
+What's the difference between a sports
+jacket and a normal one?
+
+45
+00:05:09,325 --> 00:05:15,627
+I guess the sports jacket is for people
+who want to look good even when they are
+
+46
+00:05:15,627 --> 00:05:18,506
+chased by the police.
+[laugh] Yeah.
+
+47
+00:05:18,739 --> 00:05:21,540
+Anyway I hope you're hungry.
+Yeah.
+
+48
+00:05:21,774 --> 00:05:27,375
+This place has the best burgers in town.
+Oh, actually I'm a vegetarian.
+
+49
+00:05:27,609 --> 00:05:28,465
+Oh.
+Yeah.
+
+50
+00:05:28,698 --> 00:05:33,460
+Really cause.
+You didn't say it on your profiles though.
+
+51
+00:05:33,710 --> 00:05:37,543
+Wow, I don't write everything on my
+profile, so.
+
+52
+00:05:37,793 --> 00:05:40,543
+Oh.
+You want to go somewhere else?
+
+53
+00:05:40,793 --> 00:05:44,210
+No, no, no, I'll find something on the
+menu.
+
+54
+00:05:44,460 --> 00:05:48,126
+Well how about a glass of wine for
+starters?
+
+55
+00:05:48,376 --> 00:05:53,126
+Yeah, great.
+Are there any other things on your profile
+
+56
+00:05:53,126 --> 00:05:56,876
+you didn't write about that I should know
+or?
+
+57
+00:05:57,126 --> 00:06:01,543
+Aren't you scared of jogging by yourself
+in the city?
+
+58
+00:06:01,793 --> 00:06:03,710
+Not really.
+Besides I'm?
+
+59
+00:06:03,928 --> 00:06:08,223
+I hit level five and now I'm a master.
+Pretty impressive.
+
+60
+00:06:08,442 --> 00:06:12,155
+I know.
+[laugh] what is scarey though, on my last
+
+61
+00:06:12,155 --> 00:06:14,994
+route, my site crashed.
+It was so scarey.
+
+62
+00:06:14,994 --> 00:06:18,635
+I didn't see anything, I couldn't find my
+way home.
+
+63
+00:06:18,853 --> 00:06:21,620
+The site doesn't crash.
+Well it did.
+
+64
+00:06:21,620 --> 00:06:24,605
+I was totally lost.
+I didn't see anything.
+
+65
+00:06:24,823 --> 00:06:30,211
+That doesn't happen since our last pack.
+Do you work there or something?
+
+66
+00:06:30,211 --> 00:06:31,011
+Really?
+Wow!
+
+67
+00:06:31,011 --> 00:06:35,234
+What do you do there?
+Nothing serious, I'm just a simple
+
+68
+00:06:35,234 --> 00:06:37,710
+engineer.
+Gee, I read about your.
+
+69
+00:06:38,029 --> 00:06:45,703
+Is it true that you guys and implant stuff
+and manipulate people sights?
+
+70
+00:06:45,703 --> 00:06:56,362
+[laugh] That's just bullshit, but anyway I
+don't want to talk about work, not when
+
+71
+00:06:56,362 --> 00:07:04,782
+I'm here with such a pretty lady.
+[laugh] You know you really get me.
+
+72
+00:07:05,101 --> 00:07:10,644
+You know I can tell what you are thinking
+right now.
+
+73
+00:07:10,963 --> 00:07:12,837
+Really.
+But.
+
+74
+00:07:13,321 --> 00:07:25,084
+Well finished our drinks.
+[laugh] How about we go to my place for a
+
+75
+00:07:25,084 --> 00:07:33,785
+night cap.
+Well, you were so good at reading my mind,
+
+76
+00:07:33,785 --> 00:07:42,164
+you should know what I'm going to say.
+Here it is.
+
+77
+00:07:42,164 --> 00:07:48,120
+Make yourself at home.
+.
+
+78
+00:07:48,777 --> 00:08:00,389
+Nice place you've got here.
+It's all right I guess.
+
+79
+00:08:01,047 --> 00:08:05,126
+A toast.
+For perfect night.
+
+80
+00:08:05,126 --> 00:08:11,626
+.
+Why are you drinking?
+
+81
+00:08:11,932 --> 00:08:14,480
+What's that?
+A dating app?
+
+82
+00:08:14,786 --> 00:08:18,456
+No, no, no, no.
+It's for programming.
+
+83
+00:08:18,762 --> 00:08:24,776
+I cannot believe this.
+This is just my luck, a freaking game
+
+84
+00:08:24,776 --> 00:08:26,611
+junkie.
+Disgusting.
+
+85
+00:08:26,917 --> 00:08:27,937
+Wait.
+Wait.
+
+86
+00:08:28,242 --> 00:08:31,810
+Do not touch me, you freak.
+Pathetic.
+
+87
+00:08:32,116 --> 00:08:39,816
+I said, wait.
+.
+
+88
+00:08:39,816 --> 00:09:07,340
+Well let's try this again.
+.
+
+89
+00:09:07,340 --> 00:09:44,820
+,, .

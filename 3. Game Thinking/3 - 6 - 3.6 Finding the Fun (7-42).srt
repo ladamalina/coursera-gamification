@@ -1,0 +1,434 @@
+
+1
+00:00:00,000 --> 00:00:06,031
+You can find fun in unexpected places. So,
+here's a few examples about how to gamify
+
+2
+00:00:06,031 --> 00:00:12,025
+things that might not necessarily seem
+like great candidates. Volkswagen had a
+
+3
+00:00:12,025 --> 00:00:18,034
+wonderful campaign called The Fun Theory,
+and I've already given you one example
+
+4
+00:00:18,034 --> 00:00:23,017
+from that contest. The winning entry
+called the speed camera lottery. Where
+
+5
+00:00:23,017 --> 00:00:28,039
+people would drive by a camera and if you
+weren't speeding you'd automatically be
+
+6
+00:00:28,039 --> 00:00:33,073
+entered into a lottery and win some of the
+money collected from the people who were
+
+7
+00:00:33,073 --> 00:00:38,074
+speeding. But that competition that
+Volkswagen did had a variety of other
+
+8
+00:00:38,074 --> 00:00:44,035
+entries as well as some examples that
+Volkswagen themselves came up with through
+
+9
+00:00:44,035 --> 00:00:49,082
+their marketing agency. So I'd like to ask
+you to go and look at the fun theory
+
+10
+00:00:49,082 --> 00:00:55,001
+website and check out some of the
+examples. In particular, look at the piano
+
+11
+00:00:55,001 --> 00:01:00,083
+stairs, where they created a playing piano
+on the steps coming up from a subway stop
+
+12
+00:01:00,083 --> 00:01:06,044
+and the fact that you could walk up and
+play the piano was so fun that many more
+
+13
+00:01:06,044 --> 00:01:11,519
+people chose to do that as opposed to take
+the escalator next to it, good for those
+
+14
+00:01:11,519 --> 00:01:17,613
+people. They get more exercise because
+they're having fun. Or the world's deepest
+
+15
+00:01:17,613 --> 00:01:23,219
+trashcan where they instrumented an
+ordinary trashcan with sensors so that
+
+16
+00:01:23,219 --> 00:01:28,942
+when you threw some trash in it, you'd
+hear a sound [sound]. [sound] As though it
+
+17
+00:01:28,942 --> 00:01:34,411
+was a deep cavern that you were throwing
+something into. Again, people found that
+
+18
+00:01:34,411 --> 00:01:40,077
+kind of fun, and they were curious about
+it, and that fact alone encouraged more
+
+19
+00:01:40,077 --> 00:01:45,446
+people to throw their trash into the trash
+can. Good result. So go look at the Fun
+
+20
+00:01:45,446 --> 00:01:51,103
+Theory website, and try to familiarize
+yourself with some of the different ways
+
+21
+00:01:51,103 --> 00:01:57,466
+to make fun that don't obviously seem like
+they're good candidates. I'd like to give
+
+22
+00:01:57,466 --> 00:02:03,281
+you one other example and this is
+something that may seem so basic and
+
+23
+00:02:03,281 --> 00:02:08,897
+simple, and dull frankly that it wouldn't
+lend itself to fun but it was a case where
+
+24
+00:02:08,897 --> 00:02:14,554
+a little bit of game thinking went a long
+way to generating real business results.
+
+25
+00:02:14,554 --> 00:02:20,337
+And it comes from LinkedIn, the business
+social networking site. So on LinkedIn you
+
+26
+00:02:20,337 --> 00:02:25,030
+fill out a profile. Y ou describe your job
+history, your employment, your skills.
+
+27
+00:02:25,030 --> 00:02:29,038
+There's places where you can put in
+references from other people. And, all
+
+28
+00:02:29,038 --> 00:02:33,696
+sorts of details that are relevant to
+understanding your capabilities for jobs
+
+29
+00:02:33,696 --> 00:02:38,531
+or other business opportunities. It's
+important to LinkedIn that you fill in
+
+30
+00:02:38,531 --> 00:02:42,909
+your profile as completely as possible.
+First of all that means you're more
+
+31
+00:02:42,909 --> 00:02:47,336
+committed to the site. And you may go for
+some of their paid services. Second of
+
+32
+00:02:47,336 --> 00:02:52,225
+all, it makes it easy for other people to
+find you and search on you, and therefore
+
+33
+00:02:52,225 --> 00:02:57,257
+makes it easier for you to network and get
+some of the benefits that LinkedIn wants
+
+34
+00:02:57,257 --> 00:03:02,024
+you to get as a way of selling you, again,
+their various kinds of services. And
+
+35
+00:03:02,024 --> 00:03:06,781
+finally, more data means more that
+LinkedIn can search and analyze in order
+
+36
+00:03:06,781 --> 00:03:11,874
+to understand patterns in their users and
+target you more effectively. So they want
+
+37
+00:03:11,874 --> 00:03:16,408
+you to fill in the profile in every
+possible detail. But, filling out profiles
+
+38
+00:03:16,408 --> 00:03:21,134
+is pretty boring. Hard to think about how
+to make that fun. Linkedin though, came up
+
+39
+00:03:21,134 --> 00:03:26,019
+with a way and it's not the way that you
+might think in terms of creating some
+
+40
+00:03:26,019 --> 00:03:31,002
+profile game where you get points and
+badges for filling out your profile, nope.
+
+41
+00:03:31,002 --> 00:03:36,258
+It was something much simpler. It was
+this, the profile completeness bar. Took
+
+42
+00:03:36,258 --> 00:03:42,214
+about an hour for someone to code and
+putting into the Linkedin system and it's
+
+43
+00:03:42,214 --> 00:03:47,600
+pretty simple. It just says here's how
+much of your profile you filled out. In
+
+44
+00:03:47,600 --> 00:03:53,580
+this case, 90 percent and here's some
+advice about how to fill it out more. Now
+
+45
+00:03:53,580 --> 00:04:00,005
+is that a game? No, not really. It doesn't
+have the kinds of rules and the kinds of
+
+46
+00:04:00,005 --> 00:04:06,097
+objectives that we might think of as game.
+It's also just so simple that no one would
+
+47
+00:04:06,097 --> 00:04:11,414
+really say, you are going to sit sown and
+play the profile bar completion game
+
+48
+00:04:11,414 --> 00:04:17,390
+against someone else or against yourself.
+It's just not that interesting. But it's a
+
+49
+00:04:17,390 --> 00:04:22,563
+little bit fun. It's a little bit
+game-like, and just enough to encourage
+
+50
+00:04:22,563 --> 00:04:28,088
+people in meaningful ways to fill out
+their profiles more. Because it turns out
+
+51
+00:04:28,088 --> 00:04:33,991
+that when LinkedIn put this profile bar
+in, this very simple little [inaudible]
+
+52
+00:04:33,991 --> 00:04:39,645
+feature change that they added to their
+service, profile completeness went up by
+
+53
+00:04:39,645 --> 00:04:45,116
+twenty%. A material increase in the amount
+of data people were putting in just from
+
+54
+00:04:45,116 --> 00:04:50,384
+this little progress bar. So, what is it
+about the progress bar that's at all
+
+55
+00:04:50,384 --> 00:04:55,521
+gamelike and that gets people to respond?
+Well, here's a few things that I might
+
+56
+00:04:55,521 --> 00:05:00,482
+point out. The first thing is feedback.
+So, the progress bar tells you how far
+
+57
+00:05:00,482 --> 00:05:04,977
+along you are. Before you just saw your
+profile where it was. However much you
+
+58
+00:05:04,977 --> 00:05:09,201
+filled out. Maybe there were some things
+that were blank. But now all of a sudden
+
+59
+00:05:09,201 --> 00:05:12,977
+you see, "I'm, 90 percent of the way
+there." And, when you fill out something
+
+60
+00:05:12,977 --> 00:05:17,420
+else. When I get the other recommendation
+I'm gonna see 95 percent there. And the
+
+61
+00:05:17,420 --> 00:05:22,124
+bar will move a little bit further towards
+the edge. Immediate real-time feedback
+
+62
+00:05:22,124 --> 00:05:26,559
+about performance. Very common and
+important aspect of games. Here, feedback
+
+63
+00:05:26,559 --> 00:05:31,349
+just gives you a number, gives you some
+information, doesn't enforce you to do
+
+64
+00:05:31,349 --> 00:05:35,502
+anything with it. But that's
+psychologically creates a dynamic that
+
+65
+00:05:35,502 --> 00:05:41,130
+makes people more likely to progress. And
+that's the second aspect of what the bar
+
+66
+00:05:41,130 --> 00:05:47,168
+does. It creates a sense of progression.
+So now we're no longer just talking about
+
+67
+00:05:47,168 --> 00:05:52,363
+entering data, filling out forms. We're
+now talking about moving from the
+
+68
+00:05:52,363 --> 00:05:57,630
+beginning to the end of a process. And
+that there are various little things that
+
+69
+00:05:57,630 --> 00:06:03,189
+we can do that are steps along the way.
+It's not just start with nothing and end
+
+70
+00:06:03,189 --> 00:06:08,471
+up complete. It's a process of moving
+forward of completing this objective. So
+
+71
+00:06:08,471 --> 00:06:14,138
+even though nothing in the profile bar is
+expressly telling you that and even though
+
+72
+00:06:14,138 --> 00:06:19,587
+no one would say "yes, I am excited about
+achieving the objective or progressing to
+
+73
+00:06:19,587 --> 00:06:24,208
+the end of the profile bar" there's that
+little pole, there's that little
+
+74
+00:06:24,208 --> 00:06:29,329
+psychological draw of wanting to progress
+to the end of the game and that's the
+
+75
+00:06:29,329 --> 00:06:34,616
+final point completion. We know now how
+far we are from the end and in this case I
+
+76
+00:06:34,616 --> 00:06:40,611
+am pretty close, look here's all it's left
+for me to get to 100%, is this little bit
+
+77
+00:06:40,611 --> 00:06:46,553
+at the end of the bar. We like completion.
+We like neatness. We like finishing up a
+
+78
+00:06:46,553 --> 00:06:52,147
+collection. It's something that, again,
+psychologically we're wired to want to do.
+
+79
+00:06:52,147 --> 00:06:58,041
+And seeing visually, in a simple way, how
+close we are to the end, again, just draws
+
+80
+00:06:58,041 --> 00:07:04,256
+us along subtly and imperceptibly to want
+to reach that objective. So this LinkedIn
+
+81
+00:07:04,256 --> 00:07:09,499
+progress bar, as simple as it was, as
+trivial as it may seem was enough to
+
+82
+00:07:09,499 --> 00:07:15,086
+actually drive real results. And that's
+what gamification does. It doesn't require
+
+83
+00:07:15,086 --> 00:07:20,918
+you to create an environment where people
+are enthralled, where they are totally
+
+84
+00:07:20,918 --> 00:07:26,969
+focused in, that this is the most exciting
+thing in their life. Hey, it's great when
+
+85
+00:07:26,969 --> 00:07:32,467
+you can do that. But gamification is about
+finding the fun, finding the game-like
+
+86
+00:07:32,467 --> 00:07:38,230
+aspects wherever they are, and using them
+to create an environment that moves people
+
+87
+00:07:38,230 --> 00:07:41,075
+a little bit more towards an objective.
